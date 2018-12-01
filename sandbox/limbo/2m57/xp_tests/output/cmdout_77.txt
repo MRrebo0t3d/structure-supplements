@@ -1,0 +1,3781 @@
+Nfix 6241
+	Line being read  ====  assi ( resid 1 and name O5' )
+
+	Line being read  ====       ( resid 1 and name C5' )
+
+	Line being read  ====       ( resid 1 and name C4' )
+
+	Line being read  ====       ( resid 1 and name C3' )  1.0  47.00  10.0 2
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 1 and name C4' )
+
+["1.O5'", "1.C5'", "1.C4'", "1.C3'"]
+	Line being read  ====       ( resid 1 and name C3' )
+
+	Line being read  ====       ( resid 1 and name O3' )
+
+	Line being read  ====       ( resid 2 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 1 and name C3' )
+
+["1.C4'", "1.C3'", "1.O3'", '2.P']
+	Line being read  ====       ( resid 1 and name O3' )
+
+	Line being read  ====       ( resid 2 and name P  )
+
+	Line being read  ====       ( resid 2 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 1 and name O3' )
+
+["1.C3'", "1.O3'", '2.P', "2.O5'"]
+	Line being read  ====       ( resid 2 and name P  )
+
+	Line being read  ====       ( resid 2 and name O5' )
+
+	Line being read  ====       ( resid 2 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 2 and name P  )
+
+["1.O3'", '2.P', "2.O5'", "2.C5'"]
+	Line being read  ====       ( resid 2 and name O5' )
+
+	Line being read  ====       ( resid 2 and name C5' )
+
+	Line being read  ====       ( resid 2 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 2 and name O5' )
+
+['2.P', "2.O5'", "2.C5'", "2.C4'"]
+	Line being read  ====       ( resid 2 and name C5' )
+
+	Line being read  ====       ( resid 2 and name C4' )
+
+	Line being read  ====       ( resid 2 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 2 and name C4' )
+
+["2.O5'", "2.C5'", "2.C4'", "2.C3'"]
+	Line being read  ====       ( resid 2 and name C3' )
+
+	Line being read  ====       ( resid 2 and name O3' )
+
+	Line being read  ====       ( resid 3 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 2 and name C3' )
+
+["2.C4'", "2.C3'", "2.O3'", '3.P']
+	Line being read  ====       ( resid 2 and name O3' )
+
+	Line being read  ====       ( resid 3 and name P  )
+
+	Line being read  ====       ( resid 3 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 2 and name O3' )
+
+["2.C3'", "2.O3'", '3.P', "3.O5'"]
+	Line being read  ====       ( resid 3 and name P  )
+
+	Line being read  ====       ( resid 3 and name O5' )
+
+	Line being read  ====       ( resid 3 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 3 and name P  )
+
+["2.O3'", '3.P', "3.O5'", "3.C5'"]
+	Line being read  ====       ( resid 3 and name O5' )
+
+	Line being read  ====       ( resid 3 and name C5' )
+
+	Line being read  ====       ( resid 3 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 3 and name O5' )
+
+['3.P', "3.O5'", "3.C5'", "3.C4'"]
+	Line being read  ====       ( resid 3 and name C5' )
+
+	Line being read  ====       ( resid 3 and name C4' )
+
+	Line being read  ====       ( resid 3 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 3 and name C3' )
+
+["3.O5'", "3.C5'", "3.C4'", "3.C3'"]
+	Line being read  ====       ( resid 3 and name O3' )
+
+	Line being read  ====       ( resid 4 and name P  )
+
+	Line being read  ====       ( resid 4 and name O5' )  1.0  0.0  120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 3 and name O3' )
+
+["3.C3'", "3.O3'", '4.P', "4.O5'"]
+	Line being read  ====       ( resid 4 and name P  )
+
+	Line being read  ====       ( resid 4 and name O5' )
+
+	Line being read  ====       ( resid 4 and name C5' )  1.0  0.0  120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 4 and name C3' )
+
+["3.O3'", '4.P', "4.O5'", "4.C5'"]
+	Line being read  ====       ( resid 4 and name O3' )
+
+	Line being read  ====       ( resid 5 and name P  )
+
+	Line being read  ====       ( resid 5 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 4 and name O3' )
+
+["4.C3'", "4.O3'", '5.P', "5.O5'"]
+	Line being read  ====       ( resid 5 and name P  )
+
+	Line being read  ====       ( resid 5 and name O5' )
+
+	Line being read  ====       ( resid 5 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====         
+
+	Line being read  ====  assi ( resid 5 and name O5' )
+
+["4.O3'", '5.P', "5.O5'", "5.C5'"]
+	Line being read  ====       ( resid 5 and name C5' )
+
+	Line being read  ====       ( resid 5 and name C4' )
+
+	Line being read  ====       ( resid 5 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 5 and name C4' )
+
+["5.O5'", "5.C5'", "5.C4'", "5.C3'"]
+	Line being read  ====       ( resid 5 and name C3' )
+
+	Line being read  ====       ( resid 5 and name O3' )
+
+	Line being read  ====       ( resid 6 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 5 and name C3' )
+
+["5.C4'", "5.C3'", "5.O3'", '6.P']
+	Line being read  ====       ( resid 5 and name O3' )
+
+	Line being read  ====       ( resid 6 and name P  )
+
+	Line being read  ====       ( resid 6 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 5 and name O3' )
+
+["5.C3'", "5.O3'", '6.P', "6.O5'"]
+	Line being read  ====       ( resid 6 and name P  )
+
+	Line being read  ====       ( resid 6 and name O5' )
+
+	Line being read  ====       ( resid 6 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 6 and name P  )
+
+["5.O3'", '6.P', "6.O5'", "6.C5'"]
+	Line being read  ====       ( resid 6 and name O5' )
+
+	Line being read  ====       ( resid 6 and name C5' )
+
+	Line being read  ====       ( resid 6 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 6 and name O5' )
+
+['6.P', "6.O5'", "6.C5'", "6.C4'"]
+	Line being read  ====       ( resid 6 and name C5' )
+
+	Line being read  ====       ( resid 6 and name C4' )
+
+	Line being read  ====       ( resid 6 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 6 and name C4' )
+
+["6.O5'", "6.C5'", "6.C4'", "6.C3'"]
+	Line being read  ====       ( resid 6 and name C3' )
+
+	Line being read  ====       ( resid 6 and name O3' )
+
+	Line being read  ====       ( resid 7 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 6 and name C3' )
+
+["6.C4'", "6.C3'", "6.O3'", '7.P']
+	Line being read  ====       ( resid 6 and name O3' )
+
+	Line being read  ====       ( resid 7 and name P  )
+
+	Line being read  ====       ( resid 7 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 6 and name O3' )
+
+["6.C3'", "6.O3'", '7.P', "7.O5'"]
+	Line being read  ====       ( resid 7 and name P  )
+
+	Line being read  ====       ( resid 7 and name O5' )
+
+	Line being read  ====       ( resid 7 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 7 and name P  )
+
+["6.O3'", '7.P', "7.O5'", "7.C5'"]
+	Line being read  ====       ( resid 7 and name O5' )
+
+	Line being read  ====       ( resid 7 and name C5' )
+
+	Line being read  ====       ( resid 7 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 7 and name O5' )
+
+['7.P', "7.O5'", "7.C5'", "7.C4'"]
+	Line being read  ====       ( resid 7 and name C5' )
+
+	Line being read  ====       ( resid 7 and name C4' )
+
+	Line being read  ====       ( resid 7 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 7 and name C4' )
+
+["7.O5'", "7.C5'", "7.C4'", "7.C3'"]
+	Line being read  ====       ( resid 7 and name C3' )
+
+	Line being read  ====       ( resid 7 and name O3' )
+
+	Line being read  ====       ( resid 8 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 7 and name C3' )
+
+["7.C4'", "7.C3'", "7.O3'", '8.P']
+	Line being read  ====       ( resid 7 and name O3' )
+
+	Line being read  ====       ( resid 8 and name P  )
+
+	Line being read  ====       ( resid 8 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 7 and name O3' )
+
+["7.C3'", "7.O3'", '8.P', "8.O5'"]
+	Line being read  ====       ( resid 8 and name P  )
+
+	Line being read  ====       ( resid 8 and name O5' )
+
+	Line being read  ====       ( resid 8 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 8 and name P  )
+
+["7.O3'", '8.P', "8.O5'", "8.C5'"]
+	Line being read  ====       ( resid 8 and name O5' )
+
+	Line being read  ====       ( resid 8 and name C5' )
+
+	Line being read  ====       ( resid 8 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 8 and name O5' )
+
+['8.P', "8.O5'", "8.C5'", "8.C4'"]
+	Line being read  ====       ( resid 8 and name C5' )
+
+	Line being read  ====       ( resid 8 and name C4' )
+
+	Line being read  ====       ( resid 8 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 8 and name C4' )
+
+["8.O5'", "8.C5'", "8.C4'", "8.C3'"]
+	Line being read  ====       ( resid 8 and name C3' )
+
+	Line being read  ====       ( resid 8 and name O3' )
+
+	Line being read  ====       ( resid 9 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 8 and name C3' )
+
+["8.C4'", "8.C3'", "8.O3'", '9.P']
+	Line being read  ====       ( resid 8 and name O3' )
+
+	Line being read  ====       ( resid 9 and name P  )
+
+	Line being read  ====       ( resid 9 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 8 and name O3' )
+
+["8.C3'", "8.O3'", '9.P', "9.O5'"]
+	Line being read  ====       ( resid 9 and name P  )
+
+	Line being read  ====       ( resid 9 and name O5' )
+
+	Line being read  ====       ( resid 9 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 9 and name P  )
+
+["8.O3'", '9.P', "9.O5'", "9.C5'"]
+	Line being read  ====       ( resid 9 and name O5' )
+
+	Line being read  ====       ( resid 9 and name C5' )
+
+	Line being read  ====       ( resid 9 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 9 and name O5' )
+
+	Line being read  ====  !     ( resid 9 and name C5' )
+
+	Line being read  ====  !     ( resid 9 and name C4' )
+
+	Line being read  ====  !     ( resid 9 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 9 and name C4' )
+
+	Line being read  ====  !     ( resid 9 and name C3' )
+
+	Line being read  ====  !     ( resid 9 and name O3' )
+
+	Line being read  ====  !     ( resid 10 and name P  )  1.0  -151.7  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 9 and name C3' )
+
+['9.P', "9.O5'", "9.C5'", "9.C4'"]
+	Line being read  ====       ( resid 9 and name O3' )
+
+	Line being read  ====       ( resid 10 and name P  )
+
+	Line being read  ====       ( resid 10 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 9 and name O3' )
+
+["9.C3'", "9.O3'", '10.P', "10.O5'"]
+	Line being read  ====       ( resid 10 and name P  )
+
+	Line being read  ====       ( resid 10 and name O5' )
+
+	Line being read  ====       ( resid 10 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  !assi ( resid 10 and name P  )
+
+	Line being read  ====  !     ( resid 10 and name O5' )
+
+	Line being read  ====  !     ( resid 10 and name C5' )
+
+	Line being read  ====  !     ( resid 10 and name C4' )  1.0  -179.9  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 10 and name O5' )
+
+	Line being read  ====  !     ( resid 10 and name C5' )
+
+	Line being read  ====  !     ( resid 10 and name C4' )
+
+	Line being read  ====  !     ( resid 10 and name C3' )  1.0  47.44  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  !assi ( resid 10 and name C4' )
+
+	Line being read  ====  !     ( resid 10 and name C3' )
+
+	Line being read  ====  !     ( resid 10 and name O3' )
+
+	Line being read  ====  !     ( resid 11 and name P  )  1.0  -151.7  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 10 and name C3' )
+
+["9.O3'", '10.P', "10.O5'", "10.C5'"]
+	Line being read  ====       ( resid 10 and name O3' )
+
+	Line being read  ====       ( resid 11 and name P  )
+
+	Line being read  ====       ( resid 11 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 10 and name O3' )
+
+["10.C3'", "10.O3'", '11.P', "11.O5'"]
+	Line being read  ====       ( resid 11 and name P  )
+
+	Line being read  ====       ( resid 11 and name O5' )
+
+	Line being read  ====       ( resid 11 and name C5' )  1.0  0.0  120.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 11 and name P  )
+
+["10.O3'", '11.P', "11.O5'", "11.C5'"]
+	Line being read  ====       ( resid 11 and name O5' )
+
+	Line being read  ====       ( resid 11 and name C5' )
+
+	Line being read  ====       ( resid 11 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 11 and name O5' )
+
+['11.P', "11.O5'", "11.C5'", "11.C4'"]
+	Line being read  ====       ( resid 11 and name C5' )
+
+	Line being read  ====       ( resid 11 and name C4' )
+
+	Line being read  ====       ( resid 11 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 11 and name C4' )
+
+["11.O5'", "11.C5'", "11.C4'", "11.C3'"]
+	Line being read  ====       ( resid 11 and name C3' )
+
+	Line being read  ====       ( resid 11 and name O3' )
+
+	Line being read  ====       ( resid 12 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 11 and name C3' )
+
+["11.C4'", "11.C3'", "11.O3'", '12.P']
+	Line being read  ====       ( resid 11 and name O3' )
+
+	Line being read  ====       ( resid 12 and name P  )
+
+	Line being read  ====       ( resid 12 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 11 and name O3' )
+
+["11.C3'", "11.O3'", '12.P', "12.O5'"]
+	Line being read  ====       ( resid 12 and name P  )
+
+	Line being read  ====       ( resid 12 and name O5' )
+
+	Line being read  ====       ( resid 12 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 12 and name P  )
+
+["11.O3'", '12.P', "12.O5'", "12.C5'"]
+	Line being read  ====       ( resid 12 and name O5' )
+
+	Line being read  ====       ( resid 12 and name C5' )
+
+	Line being read  ====       ( resid 12 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 12 and name O5' )
+
+['12.P', "12.O5'", "12.C5'", "12.C4'"]
+	Line being read  ====       ( resid 12 and name C5' )
+
+	Line being read  ====       ( resid 12 and name C4' )
+
+	Line being read  ====       ( resid 12 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 12 and name C4' )
+
+["12.O5'", "12.C5'", "12.C4'", "12.C3'"]
+	Line being read  ====       ( resid 12 and name C3' )
+
+	Line being read  ====       ( resid 12 and name O3' )
+
+	Line being read  ====       ( resid 13 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 12 and name C3' )
+
+["12.C4'", "12.C3'", "12.O3'", '13.P']
+	Line being read  ====       ( resid 12 and name O3' )
+
+	Line being read  ====       ( resid 13 and name P  )
+
+	Line being read  ====       ( resid 13 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 12 and name O3' )
+
+["12.C3'", "12.O3'", '13.P', "13.O5'"]
+	Line being read  ====       ( resid 13 and name P  )
+
+	Line being read  ====       ( resid 13 and name O5' )
+
+	Line being read  ====       ( resid 13 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 13 and name P  )
+
+["12.O3'", '13.P', "13.O5'", "13.C5'"]
+	Line being read  ====       ( resid 13 and name O5' )
+
+	Line being read  ====       ( resid 13 and name C5' )
+
+	Line being read  ====       ( resid 13 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 13 and name O5' )
+
+['13.P', "13.O5'", "13.C5'", "13.C4'"]
+	Line being read  ====       ( resid 13 and name C5' )
+
+	Line being read  ====       ( resid 13 and name C4' )
+
+	Line being read  ====       ( resid 13 and name C3' )  1.0  47.00  10.0 2  
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 13 and name C4' )
+
+["13.O5'", "13.C5'", "13.C4'", "13.C3'"]
+	Line being read  ====       ( resid 13 and name C3' )
+
+	Line being read  ====       ( resid 13 and name O3' )
+
+	Line being read  ====       ( resid 14 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 13 and name C3' )
+
+["13.C4'", "13.C3'", "13.O3'", '14.P']
+	Line being read  ====       ( resid 13 and name O3' )
+
+	Line being read  ====       ( resid 14 and name P  )
+
+	Line being read  ====       ( resid 14 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====          
+
+	Line being read  ====  assi ( resid 13 and name O3' )
+
+["13.C3'", "13.O3'", '14.P', "14.O5'"]
+	Line being read  ====       ( resid 14 and name P  )
+
+	Line being read  ====       ( resid 14 and name O5' )
+
+	Line being read  ====       ( resid 14 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 14 and name P  )
+
+["13.O3'", '14.P', "14.O5'", "14.C5'"]
+	Line being read  ====       ( resid 14 and name O5' )
+
+	Line being read  ====       ( resid 14 and name C5' )
+
+	Line being read  ====       ( resid 14 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 14 and name O5' )
+
+['14.P', "14.O5'", "14.C5'", "14.C4'"]
+	Line being read  ====       ( resid 14 and name C5' )
+
+	Line being read  ====       ( resid 14 and name C4' )
+
+	Line being read  ====       ( resid 14 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 14 and name C3' )
+
+["14.O5'", "14.C5'", "14.C4'", "14.C3'"]
+	Line being read  ====       ( resid 14 and name O3' )
+
+	Line being read  ====       ( resid 15 and name P  )
+
+	Line being read  ====       ( resid 15 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====          
+
+	Line being read  ====  assi ( resid 14 and name O3' )
+
+["14.C3'", "14.O3'", '15.P', "15.O5'"]
+	Line being read  ====       ( resid 15 and name P  )
+
+	Line being read  ====       ( resid 15 and name O5' )
+
+	Line being read  ====       ( resid 15 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 15 and name P  )
+
+["14.O3'", '15.P', "15.O5'", "15.C5'"]
+	Line being read  ====       ( resid 15 and name O5' )
+
+	Line being read  ====       ( resid 15 and name C5' )
+
+	Line being read  ====       ( resid 15 and name C4' )  1.0  180.0  60.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 15 and name O5' )
+
+['15.P', "15.O5'", "15.C5'", "15.C4'"]
+	Line being read  ====       ( resid 15 and name C5' )
+
+	Line being read  ====       ( resid 15 and name C4' )
+
+	Line being read  ====       ( resid 15 and name C3' )  1.0  -10.0  110.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 15 and name C3' )
+
+["15.O5'", "15.C5'", "15.C4'", "15.C3'"]
+	Line being read  ====       ( resid 15 and name O3' )
+
+	Line being read  ====       ( resid 16 and name P  )
+
+	Line being read  ====       ( resid 16 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====          
+
+	Line being read  ====  assi ( resid 15 and name O3' )
+
+["15.C3'", "15.O3'", '16.P', "16.O5'"]
+	Line being read  ====       ( resid 16 and name P  )
+
+	Line being read  ====       ( resid 16 and name O5' )
+
+	Line being read  ====       ( resid 16 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 16 and name P  )
+
+["15.O3'", '16.P', "16.O5'", "16.C5'"]
+	Line being read  ====       ( resid 16 and name O5' )
+
+	Line being read  ====       ( resid 16 and name C5' )
+
+	Line being read  ====       ( resid 16 and name C4' )  1.0  180.0  60.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 16 and name O5' )
+
+['16.P', "16.O5'", "16.C5'", "16.C4'"]
+	Line being read  ====       ( resid 16 and name C5' )
+
+	Line being read  ====       ( resid 16 and name C4' )
+
+	Line being read  ====       ( resid 16 and name C3' )  1.0  -10.0  110.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 16 and name C3' )
+
+["16.O5'", "16.C5'", "16.C4'", "16.C3'"]
+	Line being read  ====      ( resid 16 and name O3' )
+
+	Line being read  ====      ( resid 17 and name P  )
+
+	Line being read  ====      ( resid 17 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====         
+
+	Line being read  ====  assi ( resid 16 and name O3' )
+
+["16.C3'", "16.O3'", '17.P', "17.O5'"]
+	Line being read  ====       ( resid 17 and name P  )
+
+	Line being read  ====       ( resid 17 and name O5' )
+
+	Line being read  ====       ( resid 17 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 17 and name P  )
+
+["16.O3'", '17.P', "17.O5'", "17.C5'"]
+	Line being read  ====       ( resid 17 and name O5' )
+
+	Line being read  ====       ( resid 17 and name C5' )
+
+	Line being read  ====       ( resid 17 and name C4' )  1.0  180.0  60.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 17 and name C3' )
+
+['17.P', "17.O5'", "17.C5'", "17.C4'"]
+	Line being read  ====       ( resid 17 and name O3' )
+
+	Line being read  ====       ( resid 18 and name P  )
+
+	Line being read  ====       ( resid 18 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====          
+
+	Line being read  ====  assi ( resid 17 and name O3' )
+
+["17.C3'", "17.O3'", '18.P', "18.O5'"]
+	Line being read  ====       ( resid 18 and name P  )
+
+	Line being read  ====       ( resid 18 and name O5' )
+
+	Line being read  ====       ( resid 18 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 18 and name P  )
+
+["17.O3'", '18.P', "18.O5'", "18.C5'"]
+	Line being read  ====       ( resid 18 and name O5' )
+
+	Line being read  ====       ( resid 18 and name C5' )
+
+	Line being read  ====       ( resid 18 and name C4' )  1.0  180.0  60.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 18 and name O5' )
+
+['18.P', "18.O5'", "18.C5'", "18.C4'"]
+	Line being read  ====       ( resid 18 and name C5' )
+
+	Line being read  ====       ( resid 18 and name C4' )
+
+	Line being read  ====       ( resid 18 and name C3' )  1.0  -10.0  110.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 18 and name C3' )
+
+["18.O5'", "18.C5'", "18.C4'", "18.C3'"]
+	Line being read  ====       ( resid 18 and name O3' )
+
+	Line being read  ====       ( resid 19 and name P  )
+
+	Line being read  ====       ( resid 19 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====          
+
+	Line being read  ====  assi ( resid 18 and name O3' )
+
+["18.C3'", "18.O3'", '19.P', "19.O5'"]
+	Line being read  ====       ( resid 19 and name P  )
+
+	Line being read  ====       ( resid 19 and name O5' )
+
+	Line being read  ====       ( resid 19 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 19 and name P  )
+
+["18.O3'", '19.P', "19.O5'", "19.C5'"]
+	Line being read  ====       ( resid 19 and name O5' )
+
+	Line being read  ====       ( resid 19 and name C5' )
+
+	Line being read  ====       ( resid 19 and name C4' )  1.0  180.0  60.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 19 and name O5' )
+
+['19.P', "19.O5'", "19.C5'", "19.C4'"]
+	Line being read  ====       ( resid 19 and name C5' )
+
+	Line being read  ====       ( resid 19 and name C4' )
+
+	Line being read  ====       ( resid 19 and name C3' )  1.0  225.0  105.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 19 and name C3' )
+
+["19.O5'", "19.C5'", "19.C4'", "19.C3'"]
+	Line being read  ====      ( resid 19 and name O3' )
+
+	Line being read  ====      ( resid 20 and name P  )
+
+	Line being read  ====      ( resid 20 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====          
+
+	Line being read  ====  assi ( resid 19 and name O3' )
+
+["19.C3'", "19.O3'", '20.P', "20.O5'"]
+	Line being read  ====       ( resid 20 and name P  )
+
+	Line being read  ====       ( resid 20 and name O5' )
+
+	Line being read  ====       ( resid 20 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 20 and name P  )
+
+["19.O3'", '20.P', "20.O5'", "20.C5'"]
+	Line being read  ====       ( resid 20 and name O5' )
+
+	Line being read  ====       ( resid 20 and name C5' )
+
+	Line being read  ====       ( resid 20 and name C4' )  1.0  180.0  20.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 20 and name O5' )
+
+['20.P', "20.O5'", "20.C5'", "20.C4'"]
+	Line being read  ====       ( resid 20 and name C5' )
+
+	Line being read  ====       ( resid 20 and name C4' )
+
+	Line being read  ====       ( resid 20 and name C3' )  1.0  47.00  20.0 2 
+
+	Line being read  ====                          
+
+	Line being read  ====  assi ( resid 20 and name C4' )
+
+["20.O5'", "20.C5'", "20.C4'", "20.C3'"]
+	Line being read  ====       ( resid 20 and name C3' )
+
+	Line being read  ====       ( resid 20 and name O3' )
+
+	Line being read  ====       ( resid 21 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 20 and name C3' )
+
+["20.C4'", "20.C3'", "20.O3'", '21.P']
+	Line being read  ====       ( resid 20 and name O3' )
+
+	Line being read  ====       ( resid 21 and name P  )
+
+	Line being read  ====       ( resid 21 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 20 and name O3' )
+
+["20.C3'", "20.O3'", '21.P', "21.O5'"]
+	Line being read  ====       ( resid 21 and name P  )
+
+	Line being read  ====       ( resid 21 and name O5' )
+
+	Line being read  ====       ( resid 21 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 21 and name P  )
+
+["20.O3'", '21.P', "21.O5'", "21.C5'"]
+	Line being read  ====       ( resid 21 and name O5' )
+
+	Line being read  ====       ( resid 21 and name C5' )
+
+	Line being read  ====       ( resid 21 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 21 and name O5' )
+
+['21.P', "21.O5'", "21.C5'", "21.C4'"]
+	Line being read  ====       ( resid 21 and name C5' )
+
+	Line being read  ====       ( resid 21 and name C4' )
+
+	Line being read  ====       ( resid 21 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 21 and name C4' )
+
+["21.O5'", "21.C5'", "21.C4'", "21.C3'"]
+	Line being read  ====       ( resid 21 and name C3' )
+
+	Line being read  ====       ( resid 21 and name O3' )
+
+	Line being read  ====       ( resid 22 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 21 and name C3' )
+
+["21.C4'", "21.C3'", "21.O3'", '22.P']
+	Line being read  ====       ( resid 21 and name O3' )
+
+	Line being read  ====       ( resid 22 and name P  )
+
+	Line being read  ====       ( resid 22 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 21 and name O3' )
+
+["21.C3'", "21.O3'", '22.P', "22.O5'"]
+	Line being read  ====       ( resid 22 and name P  )
+
+	Line being read  ====       ( resid 22 and name O5' )
+
+	Line being read  ====       ( resid 22 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 22 and name P  )
+
+["21.O3'", '22.P', "22.O5'", "22.C5'"]
+	Line being read  ====       ( resid 22 and name O5' )
+
+	Line being read  ====       ( resid 22 and name C5' )
+
+	Line being read  ====       ( resid 22 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 22 and name O5' )
+
+['22.P', "22.O5'", "22.C5'", "22.C4'"]
+	Line being read  ====       ( resid 22 and name C5' )
+
+	Line being read  ====       ( resid 22 and name C4' )
+
+	Line being read  ====       ( resid 22 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 22 and name C4' )
+
+["22.O5'", "22.C5'", "22.C4'", "22.C3'"]
+	Line being read  ====       ( resid 22 and name C3' )
+
+	Line being read  ====       ( resid 22 and name O3' )
+
+	Line being read  ====       ( resid 23 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 22 and name C3' )
+
+["22.C4'", "22.C3'", "22.O3'", '23.P']
+	Line being read  ====       ( resid 22 and name O3' )
+
+	Line being read  ====       ( resid 23 and name P  )
+
+	Line being read  ====       ( resid 23 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 22 and name O3' )
+
+["22.C3'", "22.O3'", '23.P', "23.O5'"]
+	Line being read  ====       ( resid 23 and name P  )
+
+	Line being read  ====       ( resid 23 and name O5' )
+
+	Line being read  ====       ( resid 23 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 23 and name P  )
+
+["22.O3'", '23.P', "23.O5'", "23.C5'"]
+	Line being read  ====       ( resid 23 and name O5' )
+
+	Line being read  ====       ( resid 23 and name C5' )
+
+	Line being read  ====       ( resid 23 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 23 and name O5' )
+
+['23.P', "23.O5'", "23.C5'", "23.C4'"]
+	Line being read  ====       ( resid 23 and name C5' )
+
+	Line being read  ====       ( resid 23 and name C4' )
+
+	Line being read  ====       ( resid 23 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 23 and name C3' )
+
+["23.O5'", "23.C5'", "23.C4'", "23.C3'"]
+	Line being read  ====       ( resid 23 and name O3' )
+
+	Line being read  ====       ( resid 24 and name P  )
+
+	Line being read  ====       ( resid 24 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 23 and name O3' )
+
+["23.C3'", "23.O3'", '24.P', "24.O5'"]
+	Line being read  ====       ( resid 24 and name P  )
+
+	Line being read  ====       ( resid 24 and name O5' )
+
+	Line being read  ====       ( resid 24 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 24 and name C3' )
+
+["23.O3'", '24.P', "24.O5'", "24.C5'"]
+	Line being read  ====       ( resid 24 and name O3' )
+
+	Line being read  ====       ( resid 25 and name P  )
+
+	Line being read  ====       ( resid 25 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 24 and name O3' )
+
+["24.C3'", "24.O3'", '25.P', "25.O5'"]
+	Line being read  ====       ( resid 25 and name P  )
+
+	Line being read  ====       ( resid 25 and name O5' )
+
+	Line being read  ====       ( resid 25 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 25 and name C3' )
+
+["24.O3'", '25.P', "25.O5'", "25.C5'"]
+	Line being read  ====       ( resid 25 and name O3' )
+
+	Line being read  ====       ( resid 26 and name P  )
+
+	Line being read  ====       ( resid 26 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 25 and name O3' )
+
+["25.C3'", "25.O3'", '26.P', "26.O5'"]
+	Line being read  ====       ( resid 26 and name P  )
+
+	Line being read  ====       ( resid 26 and name O5' )
+
+	Line being read  ====       ( resid 26 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 26 and name C3' )
+
+["25.O3'", '26.P', "26.O5'", "26.C5'"]
+	Line being read  ====       ( resid 26 and name O3' )
+
+	Line being read  ====       ( resid 27 and name P  )
+
+	Line being read  ====       ( resid 27 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 26 and name O3' )
+
+["26.C3'", "26.O3'", '27.P', "27.O5'"]
+	Line being read  ====       ( resid 27 and name P  )
+
+	Line being read  ====       ( resid 27 and name O5' )
+
+	Line being read  ====       ( resid 27 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 27 and name O5' )
+
+["26.O3'", '27.P', "27.O5'", "27.C5'"]
+	Line being read  ====       ( resid 27 and name C5' )
+
+	Line being read  ====       ( resid 27 and name C4' )
+
+	Line being read  ====       ( resid 27 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 27 and name C4' )
+
+["27.O5'", "27.C5'", "27.C4'", "27.C3'"]
+	Line being read  ====       ( resid 27 and name C3' )
+
+	Line being read  ====       ( resid 27 and name O3' )
+
+	Line being read  ====       ( resid 28 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 27 and name C3' )
+
+["27.C4'", "27.C3'", "27.O3'", '28.P']
+	Line being read  ====       ( resid 27 and name O3' )
+
+	Line being read  ====       ( resid 28 and name P  )
+
+	Line being read  ====       ( resid 28 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 27 and name O3' )
+
+["27.C3'", "27.O3'", '28.P', "28.O5'"]
+	Line being read  ====       ( resid 28 and name P  )
+
+	Line being read  ====       ( resid 28 and name O5' )
+
+	Line being read  ====       ( resid 28 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 28 and name P  )
+
+["27.O3'", '28.P', "28.O5'", "28.C5'"]
+	Line being read  ====       ( resid 28 and name O5' )
+
+	Line being read  ====       ( resid 28 and name C5' )
+
+	Line being read  ====       ( resid 28 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 28 and name O5' )
+
+['28.P', "28.O5'", "28.C5'", "28.C4'"]
+	Line being read  ====       ( resid 28 and name C5' )
+
+	Line being read  ====       ( resid 28 and name C4' )
+
+	Line being read  ====       ( resid 28 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 28 and name C4' )
+
+["28.O5'", "28.C5'", "28.C4'", "28.C3'"]
+	Line being read  ====       ( resid 28 and name C3' )
+
+	Line being read  ====       ( resid 28 and name O3' )
+
+	Line being read  ====       ( resid 29 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 28 and name C3' )
+
+["28.C4'", "28.C3'", "28.O3'", '29.P']
+	Line being read  ====       ( resid 28 and name O3' )
+
+	Line being read  ====       ( resid 29 and name P  )
+
+	Line being read  ====       ( resid 29 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 28 and name O3' )
+
+["28.C3'", "28.O3'", '29.P', "29.O5'"]
+	Line being read  ====       ( resid 29 and name P  )
+
+	Line being read  ====       ( resid 29 and name O5' )
+
+	Line being read  ====       ( resid 29 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 29 and name P  )
+
+["28.O3'", '29.P', "29.O5'", "29.C5'"]
+	Line being read  ====       ( resid 29 and name O5' )
+
+	Line being read  ====       ( resid 29 and name C5' )
+
+	Line being read  ====       ( resid 29 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 29 and name O5' )
+
+['29.P', "29.O5'", "29.C5'", "29.C4'"]
+	Line being read  ====       ( resid 29 and name C5' )
+
+	Line being read  ====       ( resid 29 and name C4' )
+
+	Line being read  ====       ( resid 29 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 29 and name C4' )
+
+["29.O5'", "29.C5'", "29.C4'", "29.C3'"]
+	Line being read  ====       ( resid 29 and name C3' )
+
+	Line being read  ====       ( resid 29 and name O3' )
+
+	Line being read  ====       ( resid 30 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 29 and name C3' )
+
+["29.C4'", "29.C3'", "29.O3'", '30.P']
+	Line being read  ====       ( resid 29 and name O3' )
+
+	Line being read  ====       ( resid 30 and name P  )
+
+	Line being read  ====       ( resid 30 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 29 and name O3' )
+
+["29.C3'", "29.O3'", '30.P', "30.O5'"]
+	Line being read  ====       ( resid 30 and name P  )
+
+	Line being read  ====       ( resid 30 and name O5' )
+
+	Line being read  ====       ( resid 30 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 30 and name P  )
+
+["29.O3'", '30.P', "30.O5'", "30.C5'"]
+	Line being read  ====       ( resid 30 and name O5' )
+
+	Line being read  ====       ( resid 30 and name C5' )
+
+	Line being read  ====       ( resid 30 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 30 and name O5' )
+
+['30.P', "30.O5'", "30.C5'", "30.C4'"]
+	Line being read  ====       ( resid 30 and name C5' )
+
+	Line being read  ====       ( resid 30 and name C4' )
+
+	Line being read  ====       ( resid 30 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 30 and name C4' )
+
+["30.O5'", "30.C5'", "30.C4'", "30.C3'"]
+	Line being read  ====       ( resid 30 and name C3' )
+
+	Line being read  ====       ( resid 30 and name O3' )
+
+	Line being read  ====       ( resid 31 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 30 and name C3' )
+
+["30.C4'", "30.C3'", "30.O3'", '31.P']
+	Line being read  ====       ( resid 30 and name O3' )
+
+	Line being read  ====       ( resid 31 and name P  )
+
+	Line being read  ====       ( resid 31 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 30 and name O3' )
+
+["30.C3'", "30.O3'", '31.P', "31.O5'"]
+	Line being read  ====       ( resid 31 and name P  )
+
+	Line being read  ====       ( resid 31 and name O5' )
+
+	Line being read  ====       ( resid 31 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 31 and name P  )
+
+["30.O3'", '31.P', "31.O5'", "31.C5'"]
+	Line being read  ====       ( resid 31 and name O5' )
+
+	Line being read  ====       ( resid 31 and name C5' )
+
+	Line being read  ====       ( resid 31 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 31 and name O5' )
+
+['31.P', "31.O5'", "31.C5'", "31.C4'"]
+	Line being read  ====       ( resid 31 and name C5' )
+
+	Line being read  ====       ( resid 31 and name C4' )
+
+	Line being read  ====       ( resid 31 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 31 and name C4' )
+
+["31.O5'", "31.C5'", "31.C4'", "31.C3'"]
+	Line being read  ====       ( resid 31 and name C3' )
+
+	Line being read  ====       ( resid 31 and name O3' )
+
+	Line being read  ====       ( resid 32 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 31 and name C3' )
+
+["31.C4'", "31.C3'", "31.O3'", '32.P']
+	Line being read  ====       ( resid 31 and name O3' )
+
+	Line being read  ====       ( resid 32 and name P  )
+
+	Line being read  ====       ( resid 32 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 31 and name O3' )
+
+["31.C3'", "31.O3'", '32.P', "32.O5'"]
+	Line being read  ====       ( resid 32 and name P  )
+
+	Line being read  ====       ( resid 32 and name O5' )
+
+	Line being read  ====       ( resid 32 and name C5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 32 and name C3' )
+
+["31.O3'", '32.P', "32.O5'", "32.C5'"]
+	Line being read  ====       ( resid 32 and name O3' )
+
+	Line being read  ====       ( resid 33 and name P  )
+
+	Line being read  ====       ( resid 33 and name O5' )  1.0  0.0   120.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 32 and name O3' )
+
+["32.C3'", "32.O3'", '33.P', "33.O5'"]
+	Line being read  ====       ( resid 33 and name P  )
+
+	Line being read  ====       ( resid 33 and name O5' )
+
+	Line being read  ====       ( resid 33 and name C5' )  1.0  -62.0  20.0 2 
+
+	Line being read  ====      
+
+	Line being read  ====  assi ( resid 33 and name P  )
+
+["32.O3'", '33.P', "33.O5'", "33.C5'"]
+	Line being read  ====       ( resid 33 and name O5' )
+
+	Line being read  ====       ( resid 33 and name C5' )
+
+	Line being read  ====       ( resid 33 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 33 and name O5' )
+
+['33.P', "33.O5'", "33.C5'", "33.C4'"]
+	Line being read  ====       ( resid 33 and name C5' )
+
+	Line being read  ====       ( resid 33 and name C4' )
+
+	Line being read  ====       ( resid 33 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====         
+
+	Line being read  ====  assi ( resid 33 and name C4' )
+
+["33.O5'", "33.C5'", "33.C4'", "33.C3'"]
+	Line being read  ====       ( resid 33 and name C3' )
+
+	Line being read  ====       ( resid 33 and name O3' )
+
+	Line being read  ====       ( resid 34 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 33 and name C3' )
+
+["33.C4'", "33.C3'", "33.O3'", '34.P']
+	Line being read  ====       ( resid 33 and name O3' )
+
+	Line being read  ====       ( resid 34 and name P  )
+
+	Line being read  ====       ( resid 34 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 33 and name O3' )
+
+["33.C3'", "33.O3'", '34.P', "34.O5'"]
+	Line being read  ====       ( resid 34 and name P  )
+
+	Line being read  ====       ( resid 34 and name O5' )
+
+	Line being read  ====       ( resid 34 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 34 and name P  )
+
+["33.O3'", '34.P', "34.O5'", "34.C5'"]
+	Line being read  ====       ( resid 34 and name O5' )
+
+	Line being read  ====       ( resid 34 and name C5' )
+
+	Line being read  ====       ( resid 34 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi  ( resid 34 and name O5' )
+
+['34.P', "34.O5'", "34.C5'", "34.C4'"]
+	Line being read  ====       ( resid 34 and name C5' )
+
+	Line being read  ====       ( resid 34 and name C4' )
+
+	Line being read  ====       ( resid 34 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 34 and name C4' )
+
+["34.O5'", "34.C5'", "34.C4'", "34.C3'"]
+	Line being read  ====       ( resid 34 and name C3' )
+
+	Line being read  ====       ( resid 34 and name O3' )
+
+	Line being read  ====       ( resid 35 and name P  )  1.0  -152.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 34 and name C3' )
+
+["34.C4'", "34.C3'", "34.O3'", '35.P']
+	Line being read  ====       ( resid 34 and name O3' )
+
+	Line being read  ====       ( resid 35 and name P  )
+
+	Line being read  ====       ( resid 35 and name O5' )  1.0  -73.0  10.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 34 and name O3' )
+
+["34.C3'", "34.O3'", '35.P', "35.O5'"]
+	Line being read  ====       ( resid 35 and name P  )
+
+	Line being read  ====       ( resid 35 and name O5' )
+
+	Line being read  ====       ( resid 35 and name C5' )  1.0  -62.0  10.0 2 
+
+	Line being read  ====       
+
+	Line being read  ====  assi ( resid 35 and name P  )
+
+["34.O3'", '35.P', "35.O5'", "35.C5'"]
+	Line being read  ====       ( resid 35 and name O5' )
+
+	Line being read  ====       ( resid 35 and name C5' )
+
+	Line being read  ====       ( resid 35 and name C4' )  1.0  180.0  10.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 35 and name O5' )
+
+['35.P', "35.O5'", "35.C5'", "35.C4'"]
+	Line being read  ====       ( resid 35 and name C5' )
+
+	Line being read  ====       ( resid 35 and name C4' )
+
+	Line being read  ====       ( resid 35 and name C3' )  1.0  47.00  10.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  2 and name C5' )
+
+["35.O5'", "35.C5'", "35.C4'", "35.C3'"]
+	Line being read  ====      ( resid  2 and name C4' )
+
+	Line being read  ====      ( resid  2 and name C3' )
+
+	Line being read  ====      ( resid  2 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi (resid  2 and name O4' )
+
+["2.C5'", "2.C4'", "2.C3'", "2.O3'"]
+	Line being read  ====      (resid  2 and name C1' )
+
+	Line being read  ====      (resid  2 and name C2' )
+
+	Line being read  ====      (resid  2 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid  2 and name C1' )
+
+["2.O4'", "2.C1'", "2.C2'", "2.C3'"]
+	Line being read  ====      ( resid  2 and name C2' )
+
+	Line being read  ====      ( resid  2 and name C3' )
+
+	Line being read  ====      ( resid  2 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  3 and name C5' )
+
+["2.C1'", "2.C2'", "2.C3'", "2.C4'"]
+	Line being read  ====      ( resid  3 and name C4' )
+
+	Line being read  ====      ( resid  3 and name C3' )
+
+	Line being read  ====      ( resid  3 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid  3 and name O4' )
+
+["3.C5'", "3.C4'", "3.C3'", "3.O3'"]
+	Line being read  ====      ( resid  3 and name C1' )
+
+	Line being read  ====      ( resid  3 and name C2' )
+
+	Line being read  ====      ( resid  3 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  3 and name C1' )
+
+["3.O4'", "3.C1'", "3.C2'", "3.C3'"]
+	Line being read  ====      ( resid  3 and name C2' )
+
+	Line being read  ====      ( resid  3 and name C3' )
+
+	Line being read  ====      ( resid  3 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid  4 and name C5' )
+
+	Line being read  ====  !    ( resid  4 and name C4' )
+
+	Line being read  ====  !    ( resid  4 and name C3' )
+
+	Line being read  ====  !    ( resid  4 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  !assi ( resid  4 and name O4' )
+
+	Line being read  ====  !    ( resid  4 and name C1' )
+
+	Line being read  ====  !    ( resid  4 and name C2' )
+
+	Line being read  ====  !    ( resid  4 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  !assi ( resid  4 and name C1' )
+
+	Line being read  ====  !    ( resid  4 and name C2' )
+
+	Line being read  ====  !    ( resid  4 and name C3' )
+
+	Line being read  ====  !    ( resid  4 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  5 and name C5' )
+
+["3.C1'", "3.C2'", "3.C3'", "3.C4'"]
+	Line being read  ====      ( resid  5 and name C4' )
+
+	Line being read  ====      ( resid  5 and name C3' )
+
+	Line being read  ====      ( resid  5 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid  5 and name O4' )
+
+["5.C5'", "5.C4'", "5.C3'", "5.O3'"]
+	Line being read  ====      ( resid  5 and name C1' )
+
+	Line being read  ====      ( resid  5 and name C2' )
+
+	Line being read  ====      ( resid  5 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid  5 and name C1' )
+
+["5.O4'", "5.C1'", "5.C2'", "5.C3'"]
+	Line being read  ====      ( resid  5 and name C2' )
+
+	Line being read  ====      ( resid  5 and name C3' )
+
+	Line being read  ====      ( resid  5 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  6 and name C5' )
+
+["5.C1'", "5.C2'", "5.C3'", "5.C4'"]
+	Line being read  ====      ( resid  6 and name C4' )
+
+	Line being read  ====      ( resid  6 and name C3' )
+
+	Line being read  ====      ( resid  6 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid  6 and name O4' )
+
+["6.C5'", "6.C4'", "6.C3'", "6.O3'"]
+	Line being read  ====      ( resid  6 and name C1' )
+
+	Line being read  ====      ( resid  6 and name C2' )
+
+	Line being read  ====      ( resid  6 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid  6 and name C1' )
+
+["6.O4'", "6.C1'", "6.C2'", "6.C3'"]
+	Line being read  ====      ( resid  6 and name C2' )
+
+	Line being read  ====      ( resid  6 and name C3' )
+
+	Line being read  ====      ( resid  6 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  7 and name C5' )
+
+["6.C1'", "6.C2'", "6.C3'", "6.C4'"]
+	Line being read  ====      ( resid  7 and name C4' )
+
+	Line being read  ====      ( resid  7 and name C3' )
+
+	Line being read  ====      ( resid  7 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid  7 and name O4' )
+
+["7.C5'", "7.C4'", "7.C3'", "7.O3'"]
+	Line being read  ====      ( resid  7 and name C1' )
+
+	Line being read  ====      ( resid  7 and name C2' )
+
+	Line being read  ====      ( resid  7 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid  7 and name C1' )
+
+["7.O4'", "7.C1'", "7.C2'", "7.C3'"]
+	Line being read  ====      ( resid  7 and name C2' )
+
+	Line being read  ====      ( resid  7 and name C3' )
+
+	Line being read  ====      ( resid  7 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  8 and name C5' )
+
+["7.C1'", "7.C2'", "7.C3'", "7.C4'"]
+	Line being read  ====      ( resid  8 and name C4' )
+
+	Line being read  ====      ( resid  8 and name C3' )
+
+	Line being read  ====      ( resid  8 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid  8 and name O4' )
+
+["8.C5'", "8.C4'", "8.C3'", "8.O3'"]
+	Line being read  ====      ( resid  8 and name C1' )
+
+	Line being read  ====      ( resid  8 and name C2' )
+
+	Line being read  ====      ( resid  8 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid  8 and name C1' )
+
+["8.O4'", "8.C1'", "8.C2'", "8.C3'"]
+	Line being read  ====      ( resid  8 and name C2' )
+
+	Line being read  ====      ( resid  8 and name C3' )
+
+	Line being read  ====      ( resid  8 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid  9 and name C5' )
+
+["8.C1'", "8.C2'", "8.C3'", "8.C4'"]
+	Line being read  ====      ( resid  9 and name C4' )
+
+	Line being read  ====      ( resid  9 and name C3' )
+
+	Line being read  ====      ( resid  9 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid  9 and name O4' )
+
+["9.C5'", "9.C4'", "9.C3'", "9.O3'"]
+	Line being read  ====      ( resid  9 and name C1' )
+
+	Line being read  ====      ( resid  9 and name C2' )
+
+	Line being read  ====      ( resid  9 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid  9 and name C1' )
+
+["9.O4'", "9.C1'", "9.C2'", "9.C3'"]
+	Line being read  ====      ( resid  9 and name C2' )
+
+	Line being read  ====      ( resid  9 and name C3' )
+
+	Line being read  ====      ( resid  9 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 10 and name C5' )
+
+["9.C1'", "9.C2'", "9.C3'", "9.C4'"]
+	Line being read  ====      ( resid 10 and name C4' )
+
+	Line being read  ====      ( resid 10 and name C3' )
+
+	Line being read  ====      ( resid 10 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 10 and name O4' )
+
+["10.C5'", "10.C4'", "10.C3'", "10.O3'"]
+	Line being read  ====      ( resid 10 and name C1' )
+
+	Line being read  ====      ( resid 10 and name C2' )
+
+	Line being read  ====      ( resid 10 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 10 and name C1' )
+
+["10.O4'", "10.C1'", "10.C2'", "10.C3'"]
+	Line being read  ====      ( resid 10 and name C2' )
+
+	Line being read  ====      ( resid 10 and name C3' )
+
+	Line being read  ====      ( resid 10 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 11 and name C5' )
+
+["10.C1'", "10.C2'", "10.C3'", "10.C4'"]
+	Line being read  ====      ( resid 11 and name C4' )
+
+	Line being read  ====      ( resid 11 and name C3' )
+
+	Line being read  ====      ( resid 11 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 11 and name O4' )
+
+["11.C5'", "11.C4'", "11.C3'", "11.O3'"]
+	Line being read  ====      ( resid 11 and name C1' )
+
+	Line being read  ====      ( resid 11 and name C2' )
+
+	Line being read  ====      ( resid 11 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 11 and name C1' )
+
+["11.O4'", "11.C1'", "11.C2'", "11.C3'"]
+	Line being read  ====      ( resid 11 and name C2' )
+
+	Line being read  ====      ( resid 11 and name C3' )
+
+	Line being read  ====      ( resid 11 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 12 and name C5' )
+
+["11.C1'", "11.C2'", "11.C3'", "11.C4'"]
+	Line being read  ====      ( resid 12 and name C4' )
+
+	Line being read  ====      ( resid 12 and name C3' )
+
+	Line being read  ====      ( resid 12 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 12 and name O4' )
+
+["12.C5'", "12.C4'", "12.C3'", "12.O3'"]
+	Line being read  ====      ( resid 12 and name C1' )
+
+	Line being read  ====      ( resid 12 and name C2' )
+
+	Line being read  ====      ( resid 12 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 12 and name C1' )
+
+["12.O4'", "12.C1'", "12.C2'", "12.C3'"]
+	Line being read  ====      ( resid 12 and name C2' )
+
+	Line being read  ====      ( resid 12 and name C3' )
+
+	Line being read  ====      ( resid 12 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 13 and name C5' )
+
+["12.C1'", "12.C2'", "12.C3'", "12.C4'"]
+	Line being read  ====      ( resid 13 and name C4' )
+
+	Line being read  ====      ( resid 13 and name C3' )
+
+	Line being read  ====      ( resid 13 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 13 and name O4' )
+
+["13.C5'", "13.C4'", "13.C3'", "13.O3'"]
+	Line being read  ====      ( resid 13 and name C1' )
+
+	Line being read  ====      ( resid 13 and name C2' )
+
+	Line being read  ====      ( resid 13 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 13 and name C1' )
+
+["13.O4'", "13.C1'", "13.C2'", "13.C3'"]
+	Line being read  ====      ( resid 13 and name C2' )
+
+	Line being read  ====      ( resid 13 and name C3' )
+
+	Line being read  ====      ( resid 13 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 14 and name C5' )
+
+["13.C1'", "13.C2'", "13.C3'", "13.C4'"]
+	Line being read  ====      ( resid 14 and name C4' )
+
+	Line being read  ====      ( resid 14 and name C3' )
+
+	Line being read  ====      ( resid 14 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 14 and name O4' )
+
+["14.C5'", "14.C4'", "14.C3'", "14.O3'"]
+	Line being read  ====      ( resid 14 and name C1' )
+
+	Line being read  ====      ( resid 14 and name C2' )
+
+	Line being read  ====      ( resid 14 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 14 and name C1' )
+
+["14.O4'", "14.C1'", "14.C2'", "14.C3'"]
+	Line being read  ====      ( resid 14 and name C2' )
+
+	Line being read  ====      ( resid 14 and name C3' )
+
+	Line being read  ====      ( resid 14 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 15 and name C5' )
+
+["14.C1'", "14.C2'", "14.C3'", "14.C4'"]
+	Line being read  ====      ( resid 15 and name C4' )
+
+	Line being read  ====      ( resid 15 and name C3' )
+
+	Line being read  ====      ( resid 15 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 15 and name O4' )
+
+["15.C5'", "15.C4'", "15.C3'", "15.O3'"]
+	Line being read  ====      ( resid 15 and name C1' )
+
+	Line being read  ====      ( resid 15 and name C2' )
+
+	Line being read  ====      ( resid 15 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 15 and name C1' )
+
+["15.O4'", "15.C1'", "15.C2'", "15.C3'"]
+	Line being read  ====      ( resid 15 and name C2' )
+
+	Line being read  ====      ( resid 15 and name C3' )
+
+	Line being read  ====      ( resid 15 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 16 and name C5' )
+
+	Line being read  ====  !    ( resid 16 and name C4' )
+
+	Line being read  ====  !    ( resid 16 and name C3' )
+
+	Line being read  ====  !    ( resid 16 and name O3' )  1.0  145.0  30.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  !assi ( resid 16 and name O4' )
+
+	Line being read  ====  !    ( resid 16 and name C1' )
+
+	Line being read  ====  !    ( resid 16 and name C2' )
+
+	Line being read  ====  !    ( resid 16 and name C3' )  1.0  25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  !assi ( resid 16 and name C1' )
+
+	Line being read  ====  !    ( resid 16 and name C2' )
+
+	Line being read  ====  !    ( resid 16 and name C3' )
+
+	Line being read  ====  !    ( resid 16 and name C4' )  1.0  -35.0  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 17 and name C5' )
+
+["15.C1'", "15.C2'", "15.C3'", "15.C4'"]
+	Line being read  ====      ( resid 17 and name C4' )
+
+	Line being read  ====      ( resid 17 and name C3' )
+
+	Line being read  ====      ( resid 17 and name O3' )  1.0  145.0  30.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 17 and name O4' )
+
+["17.C5'", "17.C4'", "17.C3'", "17.O3'"]
+	Line being read  ====      ( resid 17 and name C1' )
+
+	Line being read  ====      ( resid 17 and name C2' )
+
+	Line being read  ====      ( resid 17 and name C3' )  1.0  25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 17 and name C1' )
+
+["17.O4'", "17.C1'", "17.C2'", "17.C3'"]
+	Line being read  ====      ( resid 17 and name C2' )
+
+	Line being read  ====      ( resid 17 and name C3' )
+
+	Line being read  ====      ( resid 17 and name C4' )  1.0  -35.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 18 and name C5' )
+
+["17.C1'", "17.C2'", "17.C3'", "17.C4'"]
+	Line being read  ====      ( resid 18 and name C4' )
+
+	Line being read  ====      ( resid 18 and name C3' )
+
+	Line being read  ====      ( resid 18 and name O3' )  1.0  145.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 18 and name O4' )
+
+["18.C5'", "18.C4'", "18.C3'", "18.O3'"]
+	Line being read  ====      ( resid 18 and name C1' )
+
+	Line being read  ====      ( resid 18 and name C2' )
+
+	Line being read  ====      ( resid 18 and name C3' )  1.0   25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 18 and name C1' )
+
+["18.O4'", "18.C1'", "18.C2'", "18.C3'"]
+	Line being read  ====      ( resid 18 and name C2' )
+
+	Line being read  ====      ( resid 18 and name C3' )
+
+	Line being read  ====      ( resid 18 and name C4' )  1.0  -35.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  !assi ( resid 19 and name C5' )
+
+	Line being read  ====  !    ( resid 19 and name C4' )
+
+	Line being read  ====  !    ( resid 19 and name C3' )
+
+	Line being read  ====  !    ( resid 19 and name O3' )  1.0  145.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  !assi ( resid 19 and name O4' )
+
+	Line being read  ====  !    ( resid 19 and name C1' )
+
+	Line being read  ====  !    ( resid 19 and name C2' )
+
+	Line being read  ====  !    ( resid 19 and name C3' )  1.0   25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  !assi ( resid 19 and name C1' )
+
+	Line being read  ====  !    ( resid 19 and name C2' )
+
+	Line being read  ====  !    ( resid 19 and name C3' )
+
+	Line being read  ====  !    ( resid 19 and name C4' )  1.0  -35.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 20 and name C5' )
+
+["18.C1'", "18.C2'", "18.C3'", "18.C4'"]
+	Line being read  ====      ( resid 20 and name C4' )
+
+	Line being read  ====      ( resid 20 and name C3' )
+
+	Line being read  ====      ( resid 20 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 20 and name O4' )
+
+["20.C5'", "20.C4'", "20.C3'", "20.O3'"]
+	Line being read  ====      ( resid 20 and name C1' )
+
+	Line being read  ====      ( resid 20 and name C2' )
+
+	Line being read  ====      ( resid 20 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 20 and name C1' )
+
+["20.O4'", "20.C1'", "20.C2'", "20.C3'"]
+	Line being read  ====      ( resid 20 and name C2' )
+
+	Line being read  ====      ( resid 20 and name C3' )
+
+	Line being read  ====      ( resid 20 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 21 and name C5' )
+
+["20.C1'", "20.C2'", "20.C3'", "20.C4'"]
+	Line being read  ====      ( resid 21 and name C4' )
+
+	Line being read  ====      ( resid 21 and name C3' )
+
+	Line being read  ====      ( resid 21 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 21 and name O4' )
+
+["21.C5'", "21.C4'", "21.C3'", "21.O3'"]
+	Line being read  ====      ( resid 21 and name C1' )
+
+	Line being read  ====      ( resid 21 and name C2' )
+
+	Line being read  ====      ( resid 21 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 21 and name C1' )
+
+["21.O4'", "21.C1'", "21.C2'", "21.C3'"]
+	Line being read  ====      ( resid 21 and name C2' )
+
+	Line being read  ====      ( resid 21 and name C3' )
+
+	Line being read  ====      ( resid 21 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 22 and name C5' )
+
+["21.C1'", "21.C2'", "21.C3'", "21.C4'"]
+	Line being read  ====      ( resid 22 and name C4' )
+
+	Line being read  ====      ( resid 22 and name C3' )
+
+	Line being read  ====      ( resid 22 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 22 and name O4' )
+
+["22.C5'", "22.C4'", "22.C3'", "22.O3'"]
+	Line being read  ====      ( resid 22 and name C1' )
+
+	Line being read  ====      ( resid 22 and name C2' )
+
+	Line being read  ====      ( resid 22 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 22 and name C1' )
+
+["22.O4'", "22.C1'", "22.C2'", "22.C3'"]
+	Line being read  ====      ( resid 22 and name C2' )
+
+	Line being read  ====      ( resid 22 and name C3' )
+
+	Line being read  ====      ( resid 22 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 23 and name C5' )
+
+["22.C1'", "22.C2'", "22.C3'", "22.C4'"]
+	Line being read  ====      ( resid 23 and name C4' )
+
+	Line being read  ====      ( resid 23 and name C3' )
+
+	Line being read  ====      ( resid 23 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 23 and name O4' )
+
+["23.C5'", "23.C4'", "23.C3'", "23.O3'"]
+	Line being read  ====      ( resid 23 and name C1' )
+
+	Line being read  ====      ( resid 23 and name C2' )
+
+	Line being read  ====      ( resid 23 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 23 and name C1' )
+
+["23.O4'", "23.C1'", "23.C2'", "23.C3'"]
+	Line being read  ====      ( resid 23 and name C2' )
+
+	Line being read  ====      ( resid 23 and name C3' )
+
+	Line being read  ====      ( resid 23 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 24 and name C5' )
+
+["23.C1'", "23.C2'", "23.C3'", "23.C4'"]
+	Line being read  ====      ( resid 24 and name C4' )
+
+	Line being read  ====      ( resid 24 and name C3' )
+
+	Line being read  ====      ( resid 24 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 24 and name O4' )
+
+["24.C5'", "24.C4'", "24.C3'", "24.O3'"]
+	Line being read  ====      ( resid 24 and name C1' )
+
+	Line being read  ====      ( resid 24 and name C2' )
+
+	Line being read  ====      ( resid 24 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 24 and name C1' )
+
+["24.O4'", "24.C1'", "24.C2'", "24.C3'"]
+	Line being read  ====      ( resid 24 and name C2' )
+
+	Line being read  ====      ( resid 24 and name C3' )
+
+	Line being read  ====      ( resid 24 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 25 and name C5' )
+
+	Line being read  ====  !    ( resid 25 and name C4' )
+
+	Line being read  ====  !    ( resid 25 and name C3' )
+
+	Line being read  ====  !    ( resid 25 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  !assi ( resid 25 and name O4' )
+
+	Line being read  ====  !    ( resid 25 and name C1' )
+
+	Line being read  ====  !    ( resid 25 and name C2' )
+
+	Line being read  ====  !    ( resid 25 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  !assi ( resid 25 and name C1' )
+
+	Line being read  ====  !    ( resid 25 and name C2' )
+
+	Line being read  ====  !    ( resid 25 and name C3' )
+
+	Line being read  ====  !    ( resid 25 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 26 and name C5' )
+
+	Line being read  ====  !    ( resid 26 and name C4' )
+
+	Line being read  ====  !    ( resid 26 and name C3' )
+
+	Line being read  ====  !    ( resid 26 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  !assi ( resid 26 and name O4' )
+
+	Line being read  ====  !    ( resid 26 and name C1' )
+
+	Line being read  ====  !    ( resid 26 and name C2' )
+
+	Line being read  ====  !    ( resid 26 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  !assi ( resid 26 and name C1' )
+
+	Line being read  ====  !    ( resid 26 and name C2' )
+
+	Line being read  ====  !    ( resid 26 and name C3' )
+
+	Line being read  ====  !    ( resid 26 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 27 and name C5' )
+
+["24.C1'", "24.C2'", "24.C3'", "24.C4'"]
+	Line being read  ====      ( resid 27 and name C4' )
+
+	Line being read  ====      ( resid 27 and name C3' )
+
+	Line being read  ====      ( resid 27 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 27 and name O4' )
+
+["27.C5'", "27.C4'", "27.C3'", "27.O3'"]
+	Line being read  ====      ( resid 27 and name C1' )
+
+	Line being read  ====      ( resid 27 and name C2' )
+
+	Line being read  ====      ( resid 27 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 27 and name C1' )
+
+["27.O4'", "27.C1'", "27.C2'", "27.C3'"]
+	Line being read  ====      ( resid 27 and name C2' )
+
+	Line being read  ====      ( resid 27 and name C3' )
+
+	Line being read  ====      ( resid 27 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 28 and name C5' )
+
+["27.C1'", "27.C2'", "27.C3'", "27.C4'"]
+	Line being read  ====      ( resid 28 and name C4' )
+
+	Line being read  ====      ( resid 28 and name C3' )
+
+	Line being read  ====      ( resid 28 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 28 and name O4' )
+
+["28.C5'", "28.C4'", "28.C3'", "28.O3'"]
+	Line being read  ====      ( resid 28 and name C1' )
+
+	Line being read  ====      ( resid 28 and name C2' )
+
+	Line being read  ====      ( resid 28 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 28 and name C1' )
+
+["28.O4'", "28.C1'", "28.C2'", "28.C3'"]
+	Line being read  ====      ( resid 28 and name C2' )
+
+	Line being read  ====      ( resid 28 and name C3' )
+
+	Line being read  ====      ( resid 28 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 29 and name C5' )
+
+["28.C1'", "28.C2'", "28.C3'", "28.C4'"]
+	Line being read  ====      ( resid 29 and name C4' )
+
+	Line being read  ====      ( resid 29 and name C3' )
+
+	Line being read  ====      ( resid 29 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 29 and name O4' )
+
+["29.C5'", "29.C4'", "29.C3'", "29.O3'"]
+	Line being read  ====      ( resid 29 and name C1' )
+
+	Line being read  ====      ( resid 29 and name C2' )
+
+	Line being read  ====      ( resid 29 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 29 and name C1' )
+
+["29.O4'", "29.C1'", "29.C2'", "29.C3'"]
+	Line being read  ====      ( resid 29 and name C2' )
+
+	Line being read  ====      ( resid 29 and name C3' )
+
+	Line being read  ====      ( resid 29 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 30 and name C5' )
+
+["29.C1'", "29.C2'", "29.C3'", "29.C4'"]
+	Line being read  ====      ( resid 30 and name C4' )
+
+	Line being read  ====      ( resid 30 and name C3' )
+
+	Line being read  ====      ( resid 30 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 30 and name O4' )
+
+["30.C5'", "30.C4'", "30.C3'", "30.O3'"]
+	Line being read  ====      ( resid 30 and name C1' )
+
+	Line being read  ====      ( resid 30 and name C2' )
+
+	Line being read  ====      ( resid 30 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 30 and name C1' )
+
+["30.O4'", "30.C1'", "30.C2'", "30.C3'"]
+	Line being read  ====      ( resid 30 and name C2' )
+
+	Line being read  ====      ( resid 30 and name C3' )
+
+	Line being read  ====      ( resid 30 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 31 and name C5' )
+
+["30.C1'", "30.C2'", "30.C3'", "30.C4'"]
+	Line being read  ====      ( resid 31 and name C4' )
+
+	Line being read  ====      ( resid 31 and name C3' )
+
+	Line being read  ====      ( resid 31 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 31 and name O4' )
+
+["31.C5'", "31.C4'", "31.C3'", "31.O3'"]
+	Line being read  ====      ( resid 31 and name C1' )
+
+	Line being read  ====      ( resid 31 and name C2' )
+
+	Line being read  ====      ( resid 31 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 31 and name C1' )
+
+["31.O4'", "31.C1'", "31.C2'", "31.C3'"]
+	Line being read  ====      ( resid 31 and name C2' )
+
+	Line being read  ====      ( resid 31 and name C3' )
+
+	Line being read  ====      ( resid 31 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 32 and name C5' )
+
+["31.C1'", "31.C2'", "31.C3'", "31.C4'"]
+	Line being read  ====      ( resid 32 and name C4' )
+
+	Line being read  ====      ( resid 32 and name C3' )
+
+	Line being read  ====      ( resid 32 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 32 and name O4' )
+
+["32.C5'", "32.C4'", "32.C3'", "32.O3'"]
+	Line being read  ====      ( resid 32 and name C1' )
+
+	Line being read  ====      ( resid 32 and name C2' )
+
+	Line being read  ====      ( resid 32 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 32 and name C1' )
+
+["32.O4'", "32.C1'", "32.C2'", "32.C3'"]
+	Line being read  ====      ( resid 32 and name C2' )
+
+	Line being read  ====      ( resid 32 and name C3' )
+
+	Line being read  ====      ( resid 32 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 33 and name C5' )
+
+["32.C1'", "32.C2'", "32.C3'", "32.C4'"]
+	Line being read  ====      ( resid 33 and name C4' )
+
+	Line being read  ====      ( resid 33 and name C3' )
+
+	Line being read  ====      ( resid 33 and name O3' )  1.0   85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 33 and name O4' )
+
+["33.C5'", "33.C4'", "33.C3'", "33.O3'"]
+	Line being read  ====      ( resid 33 and name C1' )
+
+	Line being read  ====      ( resid 33 and name C2' )
+
+	Line being read  ====      ( resid 33 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 33 and name C1' )
+
+["33.O4'", "33.C1'", "33.C2'", "33.C3'"]
+	Line being read  ====      ( resid 33 and name C2' )
+
+	Line being read  ====      ( resid 33 and name C3' )
+
+	Line being read  ====      ( resid 33 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 34 and name C5' )
+
+["33.C1'", "33.C2'", "33.C3'", "33.C4'"]
+	Line being read  ====      ( resid 34 and name C4' )
+
+	Line being read  ====      ( resid 34 and name C3' )
+
+	Line being read  ====      ( resid 34 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 34 and name O4' )
+
+["34.C5'", "34.C4'", "34.C3'", "34.O3'"]
+	Line being read  ====      ( resid 34 and name C1' )
+
+	Line being read  ====      ( resid 34 and name C2' )
+
+	Line being read  ====      ( resid 34 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 34 and name C1' )
+
+["34.O4'", "34.C1'", "34.C2'", "34.C3'"]
+	Line being read  ====      ( resid 34 and name C2' )
+
+	Line being read  ====      ( resid 34 and name C3' )
+
+	Line being read  ====      ( resid 34 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 35 and name C5' )
+
+["34.C1'", "34.C2'", "34.C3'", "34.C4'"]
+	Line being read  ====      ( resid 35 and name C4' )
+
+	Line being read  ====      ( resid 35 and name C3' )
+
+	Line being read  ====      ( resid 35 and name O3' )  1.0  85.0  15.0 2 
+
+	Line being read  ====   
+
+	Line being read  ====  assi ( resid 35 and name O4' )
+
+["35.C5'", "35.C4'", "35.C3'", "35.O3'"]
+	Line being read  ====      ( resid 35 and name C1' )
+
+	Line being read  ====      ( resid 35 and name C2' )
+
+	Line being read  ====      ( resid 35 and name C3' )  1.0  -25.0  15.0 2 
+
+	Line being read  ====        
+
+	Line being read  ====  assi ( resid 35 and name C1' )
+
+["35.O4'", "35.C1'", "35.C2'", "35.C3'"]
+	Line being read  ====      ( resid 35 and name C2' )
+
+	Line being read  ====      ( resid 35 and name C3' )
+
+	Line being read  ====      ( resid 35 and name C4' )  1.0  37.27  15.0 2 
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 1 and name O4' )
+
+["35.C1'", "35.C2'", "35.C3'", "35.C4'"]
+	Line being read  ====      ( resid 1 and name C1' )
+
+	Line being read  ====      ( resid 1 and name N9  )
+
+	Line being read  ====      ( resid 1 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 2 and name O4' )
+
+["1.O4'", "1.C1'", '1.N9', '1.C4']
+	Line being read  ====      ( resid 2 and name C1' )
+
+	Line being read  ====      ( resid 2 and name N9  )
+
+	Line being read  ====      ( resid 2 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 3 and name O4' )
+
+["2.O4'", "2.C1'", '2.N9', '2.C4']
+	Line being read  ====      ( resid 3 and name C1' )
+
+	Line being read  ====      ( resid 3 and name N9  )
+
+	Line being read  ====      ( resid 3 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 4 and name O4' )
+
+	Line being read  ====  !    ( resid 4 and name C1' )
+
+	Line being read  ====  !    ( resid 4 and name N9  )
+
+	Line being read  ====  !    ( resid 4 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 5 and name O4' )
+
+["3.O4'", "3.C1'", '3.N9', '3.C4']
+	Line being read  ====      ( resid 5 and name C1' )
+
+	Line being read  ====      ( resid 5 and name N1  )
+
+	Line being read  ====      ( resid 5 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 6 and name O4' )
+
+["5.O4'", "5.C1'", '5.N1', '5.C2']
+	Line being read  ====      ( resid 6 and name C1' )
+
+	Line being read  ====      ( resid 6 and name N1  )
+
+	Line being read  ====      ( resid 6 and name C2  )  1.0  -160.0 50.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 7 and name O4' )
+
+["6.O4'", "6.C1'", '6.N1', '6.C2']
+	Line being read  ====      ( resid 7 and name C1' )
+
+	Line being read  ====      ( resid 7 and name N9  )
+
+	Line being read  ====      ( resid 7 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 8 and name O4' )
+
+["7.O4'", "7.C1'", '7.N9', '7.C4']
+	Line being read  ====      ( resid 8 and name C1' )
+
+	Line being read  ====      ( resid 8 and name N1  )
+
+	Line being read  ====      ( resid 8 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 9 and name O4' )
+
+["8.O4'", "8.C1'", '8.N1', '8.C2']
+	Line being read  ====      ( resid 9 and name C1' )
+
+	Line being read  ====      ( resid 9 and name N9  )
+
+	Line being read  ====      ( resid 9 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 10 and name O4' )
+
+["9.O4'", "9.C1'", '9.N9', '9.C4']
+	Line being read  ====      ( resid 10 and name C1' )
+
+	Line being read  ====      ( resid 10 and name N1  )
+
+	Line being read  ====      ( resid 10 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 11 and name O4' )
+
+["10.O4'", "10.C1'", '10.N1', '10.C2']
+	Line being read  ====      ( resid 11 and name C1' )
+
+	Line being read  ====      ( resid 11 and name N9  )
+
+	Line being read  ====      ( resid 11 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 12 and name O4' )
+
+["11.O4'", "11.C1'", '11.N9', '11.C4']
+	Line being read  ====      ( resid 12 and name C1' )
+
+	Line being read  ====      ( resid 12 and name N1  )
+
+	Line being read  ====      ( resid 12 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 13 and name O4' )
+
+["12.O4'", "12.C1'", '12.N1', '12.C2']
+	Line being read  ====      ( resid 13 and name C1' )
+
+	Line being read  ====      ( resid 13 and name N9  )
+
+	Line being read  ====      ( resid 13 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 14 and name O4' )
+
+["13.O4'", "13.C1'", '13.N9', '13.C4']
+	Line being read  ====      ( resid 14 and name C1' )
+
+	Line being read  ====      ( resid 14 and name N9  )
+
+	Line being read  ====      ( resid 14 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 15 and name O4' )
+
+["14.O4'", "14.C1'", '14.N9', '14.C4']
+	Line being read  ====      ( resid 15 and name C1' )
+
+	Line being read  ====      ( resid 15 and name N1  )
+
+	Line being read  ====      ( resid 15 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 16 and name O4' )
+
+["15.O4'", "15.C1'", '15.N1', '15.C2']
+	Line being read  ====      ( resid 16 and name C1' )
+
+	Line being read  ====      ( resid 16 and name N9  )
+
+	Line being read  ====      ( resid 16 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 17 and name O4' )
+
+	Line being read  ====  !    ( resid 17 and name C1' )
+
+	Line being read  ====  !    ( resid 17 and name N9  )
+
+	Line being read  ====  !    ( resid 17 and name C4  )  1.0   60.0 70.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 18 and name O4' )
+
+	Line being read  ====  !    ( resid 18 and name C1' )
+
+	Line being read  ====  !    ( resid 18 and name N1  )
+
+	Line being read  ====  !    ( resid 18 and name C2  )  1.0   60.0 40.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 19 and name O4' )
+
+	Line being read  ====  !    ( resid 19 and name C1' )
+
+	Line being read  ====  !    ( resid 19 and name N1  )
+
+	Line being read  ====  !    ( resid 19 and name C2  )  1.0   60.0 40.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 20 and name O4' )
+
+["16.O4'", "16.C1'", '16.N9', '16.C4']
+	Line being read  ====      ( resid 20 and name C1' )
+
+	Line being read  ====      ( resid 20 and name N1  )
+
+	Line being read  ====      ( resid 20 and name C2  )  1.0  -160.0 40.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 21 and name O4' )
+
+["20.O4'", "20.C1'", '20.N1', '20.C2']
+	Line being read  ====      ( resid 21 and name C1' )
+
+	Line being read  ====      ( resid 21 and name N1  )
+
+	Line being read  ====      ( resid 21 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 22 and name O4' )
+
+["21.O4'", "21.C1'", '21.N1', '21.C2']
+	Line being read  ====      ( resid 22 and name C1' )
+
+	Line being read  ====      ( resid 22 and name N9  )
+
+	Line being read  ====      ( resid 22 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 23 and name O4' )
+
+["22.O4'", "22.C1'", '22.N9', '22.C4']
+	Line being read  ====      ( resid 23 and name C1' )
+
+	Line being read  ====      ( resid 23 and name N1  )
+
+	Line being read  ====      ( resid 23 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 24 and name O4' )
+
+["23.O4'", "23.C1'", '23.N1', '23.C2']
+	Line being read  ====      ( resid 24 and name C1' )
+
+	Line being read  ====      ( resid 24 and name N9  )
+
+	Line being read  ====      ( resid 24 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 25 and name O4' )
+
+	Line being read  ====  !    ( resid 25 and name C1' )
+
+	Line being read  ====  !    ( resid 25 and name N1  )
+
+	Line being read  ====  !    ( resid 25 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  !assi ( resid 26 and name O4' )
+
+	Line being read  ====  !    ( resid 26 and name C1' )
+
+	Line being read  ====  !    ( resid 26 and name N9  )
+
+	Line being read  ====  !    ( resid 26 and name C4  )  1.0   60.0 40.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 27 and name O4' )
+
+["24.O4'", "24.C1'", '24.N9', '24.C4']
+	Line being read  ====      ( resid 27 and name C1' )
+
+	Line being read  ====      ( resid 27 and name N1  )
+
+	Line being read  ====      ( resid 27 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 28 and name O4' )
+
+["27.O4'", "27.C1'", '27.N1', '27.C2']
+	Line being read  ====      ( resid 28 and name C1' )
+
+	Line being read  ====      ( resid 28 and name N9  )
+
+	Line being read  ====      ( resid 28 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 29 and name O4' )
+
+["28.O4'", "28.C1'", '28.N9', '28.C4']
+	Line being read  ====      ( resid 29 and name C1' )
+
+	Line being read  ====      ( resid 29 and name N1  )
+
+	Line being read  ====      ( resid 29 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 30 and name O4' )
+
+["29.O4'", "29.C1'", '29.N1', '29.C2']
+	Line being read  ====      ( resid 30 and name C1' )
+
+	Line being read  ====      ( resid 30 and name N9  )
+
+	Line being read  ====      ( resid 30 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 31 and name O4' )
+
+["30.O4'", "30.C1'", '30.N9', '30.C4']
+	Line being read  ====      ( resid 31 and name C1' )
+
+	Line being read  ====      ( resid 31 and name N9  )
+
+	Line being read  ====      ( resid 31 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 32 and name O4' )
+
+["31.O4'", "31.C1'", '31.N9', '31.C4']
+	Line being read  ====      ( resid 32 and name C1' )
+
+	Line being read  ====      ( resid 32 and name N9  )
+
+	Line being read  ====      ( resid 32 and name C4  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 33 and name O4' )
+
+["32.O4'", "32.C1'", '32.N9', '32.C4']
+	Line being read  ====      ( resid 33 and name C1' )
+
+	Line being read  ====      ( resid 33 and name N1  )
+
+	Line being read  ====      ( resid 33 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 34 and name O4' )
+
+["33.O4'", "33.C1'", '33.N1', '33.C2']
+	Line being read  ====      ( resid 34 and name C1' )
+
+	Line being read  ====      ( resid 34 and name N1  )
+
+	Line being read  ====      ( resid 34 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====  
+
+	Line being read  ====  assi ( resid 35 and name O4' )
+
+["34.O4'", "34.C1'", '34.N1', '34.C2']
+	Line being read  ====      ( resid 35 and name C1' )
+
+	Line being read  ====      ( resid 35 and name N1  )
+
+	Line being read  ====      ( resid 35 and name C2  )  1.0  -160.0 15.0 2
+
+	Line being read  ====   
+
+	Line being read  ====  
+["35.O4'", "35.C1'", '35.N1', '35.C2']
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 1    and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 35   and name  H3  ))
+
+	Line being read  ====        1.900     0.100     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 1    and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 35   and name  H3  ))
+
+	Line being read  ====        1.900     0.100     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 1    and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 35   and name  N3  ))
+
+	Line being read  ====        2.900     0.100     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 1    and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 35   and name  O2  ))
+
+	Line being read  ====        1.900     0.100     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 2    and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 34   and name  N3  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 2    and name  N1  ))
+
+	Line being read  ====     (( segid "   A" and resid 34   and name  N3  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 2    and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 34   and name  H41 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 2    and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 34   and name  N4  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 2    and name  H21 ))
+
+	Line being read  ====     (( segid "   A" and resid 34   and name  O2  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 2    and name  N2  ))
+
+	Line being read  ====     (( segid "   A" and resid 34   and name  O2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 5    and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 31   and name  H1  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 5    and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 31   and name  N1  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 5    and name  H41 ))
+
+	Line being read  ====     (( segid "   A" and resid 31   and name  O6  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 5    and name  N4  ))
+
+	Line being read  ====     (( segid "   A" and resid 31   and name  O6  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 5    and name  O2  ))
+
+	Line being read  ====     (( segid "   A" and resid 31   and name  H21 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 5    and name  O2  ))
+
+	Line being read  ====     (( segid "   A" and resid 31   and name  N2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 6    and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 30   and name  H1  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 6    and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 30   and name  N1  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 6    and name  H41 ))
+
+	Line being read  ====     (( segid "   A" and resid 30   and name  O6  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 6    and name  N4  ))
+
+	Line being read  ====     (( segid "   A" and resid 30   and name  O6  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 6    and name  O2  ))
+
+	Line being read  ====     (( segid "   A" and resid 30   and name  H21 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 6    and name  O2  ))
+
+	Line being read  ====     (( segid "   A" and resid 30   and name  N2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 7    and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 29   and name  N3  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 7    and name  N1  ))
+
+	Line being read  ====     (( segid "   A" and resid 29   and name  N3  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 7    and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 29   and name  H41 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 7    and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 29   and name  N4  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 7    and name  H21 ))
+
+	Line being read  ====     (( segid "   A" and resid 29   and name  O2  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 7    and name  N2  ))
+
+	Line being read  ====     (( segid "   A" and resid 29   and name  O2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 8    and name  H3  ))
+
+	Line being read  ====     (( segid "   A" and resid 28   and name  N1  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 8    and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 28   and name  N1  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 8    and name  O4  ))
+
+	Line being read  ====     (( segid "   A" and resid 28   and name  H61 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 8    and name  O4  ))
+
+	Line being read  ====     (( segid "   A" and resid 28   and name  N6  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 11   and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 23   and name  N3  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 11   and name  N1  ))
+
+	Line being read  ====     (( segid "   A" and resid 23   and name  N3  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 11   and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 23   and name  H41 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 11   and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 23   and name  N4  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 11   and name  H21 ))
+
+	Line being read  ====     (( segid "   A" and resid 23   and name  O2  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 11   and name  N2  ))
+
+	Line being read  ====     (( segid "   A" and resid 23   and name  O2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 12   and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 22   and name  H1  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 12   and name  N3  ))
+
+	Line being read  ====     (( segid "   A" and resid 22   and name  N1  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 12   and name  H41 ))
+
+	Line being read  ====     (( segid "   A" and resid 22   and name  O6  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 12   and name  N4  ))
+
+	Line being read  ====     (( segid "   A" and resid 22   and name  O6  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 12   and name  O2  ))
+
+	Line being read  ====     (( segid "   A" and resid 22   and name  H21 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 12   and name  O2  ))
+
+	Line being read  ====     (( segid "   A" and resid 22   and name  N2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 13   and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 21   and name  N3  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 13   and name  N1  ))
+
+	Line being read  ====     (( segid "   A" and resid 21   and name  N3  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 13   and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 21   and name  H41 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 13   and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 21   and name  N4  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 13   and name  H21 ))
+
+	Line being read  ====     (( segid "   A" and resid 21   and name  O2  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 13   and name  N2  ))
+
+	Line being read  ====     (( segid "   A" and resid 21   and name  O2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 14   and name  H1  ))
+
+	Line being read  ====     (( segid "   A" and resid 20   and name  N3  ))
+
+	Line being read  ====        1.900     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 14   and name  N1  ))
+
+	Line being read  ====     (( segid "   A" and resid 20   and name  N3  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 14   and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 20   and name  H41 ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 14   and name  O6  ))
+
+	Line being read  ====     (( segid "   A" and resid 20   and name  N4  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 14   and name  H21 ))
+
+	Line being read  ====     (( segid "   A" and resid 20   and name  O2  ))
+
+	Line being read  ====        2.000     0.200     0.200
+
+	Line being read  ====  
+
+	Line being read  ====   assi 
+
+	Line being read  ====     (( segid "   A" and resid 14   and name  N2  ))
+
+	Line being read  ====     (( segid "   A" and resid 20   and name  O2  ))
+
+	Line being read  ====        2.900     0.300     0.300
+
+	Line being read  ====  
+
+	Line being read  ====  
+     0      0        0     0   3144.64
+    20     20     2339     0      2.08
+    40     40     2797     0      1.54
+    60     60     3185     0      1.50
+    74     74     3584     0      1.49
+     0      0        0     0    927.27
+    20     20      426     0      2.26
+    40     40      752     0      1.81
+    60     60      984     0      1.66
+    80     80     1261     0      1.59
+   100    100     1537     0      1.55
+     0      0        0     0   1259.86
+    20     20      330     0      1.82
+    40     40      712     0      1.62
+    60     60      991     0      1.58
+    80     80     1270     0      1.53
+   100    100     1568     0      1.51
+     0      0        0     0  20375.59
+    20     20      601     0    142.81
+    24     24      704     0    102.20
+NNOE 266 nRepel 3566
+mass 11440.6
+init vel 5000.0 4999.999999999995
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0      0.000   4996.7    240.0    103.0    343.0   0.000000   0.000000    0.000    0.000   3576
+   224   1286.418   5413.6    262.1    340.6    602.7   0.005550   5.717414    0.434    1.948   4776
+   449   3903.937   7824.6    359.8    100.3    460.0   0.005570  11.633417    0.911    4.463   3005
+   674   9929.588   2660.6    116.2     79.4    195.5   0.005359  26.780669    1.072    5.046   2764
+   899  20132.495   2144.4    128.2    185.9    314.1   0.008414  45.346254    1.283    7.063   3358
+  1124  34488.055   3356.6    230.0    132.7    362.7   0.007422  63.802491    1.330    8.681   2954
+  1349  39760.655   5440.7    274.8    376.0    650.8   0.012013  23.433779    0.731    4.736   3150
+  1574  41143.313   4903.0    240.7    221.4    462.1   0.005419   6.145147    0.518    3.716   3142
+  1799  43129.214   4538.3    198.2    140.4    338.6   0.006090   8.826226    0.518    3.478   2907
+  2024  48927.830   4023.9    208.1    132.4    340.5   0.006416  25.771626    0.906    5.235   2885
+  2249  53470.096   6542.9    322.8    132.1    454.9   0.007294  20.187847    0.764    4.042   3020
+  2474  63368.410   2726.5     80.9    104.0    185.0   0.005893  43.992509    1.077    6.493   2901
+  2699  79299.308  18119.0    543.1    124.6    667.7   0.009407  70.803992    1.311   10.420   2997
+  2924  90757.110   2983.1    153.8     83.3    237.2   0.009306  50.923565    1.238    8.067   2691
+  3149  94903.504   4059.0    208.2    121.3    329.5   0.009188  18.428416    0.648    4.526   2721
+  3374  98164.475   5848.2    274.1    143.8    417.9   0.005796  14.493202    0.693    4.132   2815
+  3599 101308.177   2576.6    116.2    178.7    294.9   0.006554  13.972009    0.735    5.560   2914
+  3824 103750.700   5380.4    267.4    203.0    470.4   0.006843  10.855657    0.655    4.248   2996
+  4049 107505.186   8016.6    307.6    125.4    433.0   0.005688  16.686605    0.773    5.070   2720
+  4274 114293.409   4948.1    230.3    160.5    390.8   0.009564  30.169884    1.117    7.087   3280
+  4499 116157.604   5898.3    286.0    145.0    430.9   0.006036   8.285307    0.597    4.587   2694
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0 116157.604   5954.4    286.0    145.0    430.9   0.000000   0.000000    0.000    0.000   2704
+   259 118136.313   3903.6    189.8    161.2    351.0   0.006875   7.610420    0.417    2.819   2884
+   519 119389.764   3200.4    151.4    169.9    321.3   0.005463   4.820966    0.333    2.015   2897
+   779 121687.088   2790.3    134.9     73.3    208.2   0.005961   8.835863    0.431    2.433   2746
+  1039 123708.298   2157.2    107.0    148.3    255.3   0.007221   7.773882    0.413    2.883   2763
+  1299 124869.591   3139.0    155.3    131.8    287.0   0.005348   4.466514    0.364    2.435   3001
+  1559 127504.667   1517.9     74.2     68.5    142.6   0.007652  10.134907    0.445    2.585   2809
+  1819 129220.855   1207.7     57.9     74.6    132.6   0.006664   6.600723    0.307    1.877   2679
+  2079 129933.755    935.9     45.5    116.3    161.7   0.005306   2.741922    0.144    0.886   2633
+  2339 131029.178    949.2     44.8     61.0    105.7   0.005123   4.213167    0.214    1.194   2729
+  2599 132750.900    434.6     20.2     29.9     50.0   0.005131   6.622007    0.245    1.593   2844
+  2859 133942.561    419.8     20.0     25.5     45.5   0.006052   4.583312    0.206    1.084   2871
+  3119 135335.659    378.0     18.1     56.1     74.3   0.006182   5.358070    0.212    1.102   2852
+  3379 136093.400    390.6     19.4     57.9     77.2   0.005122   2.914389    0.131    0.685   2768
+  3639 137507.336    298.0     14.3     18.3     32.6   0.005650   5.438214    0.237    1.121   2921
+  3899 138853.339    273.6     13.7     33.9     47.6   0.005549   5.176932    0.204    0.821   2816
+  4159 142024.575    244.5     11.7     27.0     38.7   0.006035  12.197062    0.334    1.410   2877
+  4419 144461.176    184.1      8.8     34.3     43.1   0.006062   9.371544    0.299    1.422   2966
+  4679 146575.071    283.4     13.7     43.2     56.8   0.005970   8.130364    0.270    1.114   2858
+  4939 148693.076    210.2     10.1     23.1     33.2   0.005032   8.146174    0.256    1.155   2906
+  5199 151092.451    246.3     11.9     27.8     39.7   0.005912   9.228368    0.330    1.565   2984
+     0      0        0     0     33.14
+    20     20      161     0     30.53
+    40     40      307     0     29.68
+    60     60      453     0     28.69
+    80     80      624     0     25.98
+   100    100      802     0     22.74
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0 151092.451   2530.8    121.5     22.7    144.3   0.000000   0.000000    0.000    0.000   2896
+   259 154809.898    196.4      9.9     12.4     22.3   0.005274  14.297872    0.257    1.101   2881
+   519 158208.967    164.0      7.7     10.3     18.0   0.005990  13.073342    0.272    1.282   3011
+   779 160668.318    137.4      6.6     19.8     26.4   0.005843   9.459042    0.209    0.956   2925
+  1039 162355.705     97.8      4.7     15.6     20.3   0.005070   6.489950    0.152    0.790   2993
+  1299 163791.188     74.1      3.5     13.2     16.8   0.004479   5.521090    0.118    0.761   2989
+  1559 165338.410     60.0      3.0     12.7     15.6   0.004382   5.950854    0.115    0.727   2974
+  1819 170047.939     39.0      1.9      8.2     10.1   0.003996  18.113571    0.204    1.084   2812
+  2079 177032.108     30.6      1.5      7.0      8.5   0.004037  26.862190    0.241    1.277   2960
+  2339 187537.968     23.3      1.2      5.6      6.8   0.004350  40.407151    0.268    1.295   3068
+  2599 193580.123     18.4      0.9      5.8      6.7   0.004876  23.239058    0.171    0.949   2986
+  2859 195748.424     12.5      0.6      5.6      6.2   0.004202   8.339621    0.079    0.523   3060
+  3119 199868.967      6.7      0.3      5.6      5.9   0.003480  15.848241    0.091    0.591   3050
+  3379 202016.251      5.1      0.2      5.1      5.4   0.003547   8.258783    0.045    0.341   3059
+     0      0        0     0     64.62
+    20     20      310     0     59.92
+    40     40      529     0     54.61
+    60     60      739     0     49.52
+    80     80      927     0     46.53
+   100    100     1139     0     33.79
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+  3380 202016.251  12608.4    605.5     33.8    639.3   0.000000   0.000000    0.000    0.000   8627
+  3639 211158.586      2.8      0.1     24.4     24.5   0.002932  35.162827    0.125    0.938   8668
+  3899 225883.970      2.0      0.1     24.1     24.3   0.003028  56.636094    0.100    0.894   8681
+  4159 240638.801      1.3      0.1     24.0     24.1   0.002925  56.749349    0.088    0.911   8702
+  4419 255366.949      1.1      0.1     24.0     24.1   0.002823  56.646725    0.073    0.816   8712
+  4679 270082.771      1.0      0.1     24.0     24.1   0.002727  56.599313    0.074    0.826   8701
+  4939 284791.270      1.0      0.1     24.0     24.0   0.002634  56.571152    0.068    0.781   8724
+  5199 299490.948      1.0      0.1     24.0     24.0   0.002544  56.537220    0.067    0.772   8734
+     0      0        0     0     29.05
+    20     20      210     0     28.86
+    40     40      369     0     28.79
+    60     60      568     0     28.72
+    80     80      748     0     28.63
+   100    100      924     0     28.60
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0 299490.948      3.9      0.2     28.6     28.8   0.000000   0.000000    0.000    0.000   8741
+     4 299643.210      0.0      0.0     28.6     28.6   0.000029  30.452424    0.004    0.036   8741
+     9 299815.480      0.0      0.0     28.6     28.6   0.000019  34.454123    0.003    0.024   8741
+    14 300010.389      0.0      0.0     28.6     28.6   0.000014  38.981678    0.003    0.020   8741
+    19 300230.910      0.0      0.0     28.6     28.6   0.000011  44.104190    0.003    0.019   8737
+    24 300480.409      0.0      0.0     28.6     28.6   0.000010  49.899843    0.002    0.017   8737
+    29 300762.694      0.0      0.0     28.6     28.6   0.000009  56.457092    0.002    0.017   8737
+    34 301082.074      0.0      0.0     28.6     28.6   0.000009  63.876018    0.003    0.018   8737
+    39 301443.424      0.0      0.0     28.6     28.6   0.000009  72.269851    0.003    0.019   8739
+    44 301852.257      0.0      0.0     28.6     28.6   0.000009  81.766703    0.003    0.020   8739
+    49 302314.815      0.0      0.0     28.6     28.6   0.000019  92.511520    0.007    0.071   8739
+    54 302746.382      0.0      0.0     28.6     28.6   0.019348  86.313357    0.192    2.189   8739
+    59 303176.431      0.0      0.0     30.1     30.1   0.010513  86.009820    0.232    2.614   8735
+    64 303527.581      1.5      0.1     30.1     30.1   0.030730  70.230101    0.919   10.405   8735
+    69 303808.512      0.0      0.0     28.6     28.6   0.010332  56.186186    0.180    2.004   8735
+    74 304101.888      0.0      0.0     28.6     28.6   0.000026  58.675243    0.007    0.061   8735
+    79 304433.817      0.0      0.0     28.6     28.6   0.000012  66.385651    0.005    0.040   8724
+    84 304809.363      0.0      0.0     28.6     28.6   0.000008  75.109271    0.004    0.033   8724
+    89 305234.259      0.0      0.0     28.6     28.6   0.000004  84.979246    0.005    0.041   8724
+    94 305698.459      0.0      0.0     30.4     30.4   0.011963  92.839919    0.185    2.066   8724
+    99 306019.733      1.1      0.0     32.1     32.1   0.039939  64.254770    0.827    9.213   8712
+     0      0        0     0     32.09
+    20     20      203     0     30.18
+    40     40      400     0     28.69
+    60     60      563     0     28.66
+    80     80      723     0     28.60
+   100    100      874     0     28.57
+   120    120     1013     0     28.57
+   133    133     1105     0     28.57
+NNOE 266 nRepel 8690
+energy is 28.5660262141
+etime  47.1349999905

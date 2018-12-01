@@ -1,0 +1,37 @@
+molecule :
+    entities :
+      - 
+        file : restraints/2l1v.seq
+        ptype : rna
+        type : nv
+      -   
+        file : restraints/ligand.pdb
+        type : pdb
+        resnum : 37
+
+    link :
+      atoms :
+         - A:7.O6
+         - PRF:.H112 
+      n : 5
+
+tree:
+
+rna : 
+    ribose : Constrain
+
+distances :
+    - file : restraints/NOE.tbl
+      type : xplor 
+    - file : restraints/hydra.tbl
+      type : xplor
+
+angles :
+    - file : restraints/dih.tbl
+      type : xplor
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    irpWeight : 0.0
+    swap : 20

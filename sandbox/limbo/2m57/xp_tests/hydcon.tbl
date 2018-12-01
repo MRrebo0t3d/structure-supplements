@@ -1,0 +1,280 @@
+ assi 
+   (( segid "   A" and resid 1    and name  H1  ))
+   (( segid "   A" and resid 35   and name  H3  ))
+      1.900     0.100     0.200
+
+ assi 
+   (( segid "   A" and resid 1    and name  O6  ))
+   (( segid "   A" and resid 35   and name  H3  ))
+      1.900     0.100     0.200
+
+ assi 
+   (( segid "   A" and resid 1    and name  O6  ))
+   (( segid "   A" and resid 35   and name  N3  ))
+      2.900     0.100     0.200
+
+ assi 
+   (( segid "   A" and resid 1    and name  H1  ))
+   (( segid "   A" and resid 35   and name  O2  ))
+      1.900     0.100     0.200
+
+ assi 
+   (( segid "   A" and resid 2    and name  H1  ))
+   (( segid "   A" and resid 34   and name  N3  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 2    and name  N1  ))
+   (( segid "   A" and resid 34   and name  N3  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 2    and name  O6  ))
+   (( segid "   A" and resid 34   and name  H41 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 2    and name  O6  ))
+   (( segid "   A" and resid 34   and name  N4  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 2    and name  H21 ))
+   (( segid "   A" and resid 34   and name  O2  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 2    and name  N2  ))
+   (( segid "   A" and resid 34   and name  O2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 5    and name  N3  ))
+   (( segid "   A" and resid 31   and name  H1  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 5    and name  N3  ))
+   (( segid "   A" and resid 31   and name  N1  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 5    and name  H41 ))
+   (( segid "   A" and resid 31   and name  O6  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 5    and name  N4  ))
+   (( segid "   A" and resid 31   and name  O6  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 5    and name  O2  ))
+   (( segid "   A" and resid 31   and name  H21 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 5    and name  O2  ))
+   (( segid "   A" and resid 31   and name  N2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 6    and name  N3  ))
+   (( segid "   A" and resid 30   and name  H1  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 6    and name  N3  ))
+   (( segid "   A" and resid 30   and name  N1  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 6    and name  H41 ))
+   (( segid "   A" and resid 30   and name  O6  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 6    and name  N4  ))
+   (( segid "   A" and resid 30   and name  O6  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 6    and name  O2  ))
+   (( segid "   A" and resid 30   and name  H21 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 6    and name  O2  ))
+   (( segid "   A" and resid 30   and name  N2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 7    and name  H1  ))
+   (( segid "   A" and resid 29   and name  N3  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 7    and name  N1  ))
+   (( segid "   A" and resid 29   and name  N3  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 7    and name  O6  ))
+   (( segid "   A" and resid 29   and name  H41 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 7    and name  O6  ))
+   (( segid "   A" and resid 29   and name  N4  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 7    and name  H21 ))
+   (( segid "   A" and resid 29   and name  O2  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 7    and name  N2  ))
+   (( segid "   A" and resid 29   and name  O2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 8    and name  H3  ))
+   (( segid "   A" and resid 28   and name  N1  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 8    and name  N3  ))
+   (( segid "   A" and resid 28   and name  N1  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 8    and name  O4  ))
+   (( segid "   A" and resid 28   and name  H61 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 8    and name  O4  ))
+   (( segid "   A" and resid 28   and name  N6  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 11   and name  H1  ))
+   (( segid "   A" and resid 23   and name  N3  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 11   and name  N1  ))
+   (( segid "   A" and resid 23   and name  N3  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 11   and name  O6  ))
+   (( segid "   A" and resid 23   and name  H41 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 11   and name  O6  ))
+   (( segid "   A" and resid 23   and name  N4  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 11   and name  H21 ))
+   (( segid "   A" and resid 23   and name  O2  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 11   and name  N2  ))
+   (( segid "   A" and resid 23   and name  O2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 12   and name  N3  ))
+   (( segid "   A" and resid 22   and name  H1  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 12   and name  N3  ))
+   (( segid "   A" and resid 22   and name  N1  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 12   and name  H41 ))
+   (( segid "   A" and resid 22   and name  O6  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 12   and name  N4  ))
+   (( segid "   A" and resid 22   and name  O6  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 12   and name  O2  ))
+   (( segid "   A" and resid 22   and name  H21 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 12   and name  O2  ))
+   (( segid "   A" and resid 22   and name  N2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 13   and name  H1  ))
+   (( segid "   A" and resid 21   and name  N3  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 13   and name  N1  ))
+   (( segid "   A" and resid 21   and name  N3  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 13   and name  O6  ))
+   (( segid "   A" and resid 21   and name  H41 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 13   and name  O6  ))
+   (( segid "   A" and resid 21   and name  N4  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 13   and name  H21 ))
+   (( segid "   A" and resid 21   and name  O2  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 13   and name  N2  ))
+   (( segid "   A" and resid 21   and name  O2  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 14   and name  H1  ))
+   (( segid "   A" and resid 20   and name  N3  ))
+      1.900     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 14   and name  N1  ))
+   (( segid "   A" and resid 20   and name  N3  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 14   and name  O6  ))
+   (( segid "   A" and resid 20   and name  H41 ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 14   and name  O6  ))
+   (( segid "   A" and resid 20   and name  N4  ))
+      2.900     0.300     0.300
+
+ assi 
+   (( segid "   A" and resid 14   and name  H21 ))
+   (( segid "   A" and resid 20   and name  O2  ))
+      2.000     0.200     0.200
+
+ assi 
+   (( segid "   A" and resid 14   and name  N2  ))
+   (( segid "   A" and resid 20   and name  O2  ))
+      2.900     0.300     0.300
+

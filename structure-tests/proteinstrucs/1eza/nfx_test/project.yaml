@@ -1,0 +1,17 @@
+molecule :
+    file : restraints/1eza.seq
+    type : nv
+
+distances :
+#    - file : restraints/nfx_dist.txt
+    - file : xp_nfx_dist.txt
+      type : nmrfx
+
+angles :
+    - file : ../xp_tests/restraints/dih.tbl
+      type : xplor
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    swap : 20

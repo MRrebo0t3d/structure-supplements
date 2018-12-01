@@ -1,0 +1,3 @@
+#!/bin/bash
+export PYPATH=$(find ~/ -name "test-suite" -print0)/pythonScripts
+python $PYPATH/main.py $@

@@ -1,0 +1,22 @@
+molecule :
+   -
+    file : 2l1v.seq
+    ptype : rna
+    type : nv
+
+rna : 
+    ribose : Constrain
+
+distances :
+    - file : nmdistances
+      type : cyana
+
+angles :
+    - file : dihedrals.aco
+      type : cyana
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    irpWeight : 0.0
+    swap : 20

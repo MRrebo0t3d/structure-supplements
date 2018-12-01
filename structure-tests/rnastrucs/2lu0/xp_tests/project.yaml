@@ -1,0 +1,21 @@
+molecule :
+    file : restraints/2lu0.seq
+    ptype : rna
+    type : nv
+
+rna : 
+    ribose : Constrain
+
+angles : 
+    - file : restraints/dih.tbl
+      type : xplor
+
+distances :
+    - file : restraints/dis.tbl
+      type : xplor
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    irpWeight : 0.0
+    swap : 20

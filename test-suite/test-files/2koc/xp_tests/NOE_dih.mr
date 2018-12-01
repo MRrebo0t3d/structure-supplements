@@ -1,0 +1,184 @@
+! Torsion angle restraints
+!
+! nu0  (broad definition based on CCR and 3J coupling data 3 � 22 or -21 � 22)
+assign (resid  1 and name C4') (resid  1 and name O4') (resid  1 and name C1') (resid  1 and name C2') 1   3 22 2
+assign (resid  2 and name C4') (resid  2 and name O4') (resid  2 and name C1') (resid  2 and name C2') 1   3 22 2
+assign (resid  3 and name C4') (resid  3 and name O4') (resid  3 and name C1') (resid  3 and name C2') 1   3 22 2
+assign (resid  4 and name C4') (resid  4 and name O4') (resid  4 and name C1') (resid  4 and name C2') 1   3 22 2
+assign (resid  5 and name C4') (resid  5 and name O4') (resid  5 and name C1') (resid  5 and name C2') 1   3 22 2
+assign (resid  6 and name C4') (resid  6 and name O4') (resid  6 and name C1') (resid  6 and name C2') 1   3 22 2
+assign (resid  7 and name C4') (resid  7 and name O4') (resid  7 and name C1') (resid  7 and name C2') 1 -21 22 2
+assign (resid  8 and name C4') (resid  8 and name O4') (resid  8 and name C1') (resid  8 and name C2') 1 -21 22 2
+assign (resid  9 and name C4') (resid  9 and name O4') (resid  9 and name C1') (resid  9 and name C2') 1   3 22 2
+assign (resid 10 and name C4') (resid 10 and name O4') (resid 10 and name C1') (resid 10 and name C2') 1   3 22 2
+assign (resid 11 and name C4') (resid 11 and name O4') (resid 11 and name C1') (resid 11 and name C2') 1   3 22 2
+assign (resid 12 and name C4') (resid 12 and name O4') (resid 12 and name C1') (resid 12 and name C2') 1   3 22 2
+assign (resid 13 and name C4') (resid 13 and name O4') (resid 13 and name C1') (resid 13 and name C2') 1   3 22 2
+assign (resid 14 and name C4') (resid 14 and name O4') (resid 14 and name C1') (resid 14 and name C2') 1   3 22 2
+!
+! nu1  (broad definition based on CCR and 3J coupling data -25 � 20 or 35 � 16)
+assign (resid  1 and name O4') (resid  1 and name C1') (resid  1 and name C2') (resid  1 and name C3') 1 -25 20 2
+assign (resid  2 and name O4') (resid  2 and name C1') (resid  2 and name C2') (resid  2 and name C3') 1 -25 20 2
+assign (resid  3 and name O4') (resid  3 and name C1') (resid  3 and name C2') (resid  3 and name C3') 1 -25 20 2
+assign (resid  4 and name O4') (resid  4 and name C1') (resid  4 and name C2') (resid  4 and name C3') 1 -25 20 2
+assign (resid  5 and name O4') (resid  5 and name C1') (resid  5 and name C2') (resid  5 and name C3') 1 -25 20 2
+assign (resid  6 and name O4') (resid  6 and name C1') (resid  6 and name C2') (resid  6 and name C3') 1 -25 20 2
+assign (resid  7 and name O4') (resid  7 and name C1') (resid  7 and name C2') (resid  7 and name C3') 1  35 16 2
+assign (resid  8 and name O4') (resid  8 and name C1') (resid  8 and name C2') (resid  8 and name C3') 1  35 16 2
+assign (resid  9 and name O4') (resid  9 and name C1') (resid  9 and name C2') (resid  9 and name C3') 1 -25 20 2
+assign (resid 10 and name O4') (resid 10 and name C1') (resid 10 and name C2') (resid 10 and name C3') 1 -25 20 2
+assign (resid 11 and name O4') (resid 11 and name C1') (resid 11 and name C2') (resid 11 and name C3') 1 -25 20 2
+assign (resid 12 and name O4') (resid 12 and name C1') (resid 12 and name C2') (resid 12 and name C3') 1 -25 20 2
+assign (resid 13 and name O4') (resid 13 and name C1') (resid 13 and name C2') (resid 13 and name C3') 1 -25 20 2
+assign (resid 14 and name O4') (resid 14 and name C1') (resid 14 and name C2') (resid 14 and name C3') 1 -25 20 2
+!
+! nu2  (broad definition based on CCR and 3J coupling data 36 � 14 or -35 � 15)
+assign (resid  1 and name C1') (resid  1 and name C2') (resid  1 and name C3') (resid  1 and name C4') 1  36 14 2
+assign (resid  2 and name C1') (resid  2 and name C2') (resid  2 and name C3') (resid  2 and name C4') 1  36 14 2
+assign (resid  3 and name C1') (resid  3 and name C2') (resid  3 and name C3') (resid  3 and name C4') 1  36 14 2
+assign (resid  4 and name C1') (resid  4 and name C2') (resid  4 and name C3') (resid  4 and name C4') 1  36 14 2
+assign (resid  5 and name C1') (resid  5 and name C2') (resid  5 and name C3') (resid  5 and name C4') 1  36 14 2
+assign (resid  6 and name C1') (resid  6 and name C2') (resid  6 and name C3') (resid  6 and name C4') 1  36 14 2
+assign (resid  7 and name C1') (resid  7 and name C2') (resid  7 and name C3') (resid  7 and name C4') 1 -35 15 2
+assign (resid  8 and name C1') (resid  8 and name C2') (resid  8 and name C3') (resid  8 and name C4') 1 -35 15 2
+assign (resid  9 and name C1') (resid  9 and name C2') (resid  9 and name C3') (resid  9 and name C4') 1  36 14 2
+assign (resid 10 and name C1') (resid 10 and name C2') (resid 10 and name C3') (resid 10 and name C4') 1  36 14 2
+assign (resid 11 and name C1') (resid 11 and name C2') (resid 11 and name C3') (resid 11 and name C4') 1  36 14 2
+assign (resid 12 and name C1') (resid 12 and name C2') (resid 12 and name C3') (resid 12 and name C4') 1  36 14 2
+assign (resid 13 and name C1') (resid 13 and name C2') (resid 13 and name C3') (resid 13 and name C4') 1  36 14 2
+assign (resid 14 and name C1') (resid 14 and name C2') (resid 14 and name C3') (resid 14 and name C4') 1  36 14 2
+!
+! nu3  (broad definition based on CCR and 3J coupling data -35 � 15 or 24 � 23)
+assign (resid  1 and name C2') (resid  1 and name C3') (resid  1 and name C4') (resid  1 and name O4') 1 -35 15 2
+assign (resid  2 and name C2') (resid  2 and name C3') (resid  2 and name C4') (resid  2 and name O4') 1 -35 15 2
+assign (resid  3 and name C2') (resid  3 and name C3') (resid  3 and name C4') (resid  3 and name O4') 1 -35 15 2
+assign (resid  4 and name C2') (resid  4 and name C3') (resid  4 and name C4') (resid  4 and name O4') 1 -35 15 2
+assign (resid  5 and name C2') (resid  5 and name C3') (resid  5 and name C4') (resid  5 and name O4') 1 -35 15 2
+assign (resid  6 and name C2') (resid  6 and name C3') (resid  6 and name C4') (resid  6 and name O4') 1 -35 15 2
+assign (resid  7 and name C2') (resid  7 and name C3') (resid  7 and name C4') (resid  7 and name O4') 1  24 23 2
+assign (resid  8 and name C2') (resid  8 and name C3') (resid  8 and name C4') (resid  8 and name O4') 1  24 23 2
+assign (resid  9 and name C2') (resid  9 and name C3') (resid  9 and name C4') (resid  9 and name O4') 1 -35 15 2
+assign (resid 10 and name C2') (resid 10 and name C3') (resid 10 and name C4') (resid 10 and name O4') 1 -35 15 2
+assign (resid 11 and name C2') (resid 11 and name C3') (resid 11 and name C4') (resid 11 and name O4') 1 -35 15 2
+assign (resid 12 and name C2') (resid 12 and name C3') (resid 12 and name C4') (resid 12 and name O4') 1 -35 15 2
+assign (resid 13 and name C2') (resid 13 and name C3') (resid 13 and name C4') (resid 13 and name O4') 1 -35 15 2
+assign (resid 14 and name C2') (resid 14 and name C3') (resid 14 and name C4') (resid 14 and name O4') 1 -35 15 2
+!
+! nu4  (broad definition based on CCR and 3J coupling data 20 � 23 or -2 � 25)
+assign (resid  1 and name C3') (resid  1 and name C4') (resid  1 and name O4') (resid  1 and name C1') 1  20 23 2
+assign (resid  2 and name C3') (resid  2 and name C4') (resid  2 and name O4') (resid  2 and name C1') 1  20 23 2
+assign (resid  3 and name C3') (resid  3 and name C4') (resid  3 and name O4') (resid  3 and name C1') 1  20 23 2
+assign (resid  4 and name C3') (resid  4 and name C4') (resid  4 and name O4') (resid  4 and name C1') 1  20 23 2
+assign (resid  5 and name C3') (resid  5 and name C4') (resid  5 and name O4') (resid  5 and name C1') 1  20 23 2
+assign (resid  6 and name C3') (resid  6 and name C4') (resid  6 and name O4') (resid  6 and name C1') 1  20 23 2
+assign (resid  7 and name C3') (resid  7 and name C4') (resid  7 and name O4') (resid  7 and name C1') 1  -2 25 2
+assign (resid  8 and name C3') (resid  8 and name C4') (resid  8 and name O4') (resid  8 and name C1') 1  -2 25 2
+assign (resid  9 and name C3') (resid  9 and name C4') (resid  9 and name O4') (resid  9 and name C1') 1  20 23 2
+assign (resid 10 and name C3') (resid 10 and name C4') (resid 10 and name O4') (resid 10 and name C1') 1  20 23 2
+assign (resid 11 and name C3') (resid 11 and name C4') (resid 11 and name O4') (resid 11 and name C1') 1  20 23 2
+assign (resid 12 and name C3') (resid 12 and name C4') (resid 12 and name O4') (resid 12 and name C1') 1  20 23 2
+assign (resid 13 and name C3') (resid 13 and name C4') (resid 13 and name O4') (resid 13 and name C1') 1  20 23 2
+assign (resid 14 and name C3') (resid 14 and name C4') (resid 14 and name O4') (resid 14 and name C1') 1  20 23 2
+!
+! phi12 (from CCR)
+assign (resid  2 and name H1') (resid  2 and name C1') (resid  2 and name C2') (resid  2 and name H2') 1  80.4 25 2
+assign (resid  3 and name H1') (resid  3 and name C1') (resid  3 and name C2') (resid  3 and name H2') 1  88.9 15 2
+assign (resid  4 and name H1') (resid  4 and name C1') (resid  4 and name C2') (resid  4 and name H2') 1  85.1 15 2
+assign (resid  5 and name H1') (resid  5 and name C1') (resid  5 and name C2') (resid  5 and name H2') 1  99.4 10 2
+assign (resid  6 and name H1') (resid  6 and name C1') (resid  6 and name C2') (resid  6 and name H2') 1 106.7 10 2
+assign (resid  7 and name H1') (resid  7 and name C1') (resid  7 and name C2') (resid  7 and name H2') 1 165.1 10 2
+assign (resid  8 and name H1') (resid  8 and name C1') (resid  8 and name C2') (resid  8 and name H2') 1 180.0 25 2
+assign (resid  9 and name H1') (resid  9 and name C1') (resid  9 and name C2') (resid  9 and name H2') 1  90.0 15 2
+assign (resid 11 and name H1') (resid 11 and name C1') (resid 11 and name C2') (resid 11 and name H2') 1  88.9 15 2
+assign (resid 12 and name H1') (resid 12 and name C1') (resid 12 and name C2') (resid 12 and name H2') 1  80.4 25 2
+assign (resid 13 and name H1') (resid 13 and name C1') (resid 13 and name C2') (resid 13 and name H2') 1  99.6 10 2
+assign (resid 14 and name H1') (resid 14 and name C1') (resid 14 and name C2') (resid 14 and name H2') 1 106.2 10 2
+!
+! phi34 (from CCR)
+assign (resid  2 and name H3') (resid  2 and name C3') (resid  2 and name C4') (resid  2 and name H4') 1 -152.7 10 2
+assign (resid  3 and name H3') (resid  3 and name C3') (resid  3 and name C4') (resid  3 and name H4') 1 -160.9 10 2
+assign (resid  4 and name H3') (resid  4 and name C3') (resid  4 and name C4') (resid  4 and name H4') 1 -154.3 10 2
+assign (resid  6 and name H3') (resid  6 and name C3') (resid  6 and name C4') (resid  6 and name H4') 1 -157.4 10 2
+assign (resid  7 and name H3') (resid  7 and name C3') (resid  7 and name C4') (resid  7 and name H4') 1 -109.2 10 2
+assign (resid  8 and name H3') (resid  8 and name C3') (resid  8 and name C4') (resid  8 and name H4') 1  -98.9 15 2
+assign (resid  9 and name H3') (resid  9 and name C3') (resid  9 and name C4') (resid  9 and name H4') 1 -152.9 10 2
+assign (resid 11 and name H3') (resid 11 and name C3') (resid 11 and name C4') (resid 11 and name H4') 1 -150.4 10 2
+!
+! chi (from CCR)
+assign (resid  2 and name O4') (resid  2 and name C1') (resid  2 and name N9) (resid  2 and name C4) 1 -167.6 10 2
+assign (resid  3 and name O4') (resid  3 and name C1') (resid  3 and name N1) (resid  3 and name C2) 1 -166.3 10 2
+assign (resid  4 and name O4') (resid  4 and name C1') (resid  4 and name N9) (resid  4 and name C4) 1 -163.7 10 2
+assign (resid  5 and name O4') (resid  5 and name C1') (resid  5 and name N1) (resid  5 and name C2) 1 -161.2 10 2
+assign (resid  6 and name O4') (resid  6 and name C1') (resid  6 and name N1) (resid  6 and name C2) 1 -158.8 15 2
+assign (resid  7 and name O4') (resid  7 and name C1') (resid  7 and name N1) (resid  7 and name C2) 1 -136.4 15 2
+assign (resid  8 and name O4') (resid  8 and name C1') (resid  8 and name N1) (resid  8 and name C2) 1 -138.4 20 2
+assign (resid  9 and name O4') (resid  9 and name C1') (resid  9 and name N9) (resid  9 and name C4) 1   59.0 20 2
+assign (resid 10 and name O4') (resid 10 and name C1') (resid 10 and name N9) (resid 10 and name C4) 1 -180.0 20 2
+assign (resid 11 and name O4') (resid 11 and name C1') (resid 11 and name N1) (resid 11 and name C2) 1 -169.1 15 2
+assign (resid 12 and name O4') (resid 12 and name C1') (resid 12 and name N9) (resid 12 and name C4) 1 -167.0 10 2
+assign (resid 13 and name O4') (resid 13 and name C1') (resid 13 and name N1) (resid 13 and name C2) 1 -158.6 10 2
+assign (resid 14 and name O4') (resid 14 and name C1') (resid 14 and name N1) (resid 14 and name C2) 1 -151.2 15 2
+!
+! beta (from 3J)
+assign (resid  1 and name P) (resid  1 and name O5') (resid  1 and name C5') (resid  1 and name C4') 1  180 40 2
+assign (resid  2 and name P) (resid  2 and name O5') (resid  2 and name C5') (resid  2 and name C4') 1  180 40 2
+assign (resid  3 and name P) (resid  3 and name O5') (resid  3 and name C5') (resid  3 and name C4') 1  177 30 2
+assign (resid  5 and name P) (resid  5 and name O5') (resid  5 and name C5') (resid  5 and name C4') 1  176 15 2
+assign (resid  6 and name P) (resid  6 and name O5') (resid  6 and name C5') (resid  6 and name C4') 1  176 25 2
+assign (resid  7 and name P) (resid  7 and name O5') (resid  7 and name C5') (resid  7 and name C4') 1  180 60 2
+assign (resid  8 and name P) (resid  8 and name O5') (resid  8 and name C5') (resid  8 and name C4') 1  184 25 2
+assign (resid 11 and name P) (resid 11 and name O5') (resid 11 and name C5') (resid 11 and name C4') 1  184 30 2
+assign (resid 13 and name P) (resid 13 and name O5') (resid 13 and name C5') (resid 13 and name C4') 1  180 20 2
+assign (resid 14 and name P) (resid 14 and name O5') (resid 14 and name C5') (resid 14 and name C4') 1  175 40 2
+!
+! epsilon (from 3J)
+assign (resid  1 and name C4') (resid  1 and name C3') (resid  1 and name O3') (resid  2 and name P) 1 -132 20 2
+assign (resid  3 and name C4') (resid  3 and name C3') (resid  3 and name O3') (resid  4 and name P) 1 -166 40 2
+assign (resid  4 and name C4') (resid  4 and name C3') (resid  4 and name O3') (resid  5 and name P) 1 -171 20 2
+assign (resid  5 and name C4') (resid  5 and name C3') (resid  5 and name O3') (resid  6 and name P) 1 -140 15 2
+assign (resid  6 and name C4') (resid  6 and name C3') (resid  6 and name O3') (resid  7 and name P) 1 -153 15 2
+assign (resid  7 and name C4') (resid  7 and name C3') (resid  7 and name O3') (resid  8 and name P) 1  300 60 2
+assign (resid  8 and name C4') (resid  8 and name C3') (resid  8 and name O3') (resid  9 and name P) 1  215 60 2
+assign (resid  9 and name C4') (resid  9 and name C3') (resid  9 and name O3') (resid 10 and name P) 1 -148 15 2
+assign (resid 10 and name C4') (resid 10 and name C3') (resid 10 and name O3') (resid 11 and name P) 1 -166 40 2
+assign (resid 11 and name C4') (resid 11 and name C3') (resid 11 and name O3') (resid 12 and name P) 1 -148 20 2
+assign (resid 12 and name C4') (resid 12 and name C3') (resid 12 and name O3') (resid 13 and name P) 1 -143 20 2
+assign (resid 13 and name C4') (resid 13 and name C3') (resid 13 and name O3') (resid 14 and name P) 1 -143 20 2
+!
+! alpha (from CCR)
+assign (resid  2 and name O3') (resid  3 and name P) (resid  3 and name O5') (resid  3 and name C5') 1 -83 25 2
+assign (resid  4 and name O3') (resid  5 and name P) (resid  5 and name O5') (resid  5 and name C5') 1 -86 25 2
+assign (resid  5 and name O3') (resid  6 and name P) (resid  6 and name O5') (resid  6 and name C5') 1 -85 25 2
+assign (resid  6 and name O3') (resid  7 and name P) (resid  7 and name O5') (resid  7 and name C5') 1 176 50 2
+assign (resid  7 and name O3') (resid  8 and name P) (resid  8 and name O5') (resid  8 and name C5') 1 -74 30 2
+assign (resid  8 and name O3') (resid  9 and name P) (resid  9 and name O5') (resid  9 and name C5') 1  76 50 2
+assign (resid  9 and name O3') (resid 10 and name P) (resid 10 and name O5') (resid 10 and name C5') 1 -94 25 2
+assign (resid 10 and name O3') (resid 11 and name P) (resid 11 and name O5') (resid 11 and name C5') 1 -85 25 2
+assign (resid 11 and name O3') (resid 12 and name P) (resid 12 and name O5') (resid 12 and name C5') 1 -81 25 2
+assign (resid 12 and name O3') (resid 13 and name P) (resid 13 and name O5') (resid 13 and name C5') 1 -84 25 2
+assign (resid 13 and name O3') (resid 14 and name P) (resid 14 and name O5') (resid 14 and name C5') 1 -84 60 2
+!
+! zeta (from CCR)
+assign (resid  3 and name C3') (resid  3 and name O3') (resid  4 and name P) (resid  4 and name O5') 1  -83 30 2
+assign (resid  4 and name C3') (resid  4 and name O3') (resid  5 and name P) (resid  5 and name O5') 1  -80 30 2
+assign (resid  5 and name C3') (resid  5 and name O3') (resid  6 and name P) (resid  6 and name O5') 1  -66 30 2
+assign (resid  6 and name C3') (resid  6 and name O3') (resid  7 and name P) (resid  7 and name O5') 1 -100 30 2
+assign (resid  7 and name C3') (resid  7 and name O3') (resid  8 and name P) (resid  8 and name O5') 1  -48 30 2
+assign (resid  8 and name C3') (resid  8 and name O3') (resid  9 and name P) (resid  9 and name O5') 1  100 60 2
+assign (resid  9 and name C3') (resid  9 and name O3') (resid 10 and name P) (resid 10 and name O5') 1  -46 30 2
+assign (resid 10 and name C3') (resid 10 and name O3') (resid 11 and name P) (resid 11 and name O5') 1  -75 30 2
+assign (resid 11 and name C3') (resid 11 and name O3') (resid 12 and name P) (resid 12 and name O5') 1  -83 30 2
+assign (resid 12 and name C3') (resid 12 and name O3') (resid 13 and name P) (resid 13 and name O5') 1  -97 30 2
+assign (resid 13 and name C3') (resid 13 and name O3') (resid 14 and name P) (resid 14 and name O5') 1 -102 50 2
+!
+! gamma (qualitative from J)
+assign (resid  1 and name O5') (resid  1 and name C5') (resid  1 and name C4') (resid  1 and name C3') 1  60 30 2
+assign (resid  2 and name O5') (resid  2 and name C5') (resid  2 and name C4') (resid  2 and name C3') 1  60 30 2    
+assign (resid  5 and name O5') (resid  5 and name C5') (resid  5 and name C4') (resid  5 and name C3') 1  60 30 2  
+assign (resid  6 and name O5') (resid  6 and name C5') (resid  6 and name C4') (resid  6 and name C3') 1  60 30 2  
+assign (resid  7 and name O5') (resid  7 and name C5') (resid  7 and name C4') (resid  7 and name C3') 1  60 30 2  
+assign (resid  8 and name O5') (resid  8 and name C5') (resid  8 and name C4') (resid  8 and name C3') 1  60 30 2  
+assign (resid  9 and name O5') (resid  9 and name C5') (resid  9 and name C4') (resid  9 and name C3') 1 180 30 2  
+assign (resid 11 and name O5') (resid 11 and name C5') (resid 11 and name C4') (resid 11 and name C3') 1  60 30 2 
+assign (resid 13 and name O5') (resid 13 and name C5') (resid 13 and name C4') (resid 13 and name C3') 1  60 30 2 
+assign (resid 14 and name O5') (resid 14 and name C5') (resid 14 and name C4') (resid 14 and name C3') 1  60 30 2 

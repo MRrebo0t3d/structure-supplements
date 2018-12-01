@@ -1,0 +1,11 @@
+site_name: "Refine Documentation"
+
+generate:
+- docs/refine.md:
+  - refine.refine:
+    - refine.refine+     # (+ to include members)
+
+pages:
+- Home: index.md << ../../nmrfxstrc-proj/docs/index.md
+- refine.refine:
+  - Refine Doc: docs/refine.md

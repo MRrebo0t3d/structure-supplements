@@ -1,0 +1,5 @@
+#!/bin/bash
+echo $1
+mv final/* $1
+mv project.yaml  ${1}/project.yaml
+rm -r output

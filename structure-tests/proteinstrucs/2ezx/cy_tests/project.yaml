@@ -1,0 +1,16 @@
+molecule :
+    file : restraints/2ezx.seq
+    type : nv
+
+distances :
+    - file : restraints/distances
+      type : cyana
+
+angles :
+    - file : restraints/dihedrals.aco
+      type : cyana
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    swap : 20

@@ -1,0 +1,76 @@
+ 43 TYR  H      44 VAL  QG1     1.80
+ 43 TYR  H      44 VAL  QG2     0.00
+ 44 VAL  QG1    45 VAL  H       1.80
+ 44 VAL  QG2    45 VAL  H       0.00
+193 TYR  H     194 VAL  QG1     1.80
+193 TYR  H     194 VAL  QG2     0.00
+194 VAL  QG1   195 VAL  H       1.80
+194 VAL  QG2   195 VAL  H       0.00
+  3 THR  QG2     4 SER  HA      1.80
+  3 THR  HG1     4 SER  HA      0.00
+ 43 TYR  QE     44 VAL  QG2     1.80
+ 43 TYR  QE     44 VAL  QG1     0.00
+ 43 TYR  QD     44 VAL  QG2     1.80
+ 43 TYR  QD     44 VAL  QG1     0.00
+153 THR  QG2   154 SER  HA      1.80
+153 THR  HG1   154 SER  HA      0.00
+193 TYR  QE    194 VAL  QG2     1.80
+193 TYR  QE    194 VAL  QG1     0.00
+193 TYR  QD    194 VAL  QG2     1.80
+193 TYR  QD    194 VAL  QG1     0.00
+ 39 PHE  QD     44 VAL  QG1     1.80
+ 39 PHE  QD     44 VAL  QG2     0.00
+ 39 PHE  QE     44 VAL  QG1     1.80
+ 39 PHE  QE     44 VAL  QG2     0.00
+ 39 PHE  HA     44 VAL  QG1     1.80
+ 39 PHE  HA     44 VAL  QG2     0.00
+ 39 PHE  QB     44 VAL  QG2     1.80
+ 39 PHE  QB     44 VAL  QG1     0.00
+ 41 LYS  QB     44 VAL  QG2     1.80
+ 41 LYS  QB     44 VAL  QG1     0.00
+189 PHE  QD    194 VAL  QG1     1.80
+189 PHE  QD    194 VAL  QG2     0.00
+189 PHE  QE    194 VAL  QG1     1.80
+189 PHE  QE    194 VAL  QG2     0.00
+189 PHE  HA    194 VAL  QG1     1.80
+189 PHE  HA    194 VAL  QG2     0.00
+189 PHE  QB    194 VAL  QG2     1.80
+189 PHE  QB    194 VAL  QG1     0.00
+191 LYS  QB    194 VAL  QG2     1.80
+191 LYS  QB    194 VAL  QG1     0.00
+ 44 VAL  QG2   203 LYS  H       1.80
+ 44 VAL  QG1   203 LYS  H       0.00
+194 VAL  QG2    53 LYS  H       1.80
+194 VAL  QG1    53 LYS  H       0.00
+ 44 VAL  QG1   197 GLY  QA      1.80
+ 44 VAL  QG2   197 GLY  QA      0.00
+194 VAL  QG2    47 GLY  QA      1.80
+194 VAL  QG1    47 GLY  QA      0.00
+ 44 VAL  QG2   201 VAL  HA      1.80
+ 44 VAL  QG1   201 VAL  HA      0.00
+194 VAL  QG2    51 VAL  HA      1.80
+194 VAL  QG1    51 VAL  HA      0.00
+ 44 VAL  QG2   201 VAL  H       1.80
+ 44 VAL  QG1   201 VAL  H       0.00
+194 VAL  QG2    51 VAL  H       1.80
+194 VAL  QG1    51 VAL  H       0.00
+ 44 VAL  QG2   201 VAL  HB      1.80
+ 44 VAL  QG1   201 VAL  HB      0.00
+194 VAL  QG2    51 VAL  HB      1.80
+194 VAL  QG1    51 VAL  HB      0.00
+ 44 VAL  QG2   203 LYS  H       1.80
+ 44 VAL  QG1   203 LYS  H       0.00
+194 VAL  QG2    53 LYS  H       1.80
+194 VAL  QG1    53 LYS  H       0.00
+ 44 VAL  QG1   203 LYS  QD      1.80
+ 44 VAL  QG2   203 LYS  QD      0.00
+194 VAL  QG2    53 LYS  QD      1.80
+194 VAL  QG1    53 LYS  QD      0.00
+ 44 VAL  QG1   203 LYS  QG      1.80
+ 44 VAL  QG2   203 LYS  QG      0.00
+194 VAL  QG2    53 LYS  QG      1.80
+194 VAL  QG1    53 LYS  QG      0.00
+ 44 VAL  QG2   203 LYS  QE      1.80
+ 44 VAL  QG1   203 LYS  QE      0.00
+194 VAL  QG2    53 LYS  QE      1.80
+194 VAL  QG1    53 LYS  QE      0.00

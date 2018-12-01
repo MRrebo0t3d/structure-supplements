@@ -1,0 +1,10 @@
+1 Irp     0 0.000 Dih   108 0.061 Robson     0 0.000 Repel  4503 0.254 Distance   367 0.614 0.333 Shift     0 0.000 Total 0.929
+2 Irp     0 0.000 Dih   108 0.070 Robson     0 0.000 Repel  4388 0.248 Distance   367 0.613 0.328 Shift     0 0.000 Total 0.931
+3 Irp     0 0.000 Dih   108 0.064 Robson     0 0.000 Repel  4538 0.262 Distance   367 0.611 0.332 Shift     0 0.000 Total 0.937
+4 Irp     0 0.000 Dih   108 0.070 Robson     0 0.000 Repel  4419 0.255 Distance   367 0.614 0.330 Shift     0 0.000 Total 0.939
+5 Irp     0 0.000 Dih   108 0.066 Robson     0 0.000 Repel  4517 0.269 Distance   367 0.609 0.331 Shift     0 0.000 Total 0.944
+6 Irp     0 0.000 Dih   108 0.060 Robson     0 0.000 Repel  4369 0.270 Distance   367 0.613 0.326 Shift     0 0.000 Total 0.944
+7 Irp     0 0.000 Dih   108 0.067 Robson     0 0.000 Repel  4398 0.273 Distance   367 0.614 0.332 Shift     0 0.000 Total 0.954
+8 Irp     0 0.000 Dih   108 0.061 Robson     0 0.000 Repel  4485 0.278 Distance   367 0.624 0.348 Shift     0 0.000 Total 0.963
+9 Irp     0 0.000 Dih   108 0.062 Robson     0 0.000 Repel  4447 0.292 Distance   367 0.614 0.334 Shift     0 0.000 Total 0.968
+10 Irp     0 0.000 Dih   108 0.061 Robson     0 0.000 Repel  4449 0.288 Distance   367 0.622 0.344 Shift     0 0.000 Total 0.970

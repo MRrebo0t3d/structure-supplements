@@ -1,0 +1,752 @@
+Nfix 2468
+this is atom pair: 2koc:10.H1' 2koc:11.H6
+this is atom pair: 2koc:10.H2' 2koc:11.H6
+this is atom pair: 2koc:6.H3' 2koc:6.H6
+this is atom pair: 2koc:12.H3' 2koc:12.H8
+this is atom pair: 2koc:2.H2' 2koc:3.H6
+this is atom pair: 2koc:4.H5' 2koc:4.H8
+this is atom pair: 2koc:3.H2' 2koc:4.H8
+this is atom pair: 2koc:5.H2' 2koc:6.H1'
+this is atom pair: 2koc:5.H2' 2koc:6.H5
+this is atom pair: 2koc:6.H1' 2koc:6.H4'
+this is atom pair: 2koc:10.H4' 2koc:9.H3'
+this is atom pair: 2koc:6.H3' 2koc:6.H6
+this is atom pair: 2koc:11.H3' 2koc:12.H8
+this is atom pair: 2koc:12.H3' 2koc:12.H8
+this is atom pair: 2koc:2.H2' 2koc:3.H6
+this is atom pair: 2koc:12.H21 2koc:3.H1'
+this is atom pair: 2koc:3.H1' 2koc:4.H8
+this is atom pair: 2koc:5.H2' 2koc:5.H41
+this is atom pair: 2koc:7.H3' 2koc:8.H42
+this is atom pair: 2koc:11.H1' 2koc:11.H6
+this is atom pair: 2koc:3.H1' 2koc:3.H6
+this is atom pair: 2koc:1.H1 2koc:14.H41
+this is atom pair: 2koc:1.H1 2koc:14.H42
+this is atom pair: 2koc:1.H1' 2koc:1.H4'
+this is atom pair: 2koc:1.H1' 2koc:1.H8
+this is atom pair: 2koc:1.H2' 2koc:1.H8
+this is atom pair: 2koc:1.H3' 2koc:1.H8
+this is atom pair: 2koc:1.H5'' 2koc:1.H8
+this is atom pair: 2koc:12.H1 2koc:2.H1
+this is atom pair: 2koc:13.H41 2koc:2.H1
+this is atom pair: 2koc:14.H42 2koc:2.H1
+this is atom pair: 2koc:14.H5 2koc:2.H1
+this is atom pair: 2koc:2.H1 2koc:3.H42
+this is atom pair: 2koc:2.H1' 2koc:2.H2'
+this is atom pair: 2koc:1.H1' 2koc:2.H8
+this is atom pair: 2koc:1.H3' 2koc:2.H8
+this is atom pair: 2koc:2.H1' 2koc:2.H8
+this is atom pair: 2koc:2.H3' 2koc:2.H8
+this is atom pair: 2koc:2.H5' 2koc:2.H8
+this is atom pair: 2koc:2.H1' 2koc:2.HO2'
+this is atom pair: 2koc:2.H2' 2koc:2.HO2'
+this is atom pair: 2koc:3.H1' 2koc:3.H4'
+this is atom pair: 2koc:2.H1 2koc:3.H41
+this is atom pair: 2koc:3.H41 2koc:3.H5
+this is atom pair: 2koc:3.H41 2koc:4.H61
+this is atom pair: 2koc:3.H41 2koc:3.H42
+this is atom pair: 2koc:3.H42 2koc:3.H5
+this is atom pair: 2koc:3.H42 2koc:4.H61
+this is atom pair: 2koc:3.H42 2koc:4.H62
+this is atom pair: 2koc:2.H1' 2koc:3.H6
+this is atom pair: 2koc:2.HO2' 2koc:3.H6
+this is atom pair: 2koc:3.H1' 2koc:3.H6
+this is atom pair: 2koc:3.H5 2koc:3.H6
+this is atom pair: 2koc:3.H1' 2koc:3.HO2'
+this is atom pair: 2koc:3.H2' 2koc:3.HO2'
+this is atom pair: 2koc:3.H3' 2koc:3.HO2'
+this is atom pair: 2koc:4.H1' 2koc:5.H1'
+this is atom pair: 2koc:12.H1' 2koc:4.H2
+this is atom pair: 2koc:4.H1' 2koc:4.H2
+this is atom pair: 2koc:4.H2 2koc:5.H1'
+this is atom pair: 2koc:4.H1' 2koc:4.H3'
+this is atom pair: 2koc:4.H61 2koc:4.H62
+this is atom pair: 2koc:3.HO2' 2koc:4.H8
+this is atom pair: 2koc:4.H1' 2koc:4.H8
+this is atom pair: 2koc:4.H3' 2koc:4.H8
+this is atom pair: 2koc:4.H5'' 2koc:4.H8
+this is atom pair: 2koc:4.H8 2koc:5.H5
+this is atom pair: 2koc:4.H8 2koc:5.H6
+this is atom pair: 2koc:4.H1' 2koc:4.HO2'
+this is atom pair: 2koc:4.H3' 2koc:4.HO2'
+this is atom pair: 2koc:5.H1' 2koc:5.H2'
+this is atom pair: 2koc:5.H1' 2koc:5.H3'
+this is atom pair: 2koc:5.H3' 2koc:6.H5
+this is atom pair: 2koc:5.H1' 2koc:5.H4'
+this is atom pair: 2koc:5.H41 2koc:5.H5
+this is atom pair: 2koc:5.H41 2koc:6.H5
+this is atom pair: 2koc:4.H61 2koc:5.H42
+this is atom pair: 2koc:4.H62 2koc:5.H42
+this is atom pair: 2koc:5.H41 2koc:5.H42
+this is atom pair: 2koc:5.H42 2koc:5.H5
+this is atom pair: 2koc:5.H42 2koc:6.H5
+this is atom pair: 2koc:4.H1' 2koc:5.H6
+this is atom pair: 2koc:4.H3' 2koc:5.H6
+this is atom pair: 2koc:4.HO2' 2koc:5.H6
+this is atom pair: 2koc:5.H1' 2koc:5.H6
+this is atom pair: 2koc:5.H2' 2koc:5.H6
+this is atom pair: 2koc:5.H3' 2koc:5.H6
+this is atom pair: 2koc:5.H5 2koc:5.H6
+this is atom pair: 2koc:5.H5' 2koc:5.H6
+this is atom pair: 2koc:5.H5'' 2koc:5.H6
+this is atom pair: 2koc:5.H6 2koc:6.H5
+this is atom pair: 2koc:5.H2' 2koc:5.HO2'
+this is atom pair: 2koc:5.H3' 2koc:5.HO2'
+this is atom pair: 2koc:5.HO2' 2koc:6.H5'
+this is atom pair: 2koc:5.HO2' 2koc:6.H5''
+this is atom pair: 2koc:6.H1' 2koc:6.H3'
+this is atom pair: 2koc:6.H1' 2koc:6.H4'
+this is atom pair: 2koc:6.H1' 2koc:6.H2'
+this is atom pair: 2koc:6.H2' 2koc:8.H5
+this is atom pair: 2koc:6.H2' 2koc:6.H3'
+this is atom pair: 2koc:6.H3' 2koc:6.H5
+this is atom pair: 2koc:6.H3' 2koc:8.H5
+this is atom pair: 2koc:6.H2' 2koc:6.H4'
+this is atom pair: 2koc:5.H2' 2koc:6.H6
+this is atom pair: 2koc:5.H3' 2koc:6.H6
+this is atom pair: 2koc:5.H5 2koc:6.H6
+this is atom pair: 2koc:5.H6 2koc:6.H6
+this is atom pair: 2koc:5.HO2' 2koc:6.H6
+this is atom pair: 2koc:6.H2' 2koc:6.H6
+this is atom pair: 2koc:6.H5 2koc:6.H6
+this is atom pair: 2koc:6.H6 2koc:6.HO2'
+this is atom pair: 2koc:6.H6 2koc:8.H41
+this is atom pair: 2koc:6.H6 2koc:8.H42
+this is atom pair: 2koc:6.H1' 2koc:6.HO2'
+this is atom pair: 2koc:6.H2' 2koc:6.HO2'
+this is atom pair: 2koc:6.H3' 2koc:6.HO2'
+this is atom pair: 2koc:6.H4' 2koc:6.HO2'
+this is atom pair: 2koc:6.H5' 2koc:6.HO2'
+this is atom pair: 2koc:6.HO2' 2koc:7.H1'
+this is atom pair: 2koc:6.HO2' 2koc:7.H2'
+this is atom pair: 2koc:6.HO2' 2koc:7.H5
+this is atom pair: 2koc:6.HO2' 2koc:7.H6
+this is atom pair: 2koc:7.H1' 2koc:7.H4'
+this is atom pair: 2koc:7.H1' 2koc:7.H2'
+this is atom pair: 2koc:7.H2' 2koc:7.H5
+this is atom pair: 2koc:6.H4' 2koc:7.H5
+this is atom pair: 2koc:6.H2' 2koc:7.H6
+this is atom pair: 2koc:7.H1' 2koc:7.H6
+this is atom pair: 2koc:7.H2' 2koc:7.H6
+this is atom pair: 2koc:7.H3' 2koc:7.H6
+this is atom pair: 2koc:7.H4' 2koc:7.H6
+this is atom pair: 2koc:7.H5 2koc:7.H6
+this is atom pair: 2koc:7.H5' 2koc:7.H6
+this is atom pair: 2koc:8.H1' 2koc:8.H4'
+this is atom pair: 2koc:8.H1' 2koc:8.H2'
+this is atom pair: 2koc:8.H2' 2koc:8.H4'
+this is atom pair: 2koc:8.H2' 2koc:8.H5'
+this is atom pair: 2koc:8.H2' 2koc:8.H5''
+this is atom pair: 2koc:8.H3' 2koc:8.H4'
+this is atom pair: 2koc:8.H3' 2koc:8.H5'
+this is atom pair: 2koc:8.H3' 2koc:8.H5''
+this is atom pair: 2koc:8.H4' 2koc:8.H5'
+this is atom pair: 2koc:8.H4' 2koc:8.H5''
+this is atom pair: 2koc:6.H2' 2koc:8.H41
+this is atom pair: 2koc:6.H3' 2koc:8.H41
+this is atom pair: 2koc:6.H5 2koc:8.H41
+this is atom pair: 2koc:8.H41 2koc:8.H5
+this is atom pair: 2koc:6.H2' 2koc:8.H42
+this is atom pair: 2koc:6.H3' 2koc:8.H42
+this is atom pair: 2koc:7.H5'' 2koc:8.H42
+this is atom pair: 2koc:8.H41 2koc:8.H42
+this is atom pair: 2koc:8.H42 2koc:8.H5
+this is atom pair: 2koc:6.HO2' 2koc:8.H5
+this is atom pair: 2koc:7.H3' 2koc:8.H5
+this is atom pair: 2koc:7.H5' 2koc:8.H5
+this is atom pair: 2koc:7.H5'' 2koc:8.H5
+this is atom pair: 2koc:8.H2' 2koc:8.H5
+this is atom pair: 2koc:8.H5' 2koc:8.H5''
+this is atom pair: 2koc:6.H2' 2koc:8.H6
+this is atom pair: 2koc:6.HO2' 2koc:8.H6
+this is atom pair: 2koc:8.H1' 2koc:8.H6
+this is atom pair: 2koc:8.H2' 2koc:8.H6
+this is atom pair: 2koc:8.H41 2koc:8.H6
+this is atom pair: 2koc:8.H5 2koc:8.H6
+this is atom pair: 2koc:8.H5' 2koc:8.H6
+this is atom pair: 2koc:8.H5'' 2koc:8.H6
+this is atom pair: 2koc:10.H8 2koc:9.H1
+this is atom pair: 2koc:6.H1' 2koc:9.H1
+this is atom pair: 2koc:6.H2' 2koc:9.H1
+this is atom pair: 2koc:6.HO2' 2koc:9.H1
+this is atom pair: 2koc:7.H2' 2koc:9.H1
+this is atom pair: 2koc:8.H1' 2koc:9.H1
+this is atom pair: 2koc:8.H42 2koc:9.H1
+this is atom pair: 2koc:8.H5 2koc:9.H1
+this is atom pair: 2koc:8.H6 2koc:9.H1
+this is atom pair: 2koc:9.H1' 2koc:9.H2'
+this is atom pair: 2koc:9.H1' 2koc:9.H3'
+this is atom pair: 2koc:9.H1' 2koc:9.H4'
+this is atom pair: 2koc:9.H2' 2koc:9.H3'
+this is atom pair: 2koc:8.H4' 2koc:9.H5'
+this is atom pair: 2koc:9.H1' 2koc:9.H5'
+this is atom pair: 2koc:9.H3' 2koc:9.H5'
+this is atom pair: 2koc:8.H4' 2koc:9.H5''
+this is atom pair: 2koc:8.H5' 2koc:9.H5''
+this is atom pair: 2koc:9.H3' 2koc:9.H5''
+this is atom pair: 2koc:8.H4' 2koc:9.H8
+this is atom pair: 2koc:8.H5'' 2koc:9.H8
+this is atom pair: 2koc:9.H1' 2koc:9.H8
+this is atom pair: 2koc:9.H2' 2koc:9.H8
+this is atom pair: 2koc:9.H3' 2koc:9.H8
+this is atom pair: 2koc:9.H4' 2koc:9.H8
+this is atom pair: 2koc:10.H1 2koc:10.H21
+this is atom pair: 2koc:10.H1 2koc:10.H22
+this is atom pair: 2koc:10.H1 2koc:11.H1'
+this is atom pair: 2koc:10.H1 2koc:5.H2'
+this is atom pair: 2koc:10.H1 2koc:5.H41
+this is atom pair: 2koc:10.H1 2koc:5.H42
+this is atom pair: 2koc:10.H1 2koc:5.H5
+this is atom pair: 2koc:10.H1 2koc:6.H1'
+this is atom pair: 2koc:10.H1 2koc:9.H1
+this is atom pair: 2koc:10.H21 2koc:11.H1'
+this is atom pair: 2koc:10.H21 2koc:6.H1'
+this is atom pair: 2koc:10.H21 2koc:10.H22
+this is atom pair: 2koc:10.H22 2koc:11.H1'
+this is atom pair: 2koc:10.H22 2koc:5.H42
+this is atom pair: 2koc:10.H22 2koc:6.H1'
+this is atom pair: 2koc:10.H3' 2koc:10.H8
+this is atom pair: 2koc:10.H4' 2koc:10.H8
+this is atom pair: 2koc:10.H5'' 2koc:10.H8
+this is atom pair: 2koc:10.H8 2koc:9.H2'
+this is atom pair: 2koc:10.H8 2koc:9.H3'
+this is atom pair: 2koc:10.H2' 2koc:10.HO2'
+this is atom pair: 2koc:10.H5'' 2koc:10.HO2'
+this is atom pair: 2koc:11.H1' 2koc:11.H2'
+this is atom pair: 2koc:10.H1 2koc:11.H3
+this is atom pair: 2koc:10.H21 2koc:11.H3
+this is atom pair: 2koc:11.H1' 2koc:11.H3
+this is atom pair: 2koc:11.H3 2koc:11.H6
+this is atom pair: 2koc:11.H3 2koc:4.H2
+this is atom pair: 2koc:11.H3 2koc:4.H61
+this is atom pair: 2koc:11.H3 2koc:4.H62
+this is atom pair: 2koc:11.H3 2koc:5.H42
+this is atom pair: 2koc:10.H2' 2koc:11.H6
+this is atom pair: 2koc:10.H3' 2koc:11.H6
+this is atom pair: 2koc:10.HO2' 2koc:11.H6
+this is atom pair: 2koc:11.H1' 2koc:11.H6
+this is atom pair: 2koc:11.H3' 2koc:11.H6
+this is atom pair: 2koc:11.H5 2koc:11.H6
+this is atom pair: 2koc:11.H5'' 2koc:11.H6
+this is atom pair: 2koc:11.H1' 2koc:11.HO2'
+this is atom pair: 2koc:11.H2' 2koc:11.HO2'
+this is atom pair: 2koc:12.H1 2koc:12.H21
+this is atom pair: 2koc:12.H1 2koc:12.H22
+this is atom pair: 2koc:12.H1 2koc:3.H41
+this is atom pair: 2koc:12.H1 2koc:3.H42
+this is atom pair: 2koc:11.H2' 2koc:12.H1'
+this is atom pair: 2koc:12.H1' 2koc:12.H2'
+this is atom pair: 2koc:11.H2' 2koc:12.H8
+this is atom pair: 2koc:11.HO2' 2koc:12.H8
+this is atom pair: 2koc:12.H1' 2koc:12.H8
+this is atom pair: 2koc:12.H5'' 2koc:12.H8
+this is atom pair: 2koc:12.H1' 2koc:12.HO2'
+this is atom pair: 2koc:12.HO2' 2koc:13.H5''
+this is atom pair: 2koc:13.H1' 2koc:13.H5'
+this is atom pair: 2koc:13.H1' 2koc:13.H2'
+this is atom pair: 2koc:13.H2' 2koc:14.H5
+this is atom pair: 2koc:13.H1' 2koc:13.H3'
+this is atom pair: 2koc:13.H41 2koc:13.H5
+this is atom pair: 2koc:13.H41 2koc:14.H5
+this is atom pair: 2koc:12.HO2' 2koc:13.H6
+this is atom pair: 2koc:13.H1' 2koc:13.H6
+this is atom pair: 2koc:13.H41 2koc:13.H6
+this is atom pair: 2koc:13.H5 2koc:13.H6
+this is atom pair: 2koc:13.H1' 2koc:13.HO2'
+this is atom pair: 2koc:13.H2' 2koc:13.HO2'
+this is atom pair: 2koc:13.H3' 2koc:13.HO2'
+this is atom pair: 2koc:13.HO2' 2koc:14.H5'
+this is atom pair: 2koc:13.HO2' 2koc:14.H5''
+this is atom pair: 2koc:14.H1' 2koc:14.H2'
+this is atom pair: 2koc:14.H1' 2koc:14.H3'
+this is atom pair: 2koc:14.H1' 2koc:14.H4'
+this is atom pair: 2koc:13.H5 2koc:14.H41
+this is atom pair: 2koc:14.H41 2koc:14.H5
+this is atom pair: 2koc:14.H41 2koc:14.H42
+this is atom pair: 2koc:14.H42 2koc:14.H5
+this is atom pair: 2koc:13.H2' 2koc:14.H6
+this is atom pair: 2koc:13.HO2' 2koc:14.H6
+this is atom pair: 2koc:14.H1' 2koc:14.H6
+this is atom pair: 2koc:14.H2' 2koc:14.H6
+this is atom pair: 2koc:14.H3' 2koc:14.H6
+this is atom pair: 2koc:14.H41 2koc:14.H6
+this is atom pair: 2koc:14.H5 2koc:14.H6
+this is atom pair: 2koc:1.N1 2koc:14.N3
+this is atom pair: 2koc:1.H1 2koc:14.N3
+this is atom pair: 2koc:1.O6 2koc:14.N4
+this is atom pair: 2koc:1.O6 2koc:14.H42
+this is atom pair: 2koc:1.N2 2koc:14.O2
+this is atom pair: 2koc:1.H22 2koc:14.O2
+this is atom pair: 2koc:13.N3 2koc:2.N1
+this is atom pair: 2koc:13.N3 2koc:2.H1
+this is atom pair: 2koc:13.N4 2koc:2.O6
+this is atom pair: 2koc:13.H42 2koc:2.O6
+this is atom pair: 2koc:13.O2 2koc:2.N2
+this is atom pair: 2koc:13.O2 2koc:2.H22
+this is atom pair: 2koc:12.N1 2koc:3.N3
+this is atom pair: 2koc:12.H1 2koc:3.N3
+this is atom pair: 2koc:12.O6 2koc:3.N4
+this is atom pair: 2koc:12.O6 2koc:3.H42
+this is atom pair: 2koc:12.N2 2koc:3.O2
+this is atom pair: 2koc:12.H22 2koc:3.O2
+this is atom pair: 2koc:11.N3 2koc:4.N1
+this is atom pair: 2koc:11.H3 2koc:4.N1
+this is atom pair: 2koc:11.O4 2koc:4.N6
+this is atom pair: 2koc:11.O4 2koc:4.H62
+this is atom pair: 2koc:10.N1 2koc:5.N3
+this is atom pair: 2koc:10.H1 2koc:5.N3
+this is atom pair: 2koc:10.O6 2koc:5.N4
+this is atom pair: 2koc:10.O6 2koc:5.H42
+this is atom pair: 2koc:10.N2 2koc:5.O2
+this is atom pair: 2koc:10.H22 2koc:5.O2
+this is atom pair: 2koc:6.O2' 2koc:9.O6
+this is atom pair: 2koc:6.HO2' 2koc:9.O6
+this is atom pair: 2koc:6.O2 2koc:9.N1
+this is atom pair: 2koc:6.O2 2koc:9.H1
+this is atom pair: 2koc:10.H1' 2koc:11.H6
+this is atom pair: 2koc:10.H2' 2koc:11.H6
+this is atom pair: 2koc:6.H3' 2koc:6.H6
+this is atom pair: 2koc:12.H3' 2koc:12.H8
+this is atom pair: 2koc:2.H2' 2koc:3.H6
+this is atom pair: 2koc:4.H5' 2koc:4.H8
+this is atom pair: 2koc:3.H2' 2koc:4.H8
+this is atom pair: 2koc:5.H2' 2koc:6.H1'
+this is atom pair: 2koc:5.H2' 2koc:6.H5
+this is atom pair: 2koc:6.H1' 2koc:6.H4'
+this is atom pair: 2koc:10.H4' 2koc:9.H3'
+this is atom pair: 2koc:6.H3' 2koc:6.H6
+this is atom pair: 2koc:11.H3' 2koc:12.H8
+this is atom pair: 2koc:12.H3' 2koc:12.H8
+this is atom pair: 2koc:2.H2' 2koc:3.H6
+this is atom pair: 2koc:12.H21 2koc:3.H1'
+this is atom pair: 2koc:3.H1' 2koc:4.H8
+this is atom pair: 2koc:5.H2' 2koc:5.H41
+this is atom pair: 2koc:7.H3' 2koc:8.H42
+this is atom pair: 2koc:11.H1' 2koc:11.H6
+this is atom pair: 2koc:3.H1' 2koc:3.H6
+this is atom pair: 2koc:1.H1 2koc:14.H41
+this is atom pair: 2koc:1.H1 2koc:14.H42
+this is atom pair: 2koc:1.H1' 2koc:1.H4'
+this is atom pair: 2koc:1.H1' 2koc:1.H8
+this is atom pair: 2koc:1.H2' 2koc:1.H8
+this is atom pair: 2koc:1.H3' 2koc:1.H8
+this is atom pair: 2koc:1.H5'' 2koc:1.H8
+this is atom pair: 2koc:12.H1 2koc:2.H1
+this is atom pair: 2koc:13.H41 2koc:2.H1
+this is atom pair: 2koc:14.H42 2koc:2.H1
+this is atom pair: 2koc:14.H5 2koc:2.H1
+this is atom pair: 2koc:2.H1 2koc:3.H42
+this is atom pair: 2koc:2.H1' 2koc:2.H2'
+this is atom pair: 2koc:1.H1' 2koc:2.H8
+this is atom pair: 2koc:1.H3' 2koc:2.H8
+this is atom pair: 2koc:2.H1' 2koc:2.H8
+this is atom pair: 2koc:2.H3' 2koc:2.H8
+this is atom pair: 2koc:2.H5' 2koc:2.H8
+this is atom pair: 2koc:2.H1' 2koc:2.HO2'
+this is atom pair: 2koc:2.H2' 2koc:2.HO2'
+this is atom pair: 2koc:3.H1' 2koc:3.H4'
+this is atom pair: 2koc:2.H1 2koc:3.H41
+this is atom pair: 2koc:3.H41 2koc:3.H5
+this is atom pair: 2koc:3.H41 2koc:4.H61
+this is atom pair: 2koc:3.H41 2koc:3.H42
+this is atom pair: 2koc:3.H42 2koc:3.H5
+this is atom pair: 2koc:3.H42 2koc:4.H61
+this is atom pair: 2koc:3.H42 2koc:4.H62
+this is atom pair: 2koc:2.H1' 2koc:3.H6
+this is atom pair: 2koc:2.HO2' 2koc:3.H6
+this is atom pair: 2koc:3.H1' 2koc:3.H6
+this is atom pair: 2koc:3.H5 2koc:3.H6
+this is atom pair: 2koc:3.H1' 2koc:3.HO2'
+this is atom pair: 2koc:3.H2' 2koc:3.HO2'
+this is atom pair: 2koc:3.H3' 2koc:3.HO2'
+this is atom pair: 2koc:4.H1' 2koc:5.H1'
+this is atom pair: 2koc:12.H1' 2koc:4.H2
+this is atom pair: 2koc:4.H1' 2koc:4.H2
+this is atom pair: 2koc:4.H2 2koc:5.H1'
+this is atom pair: 2koc:4.H1' 2koc:4.H3'
+this is atom pair: 2koc:4.H61 2koc:4.H62
+this is atom pair: 2koc:3.HO2' 2koc:4.H8
+this is atom pair: 2koc:4.H1' 2koc:4.H8
+this is atom pair: 2koc:4.H3' 2koc:4.H8
+this is atom pair: 2koc:4.H5'' 2koc:4.H8
+this is atom pair: 2koc:4.H8 2koc:5.H5
+this is atom pair: 2koc:4.H8 2koc:5.H6
+this is atom pair: 2koc:4.H1' 2koc:4.HO2'
+this is atom pair: 2koc:4.H3' 2koc:4.HO2'
+this is atom pair: 2koc:5.H1' 2koc:5.H2'
+this is atom pair: 2koc:5.H1' 2koc:5.H3'
+this is atom pair: 2koc:5.H3' 2koc:6.H5
+this is atom pair: 2koc:5.H1' 2koc:5.H4'
+this is atom pair: 2koc:5.H41 2koc:5.H5
+this is atom pair: 2koc:5.H41 2koc:6.H5
+this is atom pair: 2koc:4.H61 2koc:5.H42
+this is atom pair: 2koc:4.H62 2koc:5.H42
+this is atom pair: 2koc:5.H41 2koc:5.H42
+this is atom pair: 2koc:5.H42 2koc:5.H5
+this is atom pair: 2koc:5.H42 2koc:6.H5
+this is atom pair: 2koc:4.H1' 2koc:5.H6
+this is atom pair: 2koc:4.H3' 2koc:5.H6
+this is atom pair: 2koc:4.HO2' 2koc:5.H6
+this is atom pair: 2koc:5.H1' 2koc:5.H6
+this is atom pair: 2koc:5.H2' 2koc:5.H6
+this is atom pair: 2koc:5.H3' 2koc:5.H6
+this is atom pair: 2koc:5.H5 2koc:5.H6
+this is atom pair: 2koc:5.H5' 2koc:5.H6
+this is atom pair: 2koc:5.H5'' 2koc:5.H6
+this is atom pair: 2koc:5.H6 2koc:6.H5
+this is atom pair: 2koc:5.H2' 2koc:5.HO2'
+this is atom pair: 2koc:5.H3' 2koc:5.HO2'
+this is atom pair: 2koc:5.HO2' 2koc:6.H5'
+this is atom pair: 2koc:5.HO2' 2koc:6.H5''
+this is atom pair: 2koc:6.H1' 2koc:6.H3'
+this is atom pair: 2koc:6.H1' 2koc:6.H4'
+this is atom pair: 2koc:6.H1' 2koc:6.H2'
+this is atom pair: 2koc:6.H2' 2koc:8.H5
+this is atom pair: 2koc:6.H2' 2koc:6.H3'
+this is atom pair: 2koc:6.H3' 2koc:6.H5
+this is atom pair: 2koc:6.H3' 2koc:8.H5
+this is atom pair: 2koc:6.H2' 2koc:6.H4'
+this is atom pair: 2koc:5.H2' 2koc:6.H6
+this is atom pair: 2koc:5.H3' 2koc:6.H6
+this is atom pair: 2koc:5.H5 2koc:6.H6
+this is atom pair: 2koc:5.H6 2koc:6.H6
+this is atom pair: 2koc:5.HO2' 2koc:6.H6
+this is atom pair: 2koc:6.H2' 2koc:6.H6
+this is atom pair: 2koc:6.H5 2koc:6.H6
+this is atom pair: 2koc:6.H6 2koc:6.HO2'
+this is atom pair: 2koc:6.H6 2koc:8.H41
+this is atom pair: 2koc:6.H6 2koc:8.H42
+this is atom pair: 2koc:6.H1' 2koc:6.HO2'
+this is atom pair: 2koc:6.H2' 2koc:6.HO2'
+this is atom pair: 2koc:6.H3' 2koc:6.HO2'
+this is atom pair: 2koc:6.H4' 2koc:6.HO2'
+this is atom pair: 2koc:6.H5' 2koc:6.HO2'
+this is atom pair: 2koc:6.HO2' 2koc:7.H1'
+this is atom pair: 2koc:6.HO2' 2koc:7.H2'
+this is atom pair: 2koc:6.HO2' 2koc:7.H5
+this is atom pair: 2koc:6.HO2' 2koc:7.H6
+this is atom pair: 2koc:7.H1' 2koc:7.H4'
+this is atom pair: 2koc:7.H1' 2koc:7.H2'
+this is atom pair: 2koc:7.H2' 2koc:7.H5
+this is atom pair: 2koc:6.H4' 2koc:7.H5
+this is atom pair: 2koc:6.H2' 2koc:7.H6
+this is atom pair: 2koc:7.H1' 2koc:7.H6
+this is atom pair: 2koc:7.H2' 2koc:7.H6
+this is atom pair: 2koc:7.H3' 2koc:7.H6
+this is atom pair: 2koc:7.H4' 2koc:7.H6
+this is atom pair: 2koc:7.H5 2koc:7.H6
+this is atom pair: 2koc:7.H5' 2koc:7.H6
+this is atom pair: 2koc:8.H1' 2koc:8.H4'
+this is atom pair: 2koc:8.H1' 2koc:8.H2'
+this is atom pair: 2koc:8.H2' 2koc:8.H4'
+this is atom pair: 2koc:8.H2' 2koc:8.H5'
+this is atom pair: 2koc:8.H2' 2koc:8.H5''
+this is atom pair: 2koc:8.H3' 2koc:8.H4'
+this is atom pair: 2koc:8.H3' 2koc:8.H5'
+this is atom pair: 2koc:8.H3' 2koc:8.H5''
+this is atom pair: 2koc:8.H4' 2koc:8.H5'
+this is atom pair: 2koc:8.H4' 2koc:8.H5''
+this is atom pair: 2koc:6.H2' 2koc:8.H41
+this is atom pair: 2koc:6.H3' 2koc:8.H41
+this is atom pair: 2koc:6.H5 2koc:8.H41
+this is atom pair: 2koc:8.H41 2koc:8.H5
+this is atom pair: 2koc:6.H2' 2koc:8.H42
+this is atom pair: 2koc:6.H3' 2koc:8.H42
+this is atom pair: 2koc:7.H5'' 2koc:8.H42
+this is atom pair: 2koc:8.H41 2koc:8.H42
+this is atom pair: 2koc:8.H42 2koc:8.H5
+this is atom pair: 2koc:6.HO2' 2koc:8.H5
+this is atom pair: 2koc:7.H3' 2koc:8.H5
+this is atom pair: 2koc:7.H5' 2koc:8.H5
+this is atom pair: 2koc:7.H5'' 2koc:8.H5
+this is atom pair: 2koc:8.H2' 2koc:8.H5
+this is atom pair: 2koc:8.H5' 2koc:8.H5''
+this is atom pair: 2koc:6.H2' 2koc:8.H6
+this is atom pair: 2koc:6.HO2' 2koc:8.H6
+this is atom pair: 2koc:8.H1' 2koc:8.H6
+this is atom pair: 2koc:8.H2' 2koc:8.H6
+this is atom pair: 2koc:8.H41 2koc:8.H6
+this is atom pair: 2koc:8.H5 2koc:8.H6
+this is atom pair: 2koc:8.H5' 2koc:8.H6
+this is atom pair: 2koc:8.H5'' 2koc:8.H6
+this is atom pair: 2koc:10.H8 2koc:9.H1
+this is atom pair: 2koc:6.H1' 2koc:9.H1
+this is atom pair: 2koc:6.H2' 2koc:9.H1
+this is atom pair: 2koc:6.HO2' 2koc:9.H1
+this is atom pair: 2koc:7.H2' 2koc:9.H1
+this is atom pair: 2koc:8.H1' 2koc:9.H1
+this is atom pair: 2koc:8.H42 2koc:9.H1
+this is atom pair: 2koc:8.H5 2koc:9.H1
+this is atom pair: 2koc:8.H6 2koc:9.H1
+this is atom pair: 2koc:9.H1' 2koc:9.H2'
+this is atom pair: 2koc:9.H1' 2koc:9.H3'
+this is atom pair: 2koc:9.H1' 2koc:9.H4'
+this is atom pair: 2koc:9.H2' 2koc:9.H3'
+this is atom pair: 2koc:8.H4' 2koc:9.H5'
+this is atom pair: 2koc:9.H1' 2koc:9.H5'
+this is atom pair: 2koc:9.H3' 2koc:9.H5'
+this is atom pair: 2koc:8.H4' 2koc:9.H5''
+this is atom pair: 2koc:8.H5' 2koc:9.H5''
+this is atom pair: 2koc:9.H3' 2koc:9.H5''
+this is atom pair: 2koc:8.H4' 2koc:9.H8
+this is atom pair: 2koc:8.H5'' 2koc:9.H8
+this is atom pair: 2koc:9.H1' 2koc:9.H8
+this is atom pair: 2koc:9.H2' 2koc:9.H8
+this is atom pair: 2koc:9.H3' 2koc:9.H8
+this is atom pair: 2koc:9.H4' 2koc:9.H8
+this is atom pair: 2koc:10.H1 2koc:10.H21
+this is atom pair: 2koc:10.H1 2koc:10.H22
+this is atom pair: 2koc:10.H1 2koc:11.H1'
+this is atom pair: 2koc:10.H1 2koc:5.H2'
+this is atom pair: 2koc:10.H1 2koc:5.H41
+this is atom pair: 2koc:10.H1 2koc:5.H42
+this is atom pair: 2koc:10.H1 2koc:5.H5
+this is atom pair: 2koc:10.H1 2koc:6.H1'
+this is atom pair: 2koc:10.H1 2koc:9.H1
+this is atom pair: 2koc:10.H21 2koc:11.H1'
+this is atom pair: 2koc:10.H21 2koc:6.H1'
+this is atom pair: 2koc:10.H21 2koc:10.H22
+this is atom pair: 2koc:10.H22 2koc:11.H1'
+this is atom pair: 2koc:10.H22 2koc:5.H42
+this is atom pair: 2koc:10.H22 2koc:6.H1'
+this is atom pair: 2koc:10.H3' 2koc:10.H8
+this is atom pair: 2koc:10.H4' 2koc:10.H8
+this is atom pair: 2koc:10.H5'' 2koc:10.H8
+this is atom pair: 2koc:10.H8 2koc:9.H2'
+this is atom pair: 2koc:10.H8 2koc:9.H3'
+this is atom pair: 2koc:10.H2' 2koc:10.HO2'
+this is atom pair: 2koc:10.H5'' 2koc:10.HO2'
+this is atom pair: 2koc:11.H1' 2koc:11.H2'
+this is atom pair: 2koc:10.H1 2koc:11.H3
+this is atom pair: 2koc:10.H21 2koc:11.H3
+this is atom pair: 2koc:11.H1' 2koc:11.H3
+this is atom pair: 2koc:11.H3 2koc:11.H6
+this is atom pair: 2koc:11.H3 2koc:4.H2
+this is atom pair: 2koc:11.H3 2koc:4.H61
+this is atom pair: 2koc:11.H3 2koc:4.H62
+this is atom pair: 2koc:11.H3 2koc:5.H42
+this is atom pair: 2koc:10.H2' 2koc:11.H6
+this is atom pair: 2koc:10.H3' 2koc:11.H6
+this is atom pair: 2koc:10.HO2' 2koc:11.H6
+this is atom pair: 2koc:11.H1' 2koc:11.H6
+this is atom pair: 2koc:11.H3' 2koc:11.H6
+this is atom pair: 2koc:11.H5 2koc:11.H6
+this is atom pair: 2koc:11.H5'' 2koc:11.H6
+this is atom pair: 2koc:11.H1' 2koc:11.HO2'
+this is atom pair: 2koc:11.H2' 2koc:11.HO2'
+this is atom pair: 2koc:12.H1 2koc:12.H21
+this is atom pair: 2koc:12.H1 2koc:12.H22
+this is atom pair: 2koc:12.H1 2koc:3.H41
+this is atom pair: 2koc:12.H1 2koc:3.H42
+this is atom pair: 2koc:11.H2' 2koc:12.H1'
+this is atom pair: 2koc:12.H1' 2koc:12.H2'
+this is atom pair: 2koc:11.H2' 2koc:12.H8
+this is atom pair: 2koc:11.HO2' 2koc:12.H8
+this is atom pair: 2koc:12.H1' 2koc:12.H8
+this is atom pair: 2koc:12.H5'' 2koc:12.H8
+this is atom pair: 2koc:12.H1' 2koc:12.HO2'
+this is atom pair: 2koc:12.HO2' 2koc:13.H5''
+this is atom pair: 2koc:13.H1' 2koc:13.H5'
+this is atom pair: 2koc:13.H1' 2koc:13.H2'
+this is atom pair: 2koc:13.H2' 2koc:14.H5
+this is atom pair: 2koc:13.H1' 2koc:13.H3'
+this is atom pair: 2koc:13.H41 2koc:13.H5
+this is atom pair: 2koc:13.H41 2koc:14.H5
+this is atom pair: 2koc:12.HO2' 2koc:13.H6
+this is atom pair: 2koc:13.H1' 2koc:13.H6
+this is atom pair: 2koc:13.H41 2koc:13.H6
+this is atom pair: 2koc:13.H5 2koc:13.H6
+this is atom pair: 2koc:13.H1' 2koc:13.HO2'
+this is atom pair: 2koc:13.H2' 2koc:13.HO2'
+this is atom pair: 2koc:13.H3' 2koc:13.HO2'
+this is atom pair: 2koc:13.HO2' 2koc:14.H5'
+this is atom pair: 2koc:13.HO2' 2koc:14.H5''
+this is atom pair: 2koc:14.H1' 2koc:14.H2'
+this is atom pair: 2koc:14.H1' 2koc:14.H3'
+this is atom pair: 2koc:14.H1' 2koc:14.H4'
+this is atom pair: 2koc:13.H5 2koc:14.H41
+this is atom pair: 2koc:14.H41 2koc:14.H5
+this is atom pair: 2koc:14.H41 2koc:14.H42
+this is atom pair: 2koc:14.H42 2koc:14.H5
+this is atom pair: 2koc:13.H2' 2koc:14.H6
+this is atom pair: 2koc:13.HO2' 2koc:14.H6
+this is atom pair: 2koc:14.H1' 2koc:14.H6
+this is atom pair: 2koc:14.H2' 2koc:14.H6
+this is atom pair: 2koc:14.H3' 2koc:14.H6
+this is atom pair: 2koc:14.H41 2koc:14.H6
+this is atom pair: 2koc:14.H5 2koc:14.H6
+this is atom pair: 2koc:1.N1 2koc:14.N3
+this is atom pair: 2koc:1.H1 2koc:14.N3
+this is atom pair: 2koc:1.O6 2koc:14.N4
+this is atom pair: 2koc:1.O6 2koc:14.H42
+this is atom pair: 2koc:1.N2 2koc:14.O2
+this is atom pair: 2koc:1.H22 2koc:14.O2
+this is atom pair: 2koc:13.N3 2koc:2.N1
+this is atom pair: 2koc:13.N3 2koc:2.H1
+this is atom pair: 2koc:13.N4 2koc:2.O6
+this is atom pair: 2koc:13.H42 2koc:2.O6
+this is atom pair: 2koc:13.O2 2koc:2.N2
+this is atom pair: 2koc:13.O2 2koc:2.H22
+this is atom pair: 2koc:12.N1 2koc:3.N3
+this is atom pair: 2koc:12.H1 2koc:3.N3
+this is atom pair: 2koc:12.O6 2koc:3.N4
+this is atom pair: 2koc:12.O6 2koc:3.H42
+this is atom pair: 2koc:12.N2 2koc:3.O2
+this is atom pair: 2koc:12.H22 2koc:3.O2
+this is atom pair: 2koc:11.N3 2koc:4.N1
+this is atom pair: 2koc:11.H3 2koc:4.N1
+this is atom pair: 2koc:11.O4 2koc:4.N6
+this is atom pair: 2koc:11.O4 2koc:4.H62
+this is atom pair: 2koc:10.N1 2koc:5.N3
+this is atom pair: 2koc:10.H1 2koc:5.N3
+this is atom pair: 2koc:10.O6 2koc:5.N4
+this is atom pair: 2koc:10.O6 2koc:5.H42
+this is atom pair: 2koc:10.N2 2koc:5.O2
+this is atom pair: 2koc:10.H22 2koc:5.O2
+this is atom pair: 2koc:6.O2' 2koc:9.O6
+this is atom pair: 2koc:6.HO2' 2koc:9.O6
+this is atom pair: 2koc:6.O2 2koc:9.N1
+this is atom pair: 2koc:6.O2 2koc:9.H1
+     0      0        0     0   3264.90
+    20     20     2012     0    264.23
+    40     40     2791     0    125.56
+    60     60     3372     0     98.32
+    80     80     3959     0     95.95
+   100    100     4475     0     94.30
+     0      0        0     0   7575.62
+    20     20      584     0    182.55
+    40     40     1101     0    158.51
+    60     60     1528     0    149.31
+    80     80     1954     0    145.66
+   100    100     2381     0    143.73
+     0      0        0     0   3209.65
+    20     20      482     0    243.43
+    40     40      878     0    201.29
+    60     60     1265     0    170.09
+    80     80     1586     0    155.34
+   100    100     1890     0    150.10
+     0      0        0     0    150.10
+    20     20      274     0    147.27
+    40     40      578     0    145.20
+    60     60      853     0    143.19
+    80     80     1179     0    142.62
+   100    100     1600     0    141.80
+NNOE 367 nRepel 2427
+mass 4557.6
+init vel 5000.0 4999.999999999998
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0      0.000   5009.0     95.4    141.9    237.3   0.000000   0.000000    0.000    0.000   2435
+   224   2810.446   6508.8    132.0    435.9    567.9   0.005903  12.490870    1.015    3.797   2084
+   449   4791.988   5210.7     99.1    199.7    298.8   0.006541   8.806853    1.027    3.332   2057
+   674   6870.407   5983.5    112.3    140.5    252.8   0.005239   9.237417    0.995    3.229   1821
+   899   9379.794   5179.7     96.4    190.0    286.4   0.006292  11.152835    1.064    3.588   1679
+  1124  11758.023   5070.5     98.8    131.7    230.5   0.006179  10.569903    0.986    3.581   1960
+  1349  13851.651   5182.5     98.7    144.0    242.6   0.006354   9.305016    0.883    2.885   1680
+  1574  15377.083   4863.0     91.9    179.1    271.0   0.006355   6.779699    0.823    2.794   1826
+  1799  16584.750   4852.3     92.8    181.5    274.2   0.005351   5.367409    0.699    2.014   2383
+  2024  18785.148   5389.0    109.3    102.8    212.1   0.004826   9.779544    0.989    3.070   1591
+  2249  21438.644   5799.9    109.2    143.3    252.4   0.006978  11.793317    1.158    4.108   1675
+  2474  23914.949   5273.8    101.1    121.8    222.8   0.007082  11.005800    1.223    3.833   1922
+  2699  27108.313   7526.1    138.3    181.1    319.4   0.005636  14.192727    1.181    3.774   1621
+  2924  30109.756   5163.9    100.9    137.7    238.6   0.006584  13.339745    1.215    4.368   1668
+  3149  31744.390   5241.2     99.9    173.5    273.4   0.007075   7.265041    0.809    2.856   1828
+  3374  32996.032   4967.3     92.9    219.8    312.8   0.005370   5.562855    0.831    3.197   2078
+  3599  34397.502   4619.4     88.0    100.1    188.1   0.006242   6.228754    0.860    2.697   1769
+  3824  35352.633   4913.5     93.0    165.4    258.4   0.005667   4.245030    0.709    2.929   1585
+  4049  36932.523   5020.3     96.1    193.0    289.1   0.005718   7.021730    0.949    3.068   1806
+  4274  38222.374   4999.4     94.6    247.7    342.3   0.006106   5.732674    0.732    2.223   1710
+  4499  39468.419   4911.9     94.0    110.1    204.1   0.005537   5.537978    0.745    2.347   1451
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0  39468.419   4934.7     94.0    110.1    204.1   0.000000   0.000000    0.000    0.000   1455
+   259  40922.594   3258.9     63.4    145.8    209.2   0.005607   5.592981    0.695    2.130   1685
+   519  42759.631   3140.5     59.6    131.3    190.9   0.006192   7.065526    0.793    2.423   1829
+   779  43956.278   2773.3     53.1    117.3    170.3   0.005830   4.602487    0.532    1.898   1839
+  1039  45760.870   2275.7     43.4     55.0     98.4   0.005586   6.940738    0.743    2.283   1887
+  1299  47897.308   1677.9     32.0     42.6     74.6   0.005544   8.217070    0.672    2.016   1836
+  1559  50145.087   1463.6     27.7     45.5     73.2   0.006071   8.645305    0.489    1.477   1616
+  1819  53034.537    964.0     18.7     33.2     51.9   0.005338  11.113267    0.674    2.002   1395
+  2079  55660.028    905.4     17.2     22.7     39.9   0.006092  10.098045    0.531    1.716   1549
+  2339  58119.783    609.6     11.7     17.3     29.1   0.005428   9.460595    0.487    1.719   1588
+  2599  60989.921    496.0      9.5     14.6     24.2   0.006721  11.038991    0.542    1.655   1759
+  2859  63865.887    443.5      8.4     11.5     19.9   0.005516  11.061410    0.459    1.358   1799
+  3119  66544.705    378.3      7.2     11.9     19.1   0.006193  10.303146    0.389    1.298   1677
+  3379  69363.253    322.5      6.1     11.5     17.6   0.005611  10.840569    0.352    1.078   1586
+  3639  72666.798    281.9      5.4      9.5     14.9   0.005849  12.705942    0.380    1.305   1684
+  3899  77063.967    282.3      5.3      7.8     13.2   0.005594  16.912186    0.524    1.559   1761
+  4159  80368.112    254.0      4.8      6.3     11.2   0.006016  12.708253    0.430    1.376   1687
+  4419  83616.280    258.4      4.9      5.8     10.7   0.006835  12.492953    0.380    1.286   1608
+  4679  86045.050    251.4      4.8      5.6     10.4   0.006057   9.341422    0.273    0.874   1753
+  4939  89368.306    241.6      4.6      4.6      9.3   0.005640  12.781753    0.395    1.216   1612
+  5199  92545.884    245.0      4.7      8.0     12.6   0.006107  12.221457    0.366    1.210   1492
+     0      0        0     0     32.57
+    20     20      138     0     14.41
+    40     40      307     0     10.16
+    60     60      500     0      8.45
+    80     80      656     0      7.56
+   100    100      815     0      6.76
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0  92545.884    646.7     12.3      6.8     19.1   0.000000   0.000000    0.000    0.000   1618
+   259  95510.205    212.5      4.0      3.2      7.2   0.006603  11.401232    0.246    0.869   1455
+   519  99057.655    182.3      3.4      5.5      8.9   0.005698  13.644039    0.307    0.983   1376
+   779 101766.540    130.9      2.5      3.3      5.8   0.005392  10.418791    0.224    0.762   1460
+  1039 104501.907    102.3      1.9      3.1      5.1   0.005185  10.520640    0.182    0.535   1474
+  1299 106969.189     79.2      1.5      2.3      3.8   0.004496   9.489547    0.142    0.418   1546
+  1559 109718.411     60.7      1.2      1.6      2.7   0.005356  10.573930    0.150    0.516   1550
+  1819 112296.436     45.7      0.9      1.6      2.5   0.004695   9.915482    0.136    0.451   1523
+  2079 115136.727     33.5      0.6      1.1      1.8   0.004941  10.924195    0.148    0.525   1459
+  2339 117527.278     24.9      0.5      0.9      1.4   0.004191   9.194427    0.113    0.372   1528
+  2599 119661.260     16.5      0.3      0.8      1.1   0.004051   8.207625    0.079    0.271   1524
+  2859 122399.550     11.4      0.2      0.5      0.7   0.004086  10.531884    0.083    0.281   1563
+  3119 124652.186      7.7      0.1      0.5      0.6   0.003999   8.663983    0.058    0.177   1531
+  3379 126579.721      4.7      0.1      0.3      0.4   0.003621   7.413597    0.045    0.151   1571
+     0      0        0     0     27.43
+    20     20      223     0     14.27
+    40     40      407     0     11.54
+    60     60      511     0     10.12
+    80     80      580     0      9.36
+   100    100      655     0      9.00
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+  3380 126579.721      8.7      0.2      9.0      9.2   0.000000   0.000000    0.000    0.000   4414
+  3639 127409.806      3.3      0.1      1.5      1.6   0.008334   3.192634    0.019    0.086   4321
+  3899 132469.580      2.0      0.0      1.1      1.1   0.002701  19.460670    0.102    0.530   4220
+  4159 144308.823      1.5      0.0      1.0      1.0   0.003405  45.535548    0.194    0.752   4237
+  4419 156569.025      1.1      0.0      0.9      0.9   0.003304  47.154624    0.173    0.922   4298
+  4679 170923.227      1.0      0.0      0.8      0.9   0.003098  55.208472    0.173    0.715   4278
+  4939 186093.137      1.0      0.0      0.8      0.9   0.003246  58.345806    0.171    0.575   4403
+  5199 200048.513      1.0      0.0      0.8      0.9   0.002920  53.674523    0.144    0.449   4471
+     0      0        0     0      1.09
+    20     20       95     0      0.99
+    40     40      160     0      0.98
+    60     60      238     0      0.98
+    80     80      392     0      0.97
+   100    100      456     0      0.97
+  step       time     temp     kinE     potE     totE     deltaE   timeStep rmsAngle maxAngle
+     0 200048.513      1.1      0.0      1.0      1.0   0.000000   0.000000    0.000    0.000   4476
+     4 200204.609      0.0      0.0      1.0      1.0   0.000043  31.219244    0.003    0.010   4476
+     9 200381.218      0.0      0.0      1.0      1.0   0.000039  35.321709    0.002    0.007   4476
+    14 200581.034      0.0      0.0      1.0      1.0   0.000039  39.963272    0.002    0.009   4476
+    19 200807.108      0.0      0.0      1.0      1.0   0.000044  45.214774    0.002    0.011   4476
+    24 201062.890      0.0      0.0      1.0      1.0   0.000050  51.156367    0.003    0.013   4476
+    29 201352.283      0.0      0.0      1.0      1.0   0.000059  57.878734    0.004    0.016   4476
+    34 201679.706      0.0      0.0      1.0      1.0   0.000069  65.484475    0.004    0.020   4476
+    39 202050.154      0.0      0.0      1.0      1.0   0.000080  74.089673    0.005    0.024   4476
+    44 202469.282      0.0      0.0      1.0      1.0   0.000092  83.825664    0.006    0.029   4476
+    49 202943.488      0.0      0.0      1.0      1.0   0.000106  94.841045    0.008    0.035   4476
+    54 203480.007      0.0      0.0      1.0      1.0   0.000117 107.303937    0.009    0.041   4476
+    59 204067.894      0.0      0.0      1.0      1.0   0.004011 117.577384    0.055    0.352   4482
+    64 204563.212      0.0      0.0      1.0      1.0   0.007210  99.063491    0.136    0.814   4482
+    69 205010.590      0.0      0.0      1.0      1.0   0.000545  89.475663    0.041    0.203   4482
+    74 205502.887      0.0      0.0      1.0      1.0   0.000768  98.459462    0.062    0.326   4482
+    79 206000.825      0.0      0.0      1.0      1.0   0.001154  99.587607    0.095    0.503   4482
+    84 206496.218      0.0      0.0      1.0      1.0   0.001326  99.078496    0.093    0.499   4482
+    89 206988.993      0.0      0.0      1.0      1.0   0.001317  98.555124    0.091    0.488   4482
+    94 207478.563      0.0      0.0      1.0      1.0   0.000949  97.913880    0.089    0.475   4482
+    99 207970.281      0.0      0.0      1.0      1.0   0.000963  98.343552    0.090    0.473   4483
+     0      0        0     0      0.97
+    20     20       67     0      0.97
+    40     40      136     0      0.96
+    60     60      198     0      0.96
+    76     76      289     0      0.96
+NNOE 367 nRepel 4485
+energy is 0.963370326134
+etime  40.2269999981

@@ -1,0 +1,1421 @@
+assi ( resi 1 and name O5' )
+     ( resi 1 and name C5' )
+     ( resi 1 and name C4' )
+     ( resi 1 and name C3' )  1.0  47.00  10.0 2
+      
+assi ( resi 1 and name C4' )
+     ( resi 1 and name C3' )
+     ( resi 1 and name O3' )
+     ( resi 2 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 1 and name C3' )
+     ( resi 1 and name O3' )
+     ( resi 2 and name P  )
+     ( resi 2 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 1 and name O3' )
+     ( resi 2 and name P  )
+     ( resi 2 and name O5' )
+     ( resi 2 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 2 and name P  )
+     ( resi 2 and name O5' )
+     ( resi 2 and name C5' )
+     ( resi 2 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 2 and name O5' )
+     ( resi 2 and name C5' )
+     ( resi 2 and name C4' )
+     ( resi 2 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 2 and name C4' )
+     ( resi 2 and name C3' )
+     ( resi 2 and name O3' )
+     ( resi 3 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 2 and name C3' )
+     ( resi 2 and name O3' )
+     ( resi 3 and name P  )
+     ( resi 3 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 2 and name O3' )
+     ( resi 3 and name P  )
+     ( resi 3 and name O5' )
+     ( resi 3 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+    
+assi ( resi 3 and name P  )
+     ( resi 3 and name O5' )
+     ( resi 3 and name C5' )
+     ( resi 3 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 3 and name O5' )
+     ( resi 3 and name C5' )
+     ( resi 3 and name C4' )
+     ( resi 3 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+
+assi ( resi 3 and name C3' )
+     ( resi 3 and name O3' )
+     ( resi 4 and name P  )
+     ( resi 4 and name O5' )  1.0  0.0  120.0 2 {*zeta*}
+
+assi ( resi 3 and name O3' )
+     ( resi 4 and name P  )
+     ( resi 4 and name O5' )
+     ( resi 4 and name C5' )  1.0  0.0  120.0 2 {*alpha*}
+
+assi ( resi 4 and name C3' )
+     ( resi 4 and name O3' )
+     ( resi 5 and name P  )
+     ( resi 5 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+
+assi ( resi 4 and name O3' )
+     ( resi 5 and name P  )
+     ( resi 5 and name O5' )
+     ( resi 5 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+       
+assi ( resi 5 and name O5' )
+     ( resi 5 and name C5' )
+     ( resi 5 and name C4' )
+     ( resi 5 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 5 and name C4' )
+     ( resi 5 and name C3' )
+     ( resi 5 and name O3' )
+     ( resi 6 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 5 and name C3' )
+     ( resi 5 and name O3' )
+     ( resi 6 and name P  )
+     ( resi 6 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 5 and name O3' )
+     ( resi 6 and name P  )
+     ( resi 6 and name O5' )
+     ( resi 6 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 6 and name P  )
+     ( resi 6 and name O5' )
+     ( resi 6 and name C5' )
+     ( resi 6 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 6 and name O5' )
+     ( resi 6 and name C5' )
+     ( resi 6 and name C4' )
+     ( resi 6 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 6 and name C4' )
+     ( resi 6 and name C3' )
+     ( resi 6 and name O3' )
+     ( resi 7 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 6 and name C3' )
+     ( resi 6 and name O3' )
+     ( resi 7 and name P  )
+     ( resi 7 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+
+assi ( resi 6 and name O3' )
+     ( resi 7 and name P  )
+     ( resi 7 and name O5' )
+     ( resi 7 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 7 and name P  )
+     ( resi 7 and name O5' )
+     ( resi 7 and name C5' )
+     ( resi 7 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 7 and name O5' )
+     ( resi 7 and name C5' )
+     ( resi 7 and name C4' )
+     ( resi 7 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+    
+assi ( resi 7 and name C4' )
+     ( resi 7 and name C3' )
+     ( resi 7 and name O3' )
+     ( resi 8 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 7 and name C3' )
+     ( resi 7 and name O3' )
+     ( resi 8 and name P  )
+     ( resi 8 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+
+assi ( resi 7 and name O3' )
+     ( resi 8 and name P  )
+     ( resi 8 and name O5' )
+     ( resi 8 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 8 and name P  )
+     ( resi 8 and name O5' )
+     ( resi 8 and name C5' )
+     ( resi 8 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 8 and name O5' )
+     ( resi 8 and name C5' )
+     ( resi 8 and name C4' )
+     ( resi 8 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 8 and name C4' )
+     ( resi 8 and name C3' )
+     ( resi 8 and name O3' )
+     ( resi 9 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 8 and name C3' )
+     ( resi 8 and name O3' )
+     ( resi 9 and name P  )
+     ( resi 9 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+
+assi ( resi 8 and name O3' )
+     ( resi 9 and name P  )
+     ( resi 9 and name O5' )
+     ( resi 9 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 9 and name P  )
+     ( resi 9 and name O5' )
+     ( resi 9 and name C5' )
+     ( resi 9 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+!assi ( resi 9 and name O5' )
+!     ( resi 9 and name C5' )
+!     ( resi 9 and name C4' )
+!     ( resi 9 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+
+!assi ( resi 9 and name C4' )
+!     ( resi 9 and name C3' )
+!     ( resi 9 and name O3' )
+!     ( resi 10 and name P  )  1.0  -151.7  10.0 2 {*epsilon*}
+      
+assi ( resi 9 and name C3' )
+     ( resi 9 and name O3' )
+     ( resi 10 and name P  )
+     ( resi 10 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+      
+assi ( resi 9 and name O3' )
+     ( resi 10 and name P  )
+     ( resi 10 and name O5' )
+     ( resi 10 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+     
+!assi ( resi 10 and name P  )
+!     ( resi 10 and name O5' )
+!     ( resi 10 and name C5' )
+!     ( resi 10 and name C4' )  1.0  -179.9  10.0 2 {*beta*}
+
+!assi ( resi 10 and name O5' )
+!     ( resi 10 and name C5' )
+!     ( resi 10 and name C4' )
+!     ( resi 10 and name C3' )  1.0  47.44  10.0 2 {*gamma*}
+      
+!assi ( resi 10 and name C4' )
+!     ( resi 10 and name C3' )
+!     ( resi 10 and name O3' )
+!     ( resi 11 and name P  )  1.0  -151.7  10.0 2 {*epsilon*}
+      
+assi ( resi 10 and name C3' )
+     ( resi 10 and name O3' )
+     ( resi 11 and name P  )
+     ( resi 11 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+      
+assi ( resi 10 and name O3' )
+     ( resi 11 and name P  )
+     ( resi 11 and name O5' )
+     ( resi 11 and name C5' )  1.0  0.0  120.0 2 {*alpha*}
+    
+assi ( resi 11 and name P  )
+     ( resi 11 and name O5' )
+     ( resi 11 and name C5' )
+     ( resi 11 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 11 and name O5' )
+     ( resi 11 and name C5' )
+     ( resi 11 and name C4' )
+     ( resi 11 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 11 and name C4' )
+     ( resi 11 and name C3' )
+     ( resi 11 and name O3' )
+     ( resi 12 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 11 and name C3' )
+     ( resi 11 and name O3' )
+     ( resi 12 and name P  )
+     ( resi 12 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+
+assi ( resi 11 and name O3' )
+     ( resi 12 and name P  )
+     ( resi 12 and name O5' )
+     ( resi 12 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 12 and name P  )
+     ( resi 12 and name O5' )
+     ( resi 12 and name C5' )
+     ( resi 12 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 12 and name O5' )
+     ( resi 12 and name C5' )
+     ( resi 12 and name C4' )
+     ( resi 12 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 12 and name C4' )
+     ( resi 12 and name C3' )
+     ( resi 12 and name O3' )
+     ( resi 13 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 12 and name C3' )
+     ( resi 12 and name O3' )
+     ( resi 13 and name P  )
+     ( resi 13 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 12 and name O3' )
+     ( resi 13 and name P  )
+     ( resi 13 and name O5' )
+     ( resi 13 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 13 and name P  )
+     ( resi 13 and name O5' )
+     ( resi 13 and name C5' )
+     ( resi 13 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 13 and name O5' )
+     ( resi 13 and name C5' )
+     ( resi 13 and name C4' )
+     ( resi 13 and name C3' )  1.0  47.00  10.0 2 {*gamma*} 
+
+assi ( resi 13 and name C4' )
+     ( resi 13 and name C3' )
+     ( resi 13 and name O3' )
+     ( resi 14 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 13 and name C3' )
+     ( resi 13 and name O3' )
+     ( resi 14 and name P  )
+     ( resi 14 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+        
+assi ( resi 13 and name O3' )
+     ( resi 14 and name P  )
+     ( resi 14 and name O5' )
+     ( resi 14 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 14 and name P  )
+     ( resi 14 and name O5' )
+     ( resi 14 and name C5' )
+     ( resi 14 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 14 and name O5' )
+     ( resi 14 and name C5' )
+     ( resi 14 and name C4' )
+     ( resi 14 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+    
+assi ( resi 14 and name C3' )
+     ( resi 14 and name O3' )
+     ( resi 15 and name P  )
+     ( resi 15 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+        
+assi ( resi 14 and name O3' )
+     ( resi 15 and name P  )
+     ( resi 15 and name O5' )
+     ( resi 15 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+     
+assi ( resi 15 and name P  )
+     ( resi 15 and name O5' )
+     ( resi 15 and name C5' )
+     ( resi 15 and name C4' )  1.0  180.0  60.0 2 {*beta*}
+
+assi ( resi 15 and name O5' )
+     ( resi 15 and name C5' )
+     ( resi 15 and name C4' )
+     ( resi 15 and name C3' )  1.0  -10.0  110.0 2 {*gamma*}
+
+assi ( resi 15 and name C3' )
+     ( resi 15 and name O3' )
+     ( resi 16 and name P  )
+     ( resi 16 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+        
+assi ( resi 15 and name O3' )
+     ( resi 16 and name P  )
+     ( resi 16 and name O5' )
+     ( resi 16 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+     
+assi ( resi 16 and name P  )
+     ( resi 16 and name O5' )
+     ( resi 16 and name C5' )
+     ( resi 16 and name C4' )  1.0  180.0  60.0 2 {*beta*}
+
+assi ( resi 16 and name O5' )
+     ( resi 16 and name C5' )
+     ( resi 16 and name C4' )
+     ( resi 16 and name C3' )  1.0  -10.0  110.0 2 {*gamma*}
+
+assi ( resi 16 and name C3' )
+    ( resi 16 and name O3' )
+    ( resi 17 and name P  )
+    ( resi 17 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+       
+assi ( resi 16 and name O3' )
+     ( resi 17 and name P  )
+     ( resi 17 and name O5' )
+     ( resi 17 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+     
+assi ( resi 17 and name P  )
+     ( resi 17 and name O5' )
+     ( resi 17 and name C5' )
+     ( resi 17 and name C4' )  1.0  180.0  60.0 2 {*beta*}
+
+assi ( resi 17 and name C3' )
+     ( resi 17 and name O3' )
+     ( resi 18 and name P  )
+     ( resi 18 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+        
+assi ( resi 17 and name O3' )
+     ( resi 18 and name P  )
+     ( resi 18 and name O5' )
+     ( resi 18 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+     
+assi ( resi 18 and name P  )
+     ( resi 18 and name O5' )
+     ( resi 18 and name C5' )
+     ( resi 18 and name C4' )  1.0  180.0  60.0 2 {*beta*}
+
+assi ( resi 18 and name O5' )
+     ( resi 18 and name C5' )
+     ( resi 18 and name C4' )
+     ( resi 18 and name C3' )  1.0  -10.0  110.0 2 {*gamma*}
+
+assi ( resi 18 and name C3' )
+     ( resi 18 and name O3' )
+     ( resi 19 and name P  )
+     ( resi 19 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+        
+assi ( resi 18 and name O3' )
+     ( resi 19 and name P  )
+     ( resi 19 and name O5' )
+     ( resi 19 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+     
+assi ( resi 19 and name P  )
+     ( resi 19 and name O5' )
+     ( resi 19 and name C5' )
+     ( resi 19 and name C4' )  1.0  180.0  60.0 2 {*beta*}
+
+assi ( resi 19 and name O5' )
+     ( resi 19 and name C5' )
+     ( resi 19 and name C4' )
+     ( resi 19 and name C3' )  1.0  225.0  105.0 2 {*gamma*,g- or t}
+
+assi ( resi 19 and name C3' )
+    ( resi 19 and name O3' )
+    ( resi 20 and name P  )
+    ( resi 20 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+        
+assi ( resi 19 and name O3' )
+     ( resi 20 and name P  )
+     ( resi 20 and name O5' )
+     ( resi 20 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+
+assi ( resi 20 and name P  )
+     ( resi 20 and name O5' )
+     ( resi 20 and name C5' )
+     ( resi 20 and name C4' )  1.0  180.0  20.0 2 {*beta*}
+
+assi ( resi 20 and name O5' )
+     ( resi 20 and name C5' )
+     ( resi 20 and name C4' )
+     ( resi 20 and name C3' )  1.0  47.00  20.0 2 {*gamma*}
+                        
+assi ( resi 20 and name C4' )
+     ( resi 20 and name C3' )
+     ( resi 20 and name O3' )
+     ( resi 21 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 20 and name C3' )
+     ( resi 20 and name O3' )
+     ( resi 21 and name P  )
+     ( resi 21 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 20 and name O3' )
+     ( resi 21 and name P  )
+     ( resi 21 and name O5' )
+     ( resi 21 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 21 and name P  )
+     ( resi 21 and name O5' )
+     ( resi 21 and name C5' )
+     ( resi 21 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+ 
+assi ( resi 21 and name O5' )
+     ( resi 21 and name C5' )
+     ( resi 21 and name C4' )
+     ( resi 21 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 21 and name C4' )
+     ( resi 21 and name C3' )
+     ( resi 21 and name O3' )
+     ( resi 22 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 21 and name C3' )
+     ( resi 21 and name O3' )
+     ( resi 22 and name P  )
+     ( resi 22 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+ 
+assi ( resi 21 and name O3' )
+     ( resi 22 and name P  )
+     ( resi 22 and name O5' )
+     ( resi 22 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+    
+assi ( resi 22 and name P  )
+     ( resi 22 and name O5' )
+     ( resi 22 and name C5' )
+     ( resi 22 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 22 and name O5' )
+     ( resi 22 and name C5' )
+     ( resi 22 and name C4' )
+     ( resi 22 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 22 and name C4' )
+     ( resi 22 and name C3' )
+     ( resi 22 and name O3' )
+     ( resi 23 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 22 and name C3' )
+     ( resi 22 and name O3' )
+     ( resi 23 and name P  )
+     ( resi 23 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+ 
+assi ( resi 22 and name O3' )
+     ( resi 23 and name P  )
+     ( resi 23 and name O5' )
+     ( resi 23 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+    
+assi ( resi 23 and name P  )
+     ( resi 23 and name O5' )
+     ( resi 23 and name C5' )
+     ( resi 23 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 23 and name O5' )
+     ( resi 23 and name C5' )
+     ( resi 23 and name C4' )
+     ( resi 23 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+
+assi ( resi 23 and name C3' )
+     ( resi 23 and name O3' )
+     ( resi 24 and name P  )
+     ( resi 24 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+
+assi ( resi 23 and name O3' )
+     ( resi 24 and name P  )
+     ( resi 24 and name O5' )
+     ( resi 24 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+
+assi ( resi 24 and name C3' )
+     ( resi 24 and name O3' )
+     ( resi 25 and name P  )
+     ( resi 25 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+
+assi ( resi 24 and name O3' )
+     ( resi 25 and name P  )
+     ( resi 25 and name O5' )
+     ( resi 25 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+
+assi ( resi 25 and name C3' )
+     ( resi 25 and name O3' )
+     ( resi 26 and name P  )
+     ( resi 26 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+
+assi ( resi 25 and name O3' )
+     ( resi 26 and name P  )
+     ( resi 26 and name O5' )
+     ( resi 26 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+
+assi ( resi 26 and name C3' )
+     ( resi 26 and name O3' )
+     ( resi 27 and name P  )
+     ( resi 27 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+
+assi ( resi 26 and name O3' )
+     ( resi 27 and name P  )
+     ( resi 27 and name O5' )
+     ( resi 27 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+
+assi ( resi 27 and name O5' )
+     ( resi 27 and name C5' )
+     ( resi 27 and name C4' )
+     ( resi 27 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 27 and name C4' )
+     ( resi 27 and name C3' )
+     ( resi 27 and name O3' )
+     ( resi 28 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 27 and name C3' )
+     ( resi 27 and name O3' )
+     ( resi 28 and name P  )
+     ( resi 28 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 27 and name O3' )
+     ( resi 28 and name P  )
+     ( resi 28 and name O5' )
+     ( resi 28 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 28 and name P  )
+     ( resi 28 and name O5' )
+     ( resi 28 and name C5' )
+     ( resi 28 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 28 and name O5' )
+     ( resi 28 and name C5' )
+     ( resi 28 and name C4' )
+     ( resi 28 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 28 and name C4' )
+     ( resi 28 and name C3' )
+     ( resi 28 and name O3' )
+     ( resi 29 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 28 and name C3' )
+     ( resi 28 and name O3' )
+     ( resi 29 and name P  )
+     ( resi 29 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 28 and name O3' )
+     ( resi 29 and name P  )
+     ( resi 29 and name O5' )
+     ( resi 29 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 29 and name P  )
+     ( resi 29 and name O5' )
+     ( resi 29 and name C5' )
+     ( resi 29 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 29 and name O5' )
+     ( resi 29 and name C5' )
+     ( resi 29 and name C4' )
+     ( resi 29 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 29 and name C4' )
+     ( resi 29 and name C3' )
+     ( resi 29 and name O3' )
+     ( resi 30 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 29 and name C3' )
+     ( resi 29 and name O3' )
+     ( resi 30 and name P  )
+     ( resi 30 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 29 and name O3' )
+     ( resi 30 and name P  )
+     ( resi 30 and name O5' )
+     ( resi 30 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 30 and name P  )
+     ( resi 30 and name O5' )
+     ( resi 30 and name C5' )
+     ( resi 30 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 30 and name O5' )
+     ( resi 30 and name C5' )
+     ( resi 30 and name C4' )
+     ( resi 30 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 30 and name C4' )
+     ( resi 30 and name C3' )
+     ( resi 30 and name O3' )
+     ( resi 31 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 30 and name C3' )
+     ( resi 30 and name O3' )
+     ( resi 31 and name P  )
+     ( resi 31 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 30 and name O3' )
+     ( resi 31 and name P  )
+     ( resi 31 and name O5' )
+     ( resi 31 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 31 and name P  )
+     ( resi 31 and name O5' )
+     ( resi 31 and name C5' )
+     ( resi 31 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+      
+assi ( resi 31 and name O5' )
+     ( resi 31 and name C5' )
+     ( resi 31 and name C4' )
+     ( resi 31 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 31 and name C4' )
+     ( resi 31 and name C3' )
+     ( resi 31 and name O3' )
+     ( resi 32 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 31 and name C3' )
+     ( resi 31 and name O3' )
+     ( resi 32 and name P  )
+     ( resi 32 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+      
+assi ( resi 31 and name O3' )
+     ( resi 32 and name P  )
+     ( resi 32 and name O5' )
+     ( resi 32 and name C5' )  1.0  0.0   120.0 2 {*alpha*}
+      
+assi ( resi 32 and name C3' )
+     ( resi 32 and name O3' )
+     ( resi 33 and name P  )
+     ( resi 33 and name O5' )  1.0  0.0   120.0 2 {*zeta*}
+
+assi ( resi 32 and name O3' )
+     ( resi 33 and name P  )
+     ( resi 33 and name O5' )
+     ( resi 33 and name C5' )  1.0  -62.0  20.0 2 {*alpha*}
+    
+assi ( resi 33 and name P  )
+     ( resi 33 and name O5' )
+     ( resi 33 and name C5' )
+     ( resi 33 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi ( resi 33 and name O5' )
+     ( resi 33 and name C5' )
+     ( resi 33 and name C4' )
+     ( resi 33 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+       
+assi ( resi 33 and name C4' )
+     ( resi 33 and name C3' )
+     ( resi 33 and name O3' )
+     ( resi 34 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 33 and name C3' )
+     ( resi 33 and name O3' )
+     ( resi 34 and name P  )
+     ( resi 34 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 33 and name O3' )
+     ( resi 34 and name P  )
+     ( resi 34 and name O5' )
+     ( resi 34 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 34 and name P  )
+     ( resi 34 and name O5' )
+     ( resi 34 and name C5' )
+     ( resi 34 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+
+assi  ( resi 34 and name O5' )
+     ( resi 34 and name C5' )
+     ( resi 34 and name C4' )
+     ( resi 34 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+      
+assi ( resi 34 and name C4' )
+     ( resi 34 and name C3' )
+     ( resi 34 and name O3' )
+     ( resi 35 and name P  )  1.0  -152.0  10.0 2 {*epsilon*}
+      
+assi ( resi 34 and name C3' )
+     ( resi 34 and name O3' )
+     ( resi 35 and name P  )
+     ( resi 35 and name O5' )  1.0  -73.0  10.0 2 {*zeta*}
+      
+assi ( resi 34 and name O3' )
+     ( resi 35 and name P  )
+     ( resi 35 and name O5' )
+     ( resi 35 and name C5' )  1.0  -62.0  10.0 2 {*alpha*}
+     
+assi ( resi 35 and name P  )
+     ( resi 35 and name O5' )
+     ( resi 35 and name C5' )
+     ( resi 35 and name C4' )  1.0  180.0  10.0 2 {*beta*}
+ 
+assi ( resi 35 and name O5' )
+     ( resi 35 and name C5' )
+     ( resi 35 and name C4' )
+     ( resi 35 and name C3' )  1.0  47.00  10.0 2 {*gamma*}
+
+
+{sugar pucker restraints in AvD5}
+{sugars of G17 and U18 are restrained to S-type}
+{unrestrained: G1, G4, A16, U19, C25, G26}
+{all the rest is restrained to N-type}
+
+assi ( resi  2 and name C5' )
+    ( resi  2 and name C4' )
+    ( resi  2 and name C3' )
+    ( resi  2 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi (resi  2 and name O4' )
+    (resi  2 and name C1' )
+    (resi  2 and name C2' )
+    (resi  2 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi  2 and name C1' )
+    ( resi  2 and name C2' )
+    ( resi  2 and name C3' )
+    ( resi  2 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi  3 and name C5' )
+    ( resi  3 and name C4' )
+    ( resi  3 and name C3' )
+    ( resi  3 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi  3 and name O4' )
+    ( resi  3 and name C1' )
+    ( resi  3 and name C2' )
+    ( resi  3 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+
+assi ( resi  3 and name C1' )
+    ( resi  3 and name C2' )
+    ( resi  3 and name C3' )
+    ( resi  3 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+!assi ( resi  4 and name C5' )
+!    ( resi  4 and name C4' )
+!    ( resi  4 and name C3' )
+!    ( resi  4 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+!assi ( resi  4 and name O4' )
+!    ( resi  4 and name C1' )
+!    ( resi  4 and name C2' )
+!    ( resi  4 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+!assi ( resi  4 and name C1' )
+!    ( resi  4 and name C2' )
+!    ( resi  4 and name C3' )
+!    ( resi  4 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi  5 and name C5' )
+    ( resi  5 and name C4' )
+    ( resi  5 and name C3' )
+    ( resi  5 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi  5 and name O4' )
+    ( resi  5 and name C1' )
+    ( resi  5 and name C2' )
+    ( resi  5 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi  5 and name C1' )
+    ( resi  5 and name C2' )
+    ( resi  5 and name C3' )
+    ( resi  5 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi  6 and name C5' )
+    ( resi  6 and name C4' )
+    ( resi  6 and name C3' )
+    ( resi  6 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi  6 and name O4' )
+    ( resi  6 and name C1' )
+    ( resi  6 and name C2' )
+    ( resi  6 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi  6 and name C1' )
+    ( resi  6 and name C2' )
+    ( resi  6 and name C3' )
+    ( resi  6 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi  7 and name C5' )
+    ( resi  7 and name C4' )
+    ( resi  7 and name C3' )
+    ( resi  7 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi  7 and name O4' )
+    ( resi  7 and name C1' )
+    ( resi  7 and name C2' )
+    ( resi  7 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi  7 and name C1' )
+    ( resi  7 and name C2' )
+    ( resi  7 and name C3' )
+    ( resi  7 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi  8 and name C5' )
+    ( resi  8 and name C4' )
+    ( resi  8 and name C3' )
+    ( resi  8 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi  8 and name O4' )
+    ( resi  8 and name C1' )
+    ( resi  8 and name C2' )
+    ( resi  8 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi  8 and name C1' )
+    ( resi  8 and name C2' )
+    ( resi  8 and name C3' )
+    ( resi  8 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi  9 and name C5' )
+    ( resi  9 and name C4' )
+    ( resi  9 and name C3' )
+    ( resi  9 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi  9 and name O4' )
+    ( resi  9 and name C1' )
+    ( resi  9 and name C2' )
+    ( resi  9 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi  9 and name C1' )
+    ( resi  9 and name C2' )
+    ( resi  9 and name C3' )
+    ( resi  9 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 10 and name C5' )
+    ( resi 10 and name C4' )
+    ( resi 10 and name C3' )
+    ( resi 10 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 10 and name O4' )
+    ( resi 10 and name C1' )
+    ( resi 10 and name C2' )
+    ( resi 10 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 10 and name C1' )
+    ( resi 10 and name C2' )
+    ( resi 10 and name C3' )
+    ( resi 10 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 11 and name C5' )
+    ( resi 11 and name C4' )
+    ( resi 11 and name C3' )
+    ( resi 11 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 11 and name O4' )
+    ( resi 11 and name C1' )
+    ( resi 11 and name C2' )
+    ( resi 11 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 11 and name C1' )
+    ( resi 11 and name C2' )
+    ( resi 11 and name C3' )
+    ( resi 11 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 12 and name C5' )
+    ( resi 12 and name C4' )
+    ( resi 12 and name C3' )
+    ( resi 12 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 12 and name O4' )
+    ( resi 12 and name C1' )
+    ( resi 12 and name C2' )
+    ( resi 12 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 12 and name C1' )
+    ( resi 12 and name C2' )
+    ( resi 12 and name C3' )
+    ( resi 12 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 13 and name C5' )
+    ( resi 13 and name C4' )
+    ( resi 13 and name C3' )
+    ( resi 13 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 13 and name O4' )
+    ( resi 13 and name C1' )
+    ( resi 13 and name C2' )
+    ( resi 13 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 13 and name C1' )
+    ( resi 13 and name C2' )
+    ( resi 13 and name C3' )
+    ( resi 13 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 14 and name C5' )
+    ( resi 14 and name C4' )
+    ( resi 14 and name C3' )
+    ( resi 14 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 14 and name O4' )
+    ( resi 14 and name C1' )
+    ( resi 14 and name C2' )
+    ( resi 14 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 14 and name C1' )
+    ( resi 14 and name C2' )
+    ( resi 14 and name C3' )
+    ( resi 14 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+ 
+assi ( resi 15 and name C5' )
+    ( resi 15 and name C4' )
+    ( resi 15 and name C3' )
+    ( resi 15 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 15 and name O4' )
+    ( resi 15 and name C1' )
+    ( resi 15 and name C2' )
+    ( resi 15 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 15 and name C1' )
+    ( resi 15 and name C2' )
+    ( resi 15 and name C3' )
+    ( resi 15 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+!assi ( resi 16 and name C5' )
+!    ( resi 16 and name C4' )
+!    ( resi 16 and name C3' )
+!    ( resi 16 and name O3' )  1.0  145.0  30.0 2 {*delta*/south}
+ 
+!assi ( resi 16 and name O4' )
+!    ( resi 16 and name C1' )
+!    ( resi 16 and name C2' )
+!    ( resi 16 and name C3' )  1.0  25.0  15.0 2 {*south*}
+      
+!assi ( resi 16 and name C1' )
+!    ( resi 16 and name C2' )
+!    ( resi 16 and name C3' )
+!    ( resi 16 and name C4' )  1.0  -35.0  15.0 2 {*south*}
+
+assi ( resi 17 and name C5' )
+    ( resi 17 and name C4' )
+    ( resi 17 and name C3' )
+    ( resi 17 and name O3' )  1.0  145.0  30.0 2 {*delta*/south}
+ 
+assi ( resi 17 and name O4' )
+    ( resi 17 and name C1' )
+    ( resi 17 and name C2' )
+    ( resi 17 and name C3' )  1.0  25.0  15.0 2 {*south*}
+      
+assi ( resi 17 and name C1' )
+    ( resi 17 and name C2' )
+    ( resi 17 and name C3' )
+    ( resi 17 and name C4' )  1.0  -35.0  15.0 2 {*south*}
+ 
+assi ( resi 18 and name C5' )
+    ( resi 18 and name C4' )
+    ( resi 18 and name C3' )
+    ( resi 18 and name O3' )  1.0  145.0  15.0 2 {*delta*/south}
+ 
+assi ( resi 18 and name O4' )
+    ( resi 18 and name C1' )
+    ( resi 18 and name C2' )
+    ( resi 18 and name C3' )  1.0   25.0  15.0 2 {*south*}
+      
+assi ( resi 18 and name C1' )
+    ( resi 18 and name C2' )
+    ( resi 18 and name C3' )
+    ( resi 18 and name C4' )  1.0  -35.0  15.0 2 {*south*}
+ 
+!assi ( resi 19 and name C5' )
+!    ( resi 19 and name C4' )
+!    ( resi 19 and name C3' )
+!    ( resi 19 and name O3' )  1.0  145.0  15.0 2 {*delta*/south}
+ 
+!assi ( resi 19 and name O4' )
+!    ( resi 19 and name C1' )
+!    ( resi 19 and name C2' )
+!    ( resi 19 and name C3' )  1.0   25.0  15.0 2 {*south*}
+      
+!assi ( resi 19 and name C1' )
+!    ( resi 19 and name C2' )
+!    ( resi 19 and name C3' )
+!    ( resi 19 and name C4' )  1.0  -35.0  15.0 2 {*south*}
+ 
+assi ( resi 20 and name C5' )
+    ( resi 20 and name C4' )
+    ( resi 20 and name C3' )
+    ( resi 20 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 20 and name O4' )
+    ( resi 20 and name C1' )
+    ( resi 20 and name C2' )
+    ( resi 20 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 20 and name C1' )
+    ( resi 20 and name C2' )
+    ( resi 20 and name C3' )
+    ( resi 20 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 21 and name C5' )
+    ( resi 21 and name C4' )
+    ( resi 21 and name C3' )
+    ( resi 21 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 21 and name O4' )
+    ( resi 21 and name C1' )
+    ( resi 21 and name C2' )
+    ( resi 21 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 21 and name C1' )
+    ( resi 21 and name C2' )
+    ( resi 21 and name C3' )
+    ( resi 21 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 22 and name C5' )
+    ( resi 22 and name C4' )
+    ( resi 22 and name C3' )
+    ( resi 22 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 22 and name O4' )
+    ( resi 22 and name C1' )
+    ( resi 22 and name C2' )
+    ( resi 22 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 22 and name C1' )
+    ( resi 22 and name C2' )
+    ( resi 22 and name C3' )
+    ( resi 22 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 23 and name C5' )
+    ( resi 23 and name C4' )
+    ( resi 23 and name C3' )
+    ( resi 23 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 23 and name O4' )
+    ( resi 23 and name C1' )
+    ( resi 23 and name C2' )
+    ( resi 23 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 23 and name C1' )
+    ( resi 23 and name C2' )
+    ( resi 23 and name C3' )
+    ( resi 23 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 24 and name C5' )
+    ( resi 24 and name C4' )
+    ( resi 24 and name C3' )
+    ( resi 24 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 24 and name O4' )
+    ( resi 24 and name C1' )
+    ( resi 24 and name C2' )
+    ( resi 24 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 24 and name C1' )
+    ( resi 24 and name C2' )
+    ( resi 24 and name C3' )
+    ( resi 24 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+!assi ( resi 25 and name C5' )
+!    ( resi 25 and name C4' )
+!    ( resi 25 and name C3' )
+!    ( resi 25 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+!assi ( resi 25 and name O4' )
+!    ( resi 25 and name C1' )
+!    ( resi 25 and name C2' )
+!    ( resi 25 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+!assi ( resi 25 and name C1' )
+!    ( resi 25 and name C2' )
+!    ( resi 25 and name C3' )
+!    ( resi 25 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+!assi ( resi 26 and name C5' )
+!    ( resi 26 and name C4' )
+!    ( resi 26 and name C3' )
+!    ( resi 26 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+!assi ( resi 26 and name O4' )
+!    ( resi 26 and name C1' )
+!    ( resi 26 and name C2' )
+!    ( resi 26 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+!assi ( resi 26 and name C1' )
+!    ( resi 26 and name C2' )
+!    ( resi 26 and name C3' )
+!    ( resi 26 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 27 and name C5' )
+    ( resi 27 and name C4' )
+    ( resi 27 and name C3' )
+    ( resi 27 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 27 and name O4' )
+    ( resi 27 and name C1' )
+    ( resi 27 and name C2' )
+    ( resi 27 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 27 and name C1' )
+    ( resi 27 and name C2' )
+    ( resi 27 and name C3' )
+    ( resi 27 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 28 and name C5' )
+    ( resi 28 and name C4' )
+    ( resi 28 and name C3' )
+    ( resi 28 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 28 and name O4' )
+    ( resi 28 and name C1' )
+    ( resi 28 and name C2' )
+    ( resi 28 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 28 and name C1' )
+    ( resi 28 and name C2' )
+    ( resi 28 and name C3' )
+    ( resi 28 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 29 and name C5' )
+    ( resi 29 and name C4' )
+    ( resi 29 and name C3' )
+    ( resi 29 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 29 and name O4' )
+    ( resi 29 and name C1' )
+    ( resi 29 and name C2' )
+    ( resi 29 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 29 and name C1' )
+    ( resi 29 and name C2' )
+    ( resi 29 and name C3' )
+    ( resi 29 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 30 and name C5' )
+    ( resi 30 and name C4' )
+    ( resi 30 and name C3' )
+    ( resi 30 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 30 and name O4' )
+    ( resi 30 and name C1' )
+    ( resi 30 and name C2' )
+    ( resi 30 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 30 and name C1' )
+    ( resi 30 and name C2' )
+    ( resi 30 and name C3' )
+    ( resi 30 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 31 and name C5' )
+    ( resi 31 and name C4' )
+    ( resi 31 and name C3' )
+    ( resi 31 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 31 and name O4' )
+    ( resi 31 and name C1' )
+    ( resi 31 and name C2' )
+    ( resi 31 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 31 and name C1' )
+    ( resi 31 and name C2' )
+    ( resi 31 and name C3' )
+    ( resi 31 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 32 and name C5' )
+    ( resi 32 and name C4' )
+    ( resi 32 and name C3' )
+    ( resi 32 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 32 and name O4' )
+    ( resi 32 and name C1' )
+    ( resi 32 and name C2' )
+    ( resi 32 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 32 and name C1' )
+    ( resi 32 and name C2' )
+    ( resi 32 and name C3' )
+    ( resi 32 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 33 and name C5' )
+    ( resi 33 and name C4' )
+    ( resi 33 and name C3' )
+    ( resi 33 and name O3' )  1.0   85.0  15.0 2 {*delta*}
+ 
+assi ( resi 33 and name O4' )
+    ( resi 33 and name C1' )
+    ( resi 33 and name C2' )
+    ( resi 33 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+
+assi ( resi 33 and name C1' )
+    ( resi 33 and name C2' )
+    ( resi 33 and name C3' )
+    ( resi 33 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 34 and name C5' )
+    ( resi 34 and name C4' )
+    ( resi 34 and name C3' )
+    ( resi 34 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 34 and name O4' )
+    ( resi 34 and name C1' )
+    ( resi 34 and name C2' )
+    ( resi 34 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 34 and name C1' )
+    ( resi 34 and name C2' )
+    ( resi 34 and name C3' )
+    ( resi 34 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+assi ( resi 35 and name C5' )
+    ( resi 35 and name C4' )
+    ( resi 35 and name C3' )
+    ( resi 35 and name O3' )  1.0  85.0  15.0 2 {*delta*}
+ 
+assi ( resi 35 and name O4' )
+    ( resi 35 and name C1' )
+    ( resi 35 and name C2' )
+    ( resi 35 and name C3' )  1.0  -25.0  15.0 2 {*nu1*}
+      
+assi ( resi 35 and name C1' )
+    ( resi 35 and name C2' )
+    ( resi 35 and name C3' )
+    ( resi 35 and name C4' )  1.0  37.27  15.0 2 {*nu2*}
+
+
+{CHI-angles: syn conformation for all bases except the following, }
+{which were left unrestrained: 4,17-19,25,26}
+
+
+assi ( resi 1 and name O4' )
+    ( resi 1 and name C1' )
+    ( resi 1 and name N9  )
+    ( resi 1 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 2 and name O4' )
+    ( resi 2 and name C1' )
+    ( resi 2 and name N9  )
+    ( resi 2 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 3 and name O4' )
+    ( resi 3 and name C1' )
+    ( resi 3 and name N9  )
+    ( resi 3 and name C4  )  1.0  -160.0 15.0 2
+
+!assi ( resi 4 and name O4' )
+!    ( resi 4 and name C1' )
+!    ( resi 4 and name N9  )
+!    ( resi 4 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 5 and name O4' )
+    ( resi 5 and name C1' )
+    ( resi 5 and name N1  )
+    ( resi 5 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 6 and name O4' )
+    ( resi 6 and name C1' )
+    ( resi 6 and name N1  )
+    ( resi 6 and name C2  )  1.0  -160.0 50.0 2
+
+assi ( resi 7 and name O4' )
+    ( resi 7 and name C1' )
+    ( resi 7 and name N9  )
+    ( resi 7 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 8 and name O4' )
+    ( resi 8 and name C1' )
+    ( resi 8 and name N1  )
+    ( resi 8 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 9 and name O4' )
+    ( resi 9 and name C1' )
+    ( resi 9 and name N9  )
+    ( resi 9 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 10 and name O4' )
+    ( resi 10 and name C1' )
+    ( resi 10 and name N1  )
+    ( resi 10 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 11 and name O4' )
+    ( resi 11 and name C1' )
+    ( resi 11 and name N9  )
+    ( resi 11 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 12 and name O4' )
+    ( resi 12 and name C1' )
+    ( resi 12 and name N1  )
+    ( resi 12 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 13 and name O4' )
+    ( resi 13 and name C1' )
+    ( resi 13 and name N9  )
+    ( resi 13 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 14 and name O4' )
+    ( resi 14 and name C1' )
+    ( resi 14 and name N9  )
+    ( resi 14 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 15 and name O4' )
+    ( resi 15 and name C1' )
+    ( resi 15 and name N1  )
+    ( resi 15 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 16 and name O4' )
+    ( resi 16 and name C1' )
+    ( resi 16 and name N9  )
+    ( resi 16 and name C4  )  1.0  -160.0 15.0 2
+
+!assi ( resi 17 and name O4' )
+!    ( resi 17 and name C1' )
+!    ( resi 17 and name N9  )
+!    ( resi 17 and name C4  )  1.0   60.0 70.0 2
+
+!assi ( resi 18 and name O4' )
+!    ( resi 18 and name C1' )
+!    ( resi 18 and name N1  )
+!    ( resi 18 and name C2  )  1.0   60.0 40.0 2
+
+!assi ( resi 19 and name O4' )
+!    ( resi 19 and name C1' )
+!    ( resi 19 and name N1  )
+!    ( resi 19 and name C2  )  1.0   60.0 40.0 2
+
+assi ( resi 20 and name O4' )
+    ( resi 20 and name C1' )
+    ( resi 20 and name N1  )
+    ( resi 20 and name C2  )  1.0  -160.0 40.0 2
+
+assi ( resi 21 and name O4' )
+    ( resi 21 and name C1' )
+    ( resi 21 and name N1  )
+    ( resi 21 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 22 and name O4' )
+    ( resi 22 and name C1' )
+    ( resi 22 and name N9  )
+    ( resi 22 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 23 and name O4' )
+    ( resi 23 and name C1' )
+    ( resi 23 and name N1  )
+    ( resi 23 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 24 and name O4' )
+    ( resi 24 and name C1' )
+    ( resi 24 and name N9  )
+    ( resi 24 and name C4  )  1.0  -160.0 15.0 2
+
+!assi ( resi 25 and name O4' )
+!    ( resi 25 and name C1' )
+!    ( resi 25 and name N1  )
+!    ( resi 25 and name C2  )  1.0  -160.0 15.0 2
+
+!assi ( resi 26 and name O4' )
+!    ( resi 26 and name C1' )
+!    ( resi 26 and name N9  )
+!    ( resi 26 and name C4  )  1.0   60.0 40.0 2
+
+assi ( resi 27 and name O4' )
+    ( resi 27 and name C1' )
+    ( resi 27 and name N1  )
+    ( resi 27 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 28 and name O4' )
+    ( resi 28 and name C1' )
+    ( resi 28 and name N9  )
+    ( resi 28 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 29 and name O4' )
+    ( resi 29 and name C1' )
+    ( resi 29 and name N1  )
+    ( resi 29 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 30 and name O4' )
+    ( resi 30 and name C1' )
+    ( resi 30 and name N9  )
+    ( resi 30 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 31 and name O4' )
+    ( resi 31 and name C1' )
+    ( resi 31 and name N9  )
+    ( resi 31 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 32 and name O4' )
+    ( resi 32 and name C1' )
+    ( resi 32 and name N9  )
+    ( resi 32 and name C4  )  1.0  -160.0 15.0 2
+
+assi ( resi 33 and name O4' )
+    ( resi 33 and name C1' )
+    ( resi 33 and name N1  )
+    ( resi 33 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 34 and name O4' )
+    ( resi 34 and name C1' )
+    ( resi 34 and name N1  )
+    ( resi 34 and name C2  )  1.0  -160.0 15.0 2
+
+assi ( resi 35 and name O4' )
+    ( resi 35 and name C1' )
+    ( resi 35 and name N1  )
+    ( resi 35 and name C2  )  1.0  -160.0 15.0 2
+ 

@@ -1,0 +1,79 @@
+Author: Teddy Colon
+Last update: November 28, 2018
+
+Programs used: [PyDoc, MkDocs, MolProbity]
+
+Note:
+-----
+This document describes the dependencies of 'pydoc-markdown' used to generate markdown documentation from docstrings within python functions and methods throughout modules. It also contains the dependencies of 'mkdocs' which allows you to visualize the markdown documentation quickly and easily. In order to validate the structures calculated using nmrfxstructure, we initially used the MolProbity web services to analyze individual structures. Ultimately, we downloaded a local copy of MolProbity to automate the validation process for batches of structures. Below you'll also find the dependencies for a local copy of MolProbity. The installation process for all programs are thoroughly described in the links provided below. 
+
+Dependencies: 
+-------------
+PyDoc
+pydoc-markdown dependencies:
+- mkdocs >= 0.16.0
+- Markdown >= 2.6.11
+- PyYAML >= 3.12
+- six >= 0.11.0
+
+[link: https://github.com/NiklasRosenstein/pydoc-markdown]
+
+MkDocs
+mkdocs dependencies:
+- click>=3.3
+- Jinja2>=2.7.1
+- livereload>=2.5.1
+- Markdown>=2.5
+- PyYAML>=3.13
+- tornado>=5.0
+- mdx_gh_links>=0.2
+
+[link: https://www.mkdocs.org/]
+
+
+MolProbity
+molprobity dependencies:
+- Python 2.7 or greater with development libraries (python-devel or python-dev)
+- Subversion
+- Gawk
+- Curl
+- Tar
+- Make
+- PHP
+
+[link: https://github.com/rlabduke/MolProbity]
+
+***These dependencies can be installed using pip or apt-get. 
+
+
+Running programs:
+-----------------
+MkDocs
+In order to initially create a project using mkdocs, do the following:
+
+1. Open command line
+2. Navigate to directory where you'd like to create a new project
+3. Run 'mkdocs new name-of-project'
+4. Update the docs/ directory with markdown files you'd like to display
+5. Update YAML file with links to the markdown files you'd like to display using YAML syntax
+   ** By default the YAML looks at docs/, so there's no need to specify path. 
+      VALUE is the name of markdown file, KEY is navigation title of page (goes under 'nav' in project.yaml)
+6. Run mkdocs built-in server 'mkdocs serve'. Need to be in the dictory where the YAML file exists.
+
+*** Full list of commands provided in link
+
+
+PyDocs
+Running pydocs-markdown is a little bit confusing at first. The only command we really need is their 'pydocmd simple'
+command, which generates documentation for a single module in markdown syntax. The unfortunate caveat of the specified command is that it may cause problems when a module contains 'import' statements -- that is, module is using other modules and/or packages. Run command as follows:
+
+1. Open command line
+2. Navigate to directory that contains python file
+3. Run 'pydocmd simple name-of-python-file+' 
+   ** The '+' character is supported and necessary to grab members of module. If there's a class in module, specify as follows:
+   3a. Run 'pydocmd simple name-of-python-file.name-of-class-in-file+'
+
+MolProbity
+MolProbity contains a lot of comprehensive and straightforward documentation. To get started, once the local copy of MolProbity has been downloaded onto your system, navigate to the following directory to get a quick summary of some of the commands.
+
+command line documentation path: '~/MolProbity/doc/command_line_tools.txt' 

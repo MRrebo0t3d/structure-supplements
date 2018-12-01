@@ -1,0 +1,275 @@
+ assi 
+   (( segid "   A" and resid 34   and name  O   ))
+   (( segid "   A" and resid 38   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 34   and name  O   ))
+   (( segid "   A" and resid 38   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 35   and name  O   ))
+   (( segid "   A" and resid 39   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 35   and name  O   ))
+   (( segid "   A" and resid 39   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 36   and name  O   ))
+   (( segid "   A" and resid 40   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 36   and name  O   ))
+   (( segid "   A" and resid 40   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 37   and name  O   ))
+   (( segid "   A" and resid 41   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 37   and name  O   ))
+   (( segid "   A" and resid 41   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 38   and name  O   ))
+   (( segid "   A" and resid 42   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 38   and name  O   ))
+   (( segid "   A" and resid 42   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 39   and name  O   ))
+   (( segid "   A" and resid 43   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 39   and name  O   ))
+   (( segid "   A" and resid 43   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 66   and name  O   ))
+   (( segid "   A" and resid 70   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 66   and name  O   ))
+   (( segid "   A" and resid 70   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 67   and name  O   ))
+   (( segid "   A" and resid 71   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 67   and name  O   ))
+   (( segid "   A" and resid 71   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 68   and name  O   ))
+   (( segid "   A" and resid 72   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 68   and name  O   ))
+   (( segid "   A" and resid 72   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 69   and name  O   ))
+   (( segid "   A" and resid 73   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 69   and name  O   ))
+   (( segid "   A" and resid 73   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 70   and name  O   ))
+   (( segid "   A" and resid 74   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 70   and name  O   ))
+   (( segid "   A" and resid 74   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 71   and name  O   ))
+   (( segid "   A" and resid 75   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 71   and name  O   ))
+   (( segid "   A" and resid 75   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 72   and name  O   ))
+   (( segid "   A" and resid 76   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 72   and name  O   ))
+   (( segid "   A" and resid 76   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 73   and name  O   ))
+   (( segid "   A" and resid 77   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 73   and name  O   ))
+   (( segid "   A" and resid 77   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 74   and name  O   ))
+   (( segid "   A" and resid 78   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 74   and name  O   ))
+   (( segid "   A" and resid 78   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 75   and name  O   ))
+   (( segid "   A" and resid 79   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 75   and name  O   ))
+   (( segid "   A" and resid 79   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 76   and name  O   ))
+   (( segid "   A" and resid 80   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 76   and name  O   ))
+   (( segid "   A" and resid 80   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 77   and name  O   ))
+   (( segid "   A" and resid 81   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 77   and name  O   ))
+   (( segid "   A" and resid 81   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 22   and name  O   ))
+   (( segid "   A" and resid 26   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 22   and name  O   ))
+   (( segid "   A" and resid 26   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 23   and name  O   ))
+   (( segid "   A" and resid 27   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 23   and name  O   ))
+   (( segid "   A" and resid 27   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 24   and name  O   ))
+   (( segid "   A" and resid 28   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 24   and name  O   ))
+   (( segid "   A" and resid 28   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 25   and name  O   ))
+   (( segid "   A" and resid 29   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 25   and name  O   ))
+   (( segid "   A" and resid 29   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 26   and name  O   ))
+   (( segid "   A" and resid 30   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 26   and name  O   ))
+   (( segid "   A" and resid 30   and name  N   ))
+
+      2.900     0.500     0.700
+ assi 
+   (( segid "   A" and resid 63   and name  O   ))
+   (( segid "   A" and resid 16   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 16   and name  O   ))
+   (( segid "   A" and resid 63   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 18   and name  O   ))
+   (( segid "   A" and resid 61   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 61   and name  O   ))
+   (( segid "   A" and resid 18   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 20   and name  O   ))
+   (( segid "   A" and resid 59   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 59   and name  O   ))
+   (( segid "   A" and resid 20   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 48   and name  O   ))
+   (( segid "   A" and resid 62   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 62   and name  O   ))
+   (( segid "   A" and resid 48   and name  HN  ))
+
+      1.900     0.400     0.600
+ assi 
+   (( segid "   A" and resid 60   and name  O   ))
+   (( segid "   A" and resid 50   and name  HN  ))
+
+      1.900     0.400     0.600

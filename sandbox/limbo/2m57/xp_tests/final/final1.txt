@@ -1,0 +1,1 @@
+Irp     0 0.000 Dih   274 0.112 Robson     0 0.000 Repel  8421 0.005 Distance   266 0.037 0.000 Shift     0 0.000 Total 0.154

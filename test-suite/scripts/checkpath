@@ -1,0 +1,19 @@
+#!/bin/bash
+check_molprob()
+{
+    if [ -z "$MOLPROB" ]
+    then
+        PATH=${PATH}:${MOLPROB}
+    fi
+    if ! [ -x "$(command -v oneline-analysis)" ];
+    then
+        echo "The needed molprobity command cannot be found."
+        echo "Try checking your path or creating the MOLPROB"
+        echo "environment variable and rerun."
+        return 1
+    else
+        echo "oneline-analysis found"
+        return 0
+fi
+}
+check_molprob

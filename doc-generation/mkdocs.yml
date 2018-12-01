@@ -1,0 +1,9 @@
+site_name: NMRFx Structure
+nav:
+    - Home: index.md
+    - Project files: projectinfo.md
+    - Commands: nmrfxstructure.md
+    - Utilities: utilities.md
+    - Refine : refine.md
+    - Testing: docs.md
+theme: readthedocs

@@ -1,0 +1,79 @@
+ assi 
+   (( segid "   A" and resid 11   and name  H6  ))
+   (( segid "   A" and resid 10   and name  H1' ))
+
+      2.180     0.590     0.590
+ or 
+   (( segid "   A" and resid 11   and name  H6  ))
+   (( segid "   A" and resid 10   and name  H2' ))
+ assi 
+   (( segid "   A" and resid 6    and name  H6  ))
+   (( segid "   A" and resid 6    and name  H3' ))
+
+      1.970     0.390     0.390
+ or 
+   (( segid "   A" and resid 12   and name  H8  ))
+   (( segid "   A" and resid 12   and name  H3' ))
+ or 
+   (( segid "   A" and resid 3    and name  H6  ))
+   (( segid "   A" and resid 2    and name  H2' ))
+ assi 
+   (( segid "   A" and resid 4    and name  H8  ))
+   (( segid "   A" and resid 4    and name  H5' ))
+
+      2.110     0.450     0.450
+ or 
+   (( segid "   A" and resid 4    and name  H8  ))
+   (( segid "   A" and resid 3    and name  H2' ))
+ assi 
+   (( segid "   A" and resid 5    and name  H2' ))
+   (( segid "   A" and resid 6    and name  H1' ))
+
+      3.060     0.930     0.930
+ or 
+   (( segid "   A" and resid 5    and name  H2' ))
+   (( segid "   A" and resid 6    and name  H5  ))
+ or 
+   (( segid "   A" and resid 6    and name  H4' ))
+   (( segid "   A" and resid 6    and name  H1' ))
+ or 
+   (( segid "   A" and resid 10   and name  H4' ))
+   (( segid "   A" and resid 9    and name  H3' ))
+ assi 
+   (( segid "   A" and resid 6    and name  H6  ))
+   (( segid "   A" and resid 6    and name  H3' ))
+
+      1.930     0.470     0.470
+ or 
+   (( segid "   A" and resid 12   and name  H8  ))
+   (( segid "   A" and resid 11   and name  H3' ))
+ or 
+   (( segid "   A" and resid 12   and name  H8  ))
+   (( segid "   A" and resid 12   and name  H3' ))
+ or 
+   (( segid "   A" and resid 3    and name  H6  ))
+   (( segid "   A" and resid 2    and name  H2' ))
+ assi 
+   (( segid "   A" and resid 12   and name  H21 ))
+   (( segid "   A" and resid 3    and name  H1' ))
+
+      3.450     1.490     1.490
+ or 
+   (( segid "   A" and resid 4    and name  H8  ))
+   (( segid "   A" and resid 3    and name  H1' ))
+ assi 
+   (( segid "   A" and resid 5    and name  H41 ))
+   (( segid "   A" and resid 5    and name  H2' ))
+
+      4.540     2.570     1.960
+ or 
+   (( segid "   A" and resid 8    and name  H42 ))
+   (( segid "   A" and resid 7    and name  H3' ))
+ assi 
+   (( segid "   A" and resid 11   and name  H6  ))
+   (( segid "   A" and resid 11   and name  H1' ))
+
+      3.340     1.400     1.400
+ or 
+   (( segid "   A" and resid 3    and name  H6  ))
+   (( segid "   A" and resid 3    and name  H1' ))

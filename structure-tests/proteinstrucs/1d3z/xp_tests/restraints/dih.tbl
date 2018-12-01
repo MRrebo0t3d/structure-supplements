@@ -1,0 +1,294 @@
+ ASSIGN  (segid "   A" and resid 2    and name C   ) (segid "   A" and resid 3    and name N   )
+         (segid "   A" and resid 3    and name CA  ) (segid "   A" and resid 3    and name C   )  1.00 -137.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 3    and name C   ) (segid "   A" and resid 4    and name N   )
+         (segid "   A" and resid 4    and name CA  ) (segid "   A" and resid 4    and name C   )  1.00 -111.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 4    and name C   ) (segid "   A" and resid 5    and name N   )
+         (segid "   A" and resid 5    and name CA  ) (segid "   A" and resid 5    and name C   )  1.00 -127.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 5    and name C   ) (segid "   A" and resid 6    and name N   )
+         (segid "   A" and resid 6    and name CA  ) (segid "   A" and resid 6    and name C   )  1.00 -100.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 6    and name C   ) (segid "   A" and resid 7    and name N   )
+         (segid "   A" and resid 7    and name CA  ) (segid "   A" and resid 7    and name C   )  1.00 -95.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 7    and name C   ) (segid "   A" and resid 8    and name N   )
+         (segid "   A" and resid 8    and name CA  ) (segid "   A" and resid 8    and name C   )  1.00 -60.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 8    and name C   ) (segid "   A" and resid 9    and name N   )
+         (segid "   A" and resid 9    and name CA  ) (segid "   A" and resid 9    and name C   )  1.00 -96.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 10   and name C   ) (segid "   A" and resid 11   and name N   )
+         (segid "   A" and resid 11   and name CA  ) (segid "   A" and resid 11   and name C   )  1.00 -84.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 11   and name C   ) (segid "   A" and resid 12   and name N   )
+         (segid "   A" and resid 12   and name CA  ) (segid "   A" and resid 12   and name C   )  1.00 -113.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 12   and name C   ) (segid "   A" and resid 13   and name N   )
+         (segid "   A" and resid 13   and name CA  ) (segid "   A" and resid 13   and name C   )  1.00 -109.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 13   and name C   ) (segid "   A" and resid 14   and name N   )
+         (segid "   A" and resid 14   and name CA  ) (segid "   A" and resid 14   and name C   )  1.00 -102.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 14   and name C   ) (segid "   A" and resid 15   and name N   )
+         (segid "   A" and resid 15   and name CA  ) (segid "   A" and resid 15   and name C   )  1.00 -123.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 15   and name C   ) (segid "   A" and resid 16   and name N   )
+         (segid "   A" and resid 16   and name CA  ) (segid "   A" and resid 16   and name C   )  1.00 -106.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 16   and name C   ) (segid "   A" and resid 17   and name N   )
+         (segid "   A" and resid 17   and name CA  ) (segid "   A" and resid 17   and name C   )  1.00 -140.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 17   and name C   ) (segid "   A" and resid 18   and name N   )
+         (segid "   A" and resid 18   and name CA  ) (segid "   A" and resid 18   and name C   )  1.00 -112.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 19   and name C   ) (segid "   A" and resid 20   and name N   )
+         (segid "   A" and resid 20   and name CA  ) (segid "   A" and resid 20   and name C   )  1.00 -84.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 20   and name C   ) (segid "   A" and resid 21   and name N   )
+         (segid "   A" and resid 21   and name CA  ) (segid "   A" and resid 21   and name C   )  1.00 -71.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 21   and name C   ) (segid "   A" and resid 22   and name N   )
+         (segid "   A" and resid 22   and name CA  ) (segid "   A" and resid 22   and name C   )  1.00 -82.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 22   and name C   ) (segid "   A" and resid 23   and name N   )
+         (segid "   A" and resid 23   and name CA  ) (segid "   A" and resid 23   and name C   )  1.00 -60.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 24   and name C   ) (segid "   A" and resid 25   and name N   )
+         (segid "   A" and resid 25   and name CA  ) (segid "   A" and resid 25   and name C   )  1.00 -70.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 25   and name C   ) (segid "   A" and resid 26   and name N   )
+         (segid "   A" and resid 26   and name CA  ) (segid "   A" and resid 26   and name C   )  1.00 -70.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 26   and name C   ) (segid "   A" and resid 27   and name N   )
+         (segid "   A" and resid 27   and name CA  ) (segid "   A" and resid 27   and name C   )  1.00 -63.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 27   and name C   ) (segid "   A" and resid 28   and name N   )
+         (segid "   A" and resid 28   and name CA  ) (segid "   A" and resid 28   and name C   )  1.00 -61.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 28   and name C   ) (segid "   A" and resid 29   and name N   )
+         (segid "   A" and resid 29   and name CA  ) (segid "   A" and resid 29   and name C   )  1.00 -68.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 29   and name C   ) (segid "   A" and resid 30   and name N   )
+         (segid "   A" and resid 30   and name CA  ) (segid "   A" and resid 30   and name C   )  1.00 -68.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 30   and name C   ) (segid "   A" and resid 31   and name N   )
+         (segid "   A" and resid 31   and name CA  ) (segid "   A" and resid 31   and name C   )  1.00 -60.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 31   and name C   ) (segid "   A" and resid 32   and name N   )
+         (segid "   A" and resid 32   and name CA  ) (segid "   A" and resid 32   and name C   )  1.00 -57.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 32   and name C   ) (segid "   A" and resid 33   and name N   )
+         (segid "   A" and resid 33   and name CA  ) (segid "   A" and resid 33   and name C   )  1.00 -83.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 33   and name C   ) (segid "   A" and resid 34   and name N   )
+         (segid "   A" and resid 34   and name CA  ) (segid "   A" and resid 34   and name C   )  1.00 -108.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 35   and name C   ) (segid "   A" and resid 36   and name N   )
+         (segid "   A" and resid 36   and name CA  ) (segid "   A" and resid 36   and name C   )  1.00 -91.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 37   and name C   ) (segid "   A" and resid 38   and name N   )
+         (segid "   A" and resid 38   and name CA  ) (segid "   A" and resid 38   and name C   )  1.00 -57.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 38   and name C   ) (segid "   A" and resid 39   and name N   )
+         (segid "   A" and resid 39   and name CA  ) (segid "   A" and resid 39   and name C   )  1.00 -69.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 39   and name C   ) (segid "   A" and resid 40   and name N   )
+         (segid "   A" and resid 40   and name CA  ) (segid "   A" and resid 40   and name C   )  1.00 -101.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 40   and name C   ) (segid "   A" and resid 41   and name N   )
+         (segid "   A" and resid 41   and name CA  ) (segid "   A" and resid 41   and name C   )  1.00 -94.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 41   and name C   ) (segid "   A" and resid 42   and name N   )
+         (segid "   A" and resid 42   and name CA  ) (segid "   A" and resid 42   and name C   )  1.00 -130.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 42   and name C   ) (segid "   A" and resid 43   and name N   )
+         (segid "   A" and resid 43   and name CA  ) (segid "   A" and resid 43   and name C   )  1.00 -104.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 43   and name C   ) (segid "   A" and resid 44   and name N   )
+         (segid "   A" and resid 44   and name CA  ) (segid "   A" and resid 44   and name C   )  1.00 -121.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 44   and name C   ) (segid "   A" and resid 45   and name N   )
+         (segid "   A" and resid 45   and name CA  ) (segid "   A" and resid 45   and name C   )  1.00 -140.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 45   and name C   ) (segid "   A" and resid 46   and name N   )
+         (segid "   A" and resid 46   and name CA  ) (segid "   A" and resid 46   and name C   )  1.00  43.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 47   and name C   ) (segid "   A" and resid 48   and name N   )
+         (segid "   A" and resid 48   and name CA  ) (segid "   A" and resid 48   and name C   )  1.00 -110.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 48   and name C   ) (segid "   A" and resid 49   and name N   )
+         (segid "   A" and resid 49   and name CA  ) (segid "   A" and resid 49   and name C   )  1.00 -78.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 49   and name C   ) (segid "   A" and resid 50   and name N   )
+         (segid "   A" and resid 50   and name CA  ) (segid "   A" and resid 50   and name C   )  1.00 -83.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 50   and name C   ) (segid "   A" and resid 51   and name N   )
+         (segid "   A" and resid 51   and name CA  ) (segid "   A" and resid 51   and name C   )  1.00 -93.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 51   and name C   ) (segid "   A" and resid 52   and name N   )
+         (segid "   A" and resid 52   and name CA  ) (segid "   A" and resid 52   and name C   )  1.00 -47.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 52   and name C   ) (segid "   A" and resid 53   and name N   )
+         (segid "   A" and resid 53   and name CA  ) (segid "   A" and resid 53   and name C   )  1.00 -82.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 53   and name C   ) (segid "   A" and resid 54   and name N   )
+         (segid "   A" and resid 54   and name CA  ) (segid "   A" and resid 54   and name C   )  1.00 -99.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 54   and name C   ) (segid "   A" and resid 55   and name N   )
+         (segid "   A" and resid 55   and name CA  ) (segid "   A" and resid 55   and name C   )  1.00 -102.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 55   and name C   ) (segid "   A" and resid 56   and name N   )
+         (segid "   A" and resid 56   and name CA  ) (segid "   A" and resid 56   and name C   )  1.00 -53.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 56   and name C   ) (segid "   A" and resid 57   and name N   )
+         (segid "   A" and resid 57   and name CA  ) (segid "   A" and resid 57   and name C   )  1.00 -56.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 57   and name C   ) (segid "   A" and resid 58   and name N   )
+         (segid "   A" and resid 58   and name CA  ) (segid "   A" and resid 58   and name C   )  1.00 -59.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 58   and name C   ) (segid "   A" and resid 59   and name N   )
+         (segid "   A" and resid 59   and name CA  ) (segid "   A" and resid 59   and name C   )  1.00 -100.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 59   and name C   ) (segid "   A" and resid 60   and name N   )
+         (segid "   A" and resid 60   and name CA  ) (segid "   A" and resid 60   and name C   )  1.00  50.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 60   and name C   ) (segid "   A" and resid 61   and name N   )
+         (segid "   A" and resid 61   and name CA  ) (segid "   A" and resid 61   and name C   )  1.00 -81.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 61   and name C   ) (segid "   A" and resid 62   and name N   )
+         (segid "   A" and resid 62   and name CA  ) (segid "   A" and resid 62   and name C   )  1.00 -105.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 62   and name C   ) (segid "   A" and resid 63   and name N   )
+         (segid "   A" and resid 63   and name CA  ) (segid "   A" and resid 63   and name C   )  1.00 -45.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 63   and name C   ) (segid "   A" and resid 64   and name N   )
+         (segid "   A" and resid 64   and name CA  ) (segid "   A" and resid 64   and name C   )  1.00  64.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 64   and name C   ) (segid "   A" and resid 65   and name N   )
+         (segid "   A" and resid 65   and name CA  ) (segid "   A" and resid 65   and name C   )  1.00 -71.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 65   and name C   ) (segid "   A" and resid 66   and name N   )
+         (segid "   A" and resid 66   and name CA  ) (segid "   A" and resid 66   and name C   )  1.00 -107.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 66   and name C   ) (segid "   A" and resid 67   and name N   )
+         (segid "   A" and resid 67   and name CA  ) (segid "   A" and resid 67   and name C   )  1.00 -102.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 67   and name C   ) (segid "   A" and resid 68   and name N   )
+         (segid "   A" and resid 68   and name CA  ) (segid "   A" and resid 68   and name C   )  1.00 -108.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 68   and name C   ) (segid "   A" and resid 69   and name N   )
+         (segid "   A" and resid 69   and name CA  ) (segid "   A" and resid 69   and name C   )  1.00 -107.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 69   and name C   ) (segid "   A" and resid 70   and name N   )
+         (segid "   A" and resid 70   and name CA  ) (segid "   A" and resid 70   and name C   )  1.00 -124.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 70   and name C   ) (segid "   A" and resid 71   and name N   )
+         (segid "   A" and resid 71   and name CA  ) (segid "   A" and resid 71   and name C   )  1.00 -94.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 3    and name N   ) (segid "   A" and resid 3    and name CA  )
+         (segid "   A" and resid 3    and name CB  ) (segid "   A" and resid 3    and name CG1 )  1.00  65.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 4    and name N   ) (segid "   A" and resid 4    and name CA  )
+         (segid "   A" and resid 4    and name CB  ) (segid "   A" and resid 4    and name CG  )  1.00 -51.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 5    and name N   ) (segid "   A" and resid 5    and name CA  )
+         (segid "   A" and resid 5    and name CB  ) (segid "   A" and resid 5    and name CG1 )  1.00 -169.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 7    and name N   ) (segid "   A" and resid 7    and name CA  )
+         (segid "   A" and resid 7    and name CB  ) (segid "   A" and resid 7    and name OG1 )  1.00  76.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 9    and name N   ) (segid "   A" and resid 9    and name CA  )
+         (segid "   A" and resid 9    and name CB  ) (segid "   A" and resid 9    and name OG1 )  1.00  69.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 12   and name N   ) (segid "   A" and resid 12   and name CA  )
+         (segid "   A" and resid 12   and name CB  ) (segid "   A" and resid 12   and name OG1 )  1.00 -73.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 17   and name N   ) (segid "   A" and resid 17   and name CA  )
+         (segid "   A" and resid 17   and name CB  ) (segid "   A" and resid 17   and name CG1 )  1.00 -59.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 18   and name N   ) (segid "   A" and resid 18   and name CA  )
+         (segid "   A" and resid 18   and name CB  ) (segid "   A" and resid 18   and name CG  )  1.00 -53.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 21   and name N   ) (segid "   A" and resid 21   and name CA  )
+         (segid "   A" and resid 21   and name CB  ) (segid "   A" and resid 21   and name CG  )  1.00 -80.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 22   and name N   ) (segid "   A" and resid 22   and name CA  )
+         (segid "   A" and resid 22   and name CB  ) (segid "   A" and resid 22   and name OG1 )  1.00  67.30  0.00 2
+
+ ASSIGN  (segid "   A" and resid 23   and name N   ) (segid "   A" and resid 23   and name CA  )
+         (segid "   A" and resid 23   and name CB  ) (segid "   A" and resid 23   and name CG1 )  1.00 -69.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 26   and name N   ) (segid "   A" and resid 26   and name CA  )
+         (segid "   A" and resid 26   and name CB  ) (segid "   A" and resid 26   and name CG1 )  1.00 166.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 27   and name N   ) (segid "   A" and resid 27   and name CA  )
+         (segid "   A" and resid 27   and name CB  ) (segid "   A" and resid 27   and name CG  )  1.00 -62.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 29   and name N   ) (segid "   A" and resid 29   and name CA  )
+         (segid "   A" and resid 29   and name CB  ) (segid "   A" and resid 29   and name CG  )  1.00 -70.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 30   and name N   ) (segid "   A" and resid 30   and name CA  )
+         (segid "   A" and resid 30   and name CB  ) (segid "   A" and resid 30   and name CG1 )  1.00 -69.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 31   and name N   ) (segid "   A" and resid 31   and name CA  )
+         (segid "   A" and resid 31   and name CB  ) (segid "   A" and resid 31   and name CG  )  1.00 178.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 36   and name N   ) (segid "   A" and resid 36   and name CA  )
+         (segid "   A" and resid 36   and name CB  ) (segid "   A" and resid 36   and name CG1 )  1.00 -44.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 40   and name N   ) (segid "   A" and resid 40   and name CA  )
+         (segid "   A" and resid 40   and name CB  ) (segid "   A" and resid 40   and name CG  )  1.00 -55.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 43   and name N   ) (segid "   A" and resid 43   and name CA  )
+         (segid "   A" and resid 43   and name CB  ) (segid "   A" and resid 43   and name CG  )  1.00 -65.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 45   and name N   ) (segid "   A" and resid 45   and name CA  )
+         (segid "   A" and resid 45   and name CB  ) (segid "   A" and resid 45   and name CG  )  1.00 175.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 50   and name N   ) (segid "   A" and resid 50   and name CA  )
+         (segid "   A" and resid 50   and name CB  ) (segid "   A" and resid 50   and name CG  )  1.00 -54.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 52   and name N   ) (segid "   A" and resid 52   and name CA  )
+         (segid "   A" and resid 52   and name CB  ) (segid "   A" and resid 52   and name CG  )  1.00 -80.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 54   and name N   ) (segid "   A" and resid 54   and name CA  )
+         (segid "   A" and resid 54   and name CB  ) (segid "   A" and resid 54   and name CG  )  1.00 -60.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 55   and name N   ) (segid "   A" and resid 55   and name CA  )
+         (segid "   A" and resid 55   and name CB  ) (segid "   A" and resid 55   and name OG1 )  1.00  60.80  0.00 2
+
+ ASSIGN  (segid "   A" and resid 56   and name N   ) (segid "   A" and resid 56   and name CA  )
+         (segid "   A" and resid 56   and name CB  ) (segid "   A" and resid 56   and name CG  )  1.00 -55.50  0.00 2
+
+ ASSIGN  (segid "   A" and resid 58   and name N   ) (segid "   A" and resid 58   and name CA  )
+         (segid "   A" and resid 58   and name CB  ) (segid "   A" and resid 58   and name CG  )  1.00 -67.00  0.00 2
+
+ ASSIGN  (segid "   A" and resid 59   and name N   ) (segid "   A" and resid 59   and name CA  )
+         (segid "   A" and resid 59   and name CB  ) (segid "   A" and resid 59   and name CG  )  1.00 -59.10  0.00 2
+
+ ASSIGN  (segid "   A" and resid 61   and name N   ) (segid "   A" and resid 61   and name CA  )
+         (segid "   A" and resid 61   and name CB  ) (segid "   A" and resid 61   and name CG1 )  1.00 -78.40  0.00 2
+
+ ASSIGN  (segid "   A" and resid 62   and name N   ) (segid "   A" and resid 62   and name CA  )
+         (segid "   A" and resid 62   and name CB  ) (segid "   A" and resid 62   and name CG  )  1.00 -70.20  0.00 2
+
+ ASSIGN  (segid "   A" and resid 63   and name N   ) (segid "   A" and resid 63   and name CA  )
+         (segid "   A" and resid 63   and name CB  ) (segid "   A" and resid 63   and name CG  )  1.00  50.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 64   and name N   ) (segid "   A" and resid 64   and name CA  )
+         (segid "   A" and resid 64   and name CB  ) (segid "   A" and resid 64   and name CG  )  1.00 -51.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 65   and name N   ) (segid "   A" and resid 65   and name CA  )
+         (segid "   A" and resid 65   and name CB  ) (segid "   A" and resid 65   and name OG  )  1.00 -55.60  0.00 2
+
+ ASSIGN  (segid "   A" and resid 66   and name N   ) (segid "   A" and resid 66   and name CA  )
+         (segid "   A" and resid 66   and name CB  ) (segid "   A" and resid 66   and name OG1 )  1.00 -64.90  0.00 2
+
+ ASSIGN  (segid "   A" and resid 68   and name N   ) (segid "   A" and resid 68   and name CA  )
+         (segid "   A" and resid 68   and name CB  ) (segid "   A" and resid 68   and name CG  )  1.00 -53.70  0.00 2
+
+ ASSIGN  (segid "   A" and resid 69   and name N   ) (segid "   A" and resid 69   and name CA  )
+         (segid "   A" and resid 69   and name CB  ) (segid "   A" and resid 69   and name CG  )  1.00 169.90  0.00 2
+
