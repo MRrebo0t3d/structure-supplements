@@ -8,12 +8,12 @@ Directory Structure:
 	+ --- other-tests/ -> (contains nmrfxstructure testing information about scoring, shifts prediction, etc.)
 	|	    |
 	|	    + --- [rnapredpdb/, rnapredvie/, ...]
-        |             |            |
-	|             |            |	
-	|             |            + --- [demo.sh, example.txt, project.yaml, shifts.txt]
-	|             |
-	|             |
-	|             +--- [demo.sh, pbs.pdb, shifts.txt]
+        |                   |            |
+	|                   |            |	
+	|                   |            + --- [demo.sh, example.txt, project.yaml, shifts.txt]
+	|                   |
+	|                   |
+	|                   +--- [demo.sh, pbs.pdb, shifts.txt]
         |
         |
 	+ --- stucture-tests/ -> (quick batch of structures any user should be able to run)
