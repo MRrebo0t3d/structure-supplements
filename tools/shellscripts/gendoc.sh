@@ -27,7 +27,7 @@ else
 fi
 
 # running pydoc-markdown and saving output markdown file at docs directory
-pydocmd simple $inpt > "/home/tedcolon/nmrfxs_tests/nmrfxstrc-proj/docs/${1%.*}.md";
+pydocmd simple $inpt > "./${1%.*}.md";
 
 # removing excess files
 rm $oFile.py *.pyc;
