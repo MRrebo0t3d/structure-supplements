@@ -10,9 +10,13 @@ distances :
     - 
       file : input/dis.tbl
       type : xplor
-    -
-      file : input/hydcon.tbl
+    - 
+      file : input/hydcon1.tbl
       type : xplor
+    - 
+      file : input/hydcon2.tbl
+      type : xplor
+
 
 anneal:
     steps : 15000

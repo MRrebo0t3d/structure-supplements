@@ -1,0 +1,114 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!For HN 2.9/3.5/5.0
+!For CH 2.7/3.3/5.0
+!methyls add 0.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!A34 to PRO !(no strong NOEs to HA)
+assign (resid 34   and name HB#)    (resid 703 and name HB#) 2.00 0.20 1.20  ! S SOLID MAY 3DINTER+3D +NEW3DINTER
+!assign (resid 34   and name HB#)    (resid 703 and name HG*) 2.00 0.20 1.00  ! S
+assign (resid 34   and name HB#)    (resid 703 and name HA)  2.00 0.20 1.80  ! M SOLID MAY 3DINTER+3D+ NEW3DINTER
+assign (resid 34   and name HB#)    (resid 704 and name HB#) 2.00 0.20 1.80  ! NEW3DINTER
+
+!L39 to ALA
+assign (resid 39    and name HD*)       (resid 704 and name HB#)        2.00 0.20 1.20 ! S SOLID MAY 2D FILT + NEW3DINTER
+assign (resid 39    and name HD*)       (resid 704 and name HA)         2.00 0.20 1.80 ! M SOLID MAY 2D FILT + NEW3DINTER
+assign (resid 39    and name HD*)       (resid 704 and name HN)         2.00 0.20 2.00 ! M SOLID MAY 2D FILTER
+
+!ALA46 to PRO
+assign (resid 46   and name HA)    (resid 703 and name HB#) 2.00 0.20 1.80  ! M SOLID MAY 3D + 3DNEWINTER
+assign (resid 46   and name HB#)    (resid 703 and name HB#) 2.00 0.20 3.50  ! W 3DNEWINTER
+assign (resid 46   and name HB#)    (resid 703 and name HD#) 2.00 0.20 1.80  ! M 3DNEWINTER
+!assign (resid 46   and name HA)    (resid 703 and name HG*) 2.00 0.20 1.80  ! M  check later MAY
+
+!ALA60 to PRO
+assign (resid 60    and name HB*)    (resid 703 and name HG*) 2.00 0.20 1.20 ! SOLID MAY ALLDATASETS   
+assign (resid 60    and name HB*)    (resid 703 and name HB#) 2.00 0.20 3.50 ! SOLID MAY 3DINTERMOL
+!!assign (resid 60   and name HB*)    (resid 704 and name HA)         2.00 0.20 3.00  ! M !OK ? 4/23
+!assign (resid 61   and name HN)    (resid 704 and name HB#) 2.00 0.20 3.0   !OL with A60HB
+
+
+!PRO 105 to LEU RTC
+assign (resid 105    and name HA)       (resid 702 and name HD*)        2.00 0.20 1.20 ! S MAY SOLID 3D +3DInter
+!Another weaker peak to HD
+assign (resid 105    and name HA)       (resid 702 and name HB#)        2.00 0.20 3.00 ! W MAY SOLID FROM 3DINTER 
+assign (resid 105    and name HA)       (resid 702 and name HG)         2.00 0.20 3.00 ! W MAY SOLID FROM 3DINTER 
+assign (resid 105    and name HB#)      (resid 702 and name HD*)        2.00 0.20 3.50 ! W MAY SOLID 3D + 3DInter
+
+!THR 106 to LEUm (noes to HD AND HG check this later, the HN noe to LHD is not correct)
+!no intermols from alpha from 3dinter
+!assign (resid 106    and name HA)       (resid 702 and name HD*)        2.00 0.20 2.00 ! In 3D-C but OL  
+
+!ASP107 (HN HAS UNASS NOES; HB solid to 110 and 103. Also to Leu HD?)
+assign (resid 107   and name HN)        (resid 702 and name HD*)        2.00 0.20 1.4   ! S MAY 3DN + 3DINTER 
+assign (resid 107   and name HN)        (resid 702 and name HG)         2.00 0.20 1.3   ! M MAY 3DN +?Inter
+!real?? in 3dnewinter
+!assign (resid 107   and name HB#)       (resid 702 and name HD*)       2.00 0.20 2.00  !RTC Val103MET?
+
+!VAL 108 to LEU RTC 
+assign (resid 108   and name HA)        (resid 702 and name HD*)        2.00 0.20 1.20 !3D Inter S RTC SOLID MAY2
+assign (resid 108   and name HA)        (resid 702 and name HB#)        2.00 0.20 1.30 !3D Inter M RTC SOLID MAY2minus
+assign (resid 108   and name HA)        (resid 702 and name HG)         2.00 0.20 0.70 !3D Inter S RTC SOLID MAY2
+!possible noes from Hb of V108
+!HG may show to CBZ and HG
+!Although one HG is OL it also shows weak to CBZ
+
+!reclassed as med
+assign (resid 108   and name HN)        (resid 702 and name HD*)        2.00 0.20 3.0   ! M SOLID MAY 3DN
+assign (resid 108   and name HN)        (resid 702 and name HG)         2.00 0.20 1.5   ! M SOLID MAY 3DN
+!didn't see to Leu HN
+
+
+!GLY 109  to LEU RTC
+assign (resid 109   and name HN)        (resid 702 and name HD*)        2.00 0.20 3.0   ! W SOLID MAY 3DN
+!assign (resid 109   and name HN)        (resid 702 and name HB#)        2.00 0.20 3.0   ! W
+
+
+!VAL 110 to LEU 702 alot of OL Added back 5/6
+assign (resid 110   and name HB)       (resid 702 and name HD*)         2.0 0.2 1.8 !M NEW3DINTER
+assign (resid 110   and name HG*)       (resid 702 and name HG)         2.0 0.2 1.2 !S NEW3DINTER
+assign (resid 110   and name HG*)       (resid 702 and name HB#)        2.0 0.2 3.5 !W NEW3DINTER
+assign (resid 110   and name HG*)       (resid 702 and name HD*)        2.0 0.2 1.3 !S NEW3DINTER
+assign (resid 110   and name HG*)       (resid 703 and name HD#)        2.0 0.2 3.5 !W NEW3DINTER
+!HN??
+!assign (resid 110   and name HA)       (resid 702 and name HB#)         2.0 0.2 3.0
+!assign (resid 110   and name HA)       (resid 702 and name HG)          2.0 0.2 5.0  !Changed on 080906 from 2.0 0.2 0.7 Tom
+!assign (resid 110   and name HN)        (resid 702 and name HD*)        2.00 0.20 1.4   ! S
+!assign (resid 110   and name HN)        (resid 702 and name HB#)        2.00 0.20 3.0   ! S !Changed from 2.00 0.20 1.4 Tom
+!assign (resid 110   and name HG*)        (resid 703 and name HD#)        2.00 0.20 1.8   !S
+
+!LEU 111
+!NOES TO CBZ
+!LEU 111 contacts a peak at 7.4 (can only be CBZ?)
+!assign (resid 111    and name HD*)       (resid 702 and name HB*)        2.00 0.20 1.50 !
+!NEEDS TO BE ADDED
+!LEU 111 to LEU 702
+!assign (resid 111   and name HN)       (resid 702 and name HD*)        2.00 0.20 1.40 !Strong
+
+!LEU111 to PRO (Added 2/07)
+assign (resid 111   and name HD*)    (resid 703 and name HD#) 2.00 0.20 1.30 ! S NEW3DINTER     
+assign (resid 111   and name HD*)    (resid 702 and name HA)  2.00 0.20 1.30 ! S NEW3DINTER     
+assign (resid 111   and name HD*)    (resid 703 and name HG*)   2.00 0.20 1.20 ! S Only in 3dInter     
+!assign (resid 111   and name HG*)    (resid 703 and name HD#) 2.00 0.20 3.50 ! W Added on 031108
+!assign (resid 111   and name HN)    (resid 702 and name HD*)        2.00 0.20 3.0   ! S !Changed from 2.00 0.20 1.4 Tom
+!ssign (resid 111   and name HN)    (resid 702 and name HB#)        2.00 0.20 4.0   ! W
+
+!ILE124 to PRO (maybe to Ala?)
+assign (resid 124   and name HD1*)    (resid 702 and name HA)  2.00 0.20 1.80 ! SOLID MAY 3DINTER+2D+NEW3DINTER    
+assign (resid 124   and name HD1*)    (resid 703 and name HD#) 2.00 0.20 1.80 ! SOLID MAY 3DINTER+2D+NEW3DINTER
+assign (resid 124   and name HD1*)    (resid 703 and name HG*)   2.00 0.20 1.80 ! SOLID MAY 3DINTER+2D+NEW3DINTER
+assign (resid 124   and name HG2*)    (resid 703 and name HD#) 2.00 0.20 1.80 ! M NEW3DINTER
+assign (resid 124   and name HG2*)    (resid 703 and name HG*)   2.00 0.20 1.20 ! S NEW3DINTER
+
+!W136 RTC
+assign (resid 136    and name HE1)       (resid 705 and name HG2*)      3.00 0.20 0.40 !RTC
+assign (resid 136    and name HE1)       (resid 705 and name HA)        3.00 0.20 2.50 !RTC 
+assign (resid 136    and name HE1)       (resid 705 and name HB)        3.00 0.20 1.50 !RTC
+
+!R139 RTC
+assign (resid 139   and name HE)    (resid 702 and name HD*) 2.00 0.20 1.50  ! M
+assign (resid 139   and name HE)    (resid 702 and name HG)   2.00 0.20 3.50  ! W
+assign (resid 139   and name HD#)    (resid 702 and name HD*) 2.00 0.20 3.00  ! W
+

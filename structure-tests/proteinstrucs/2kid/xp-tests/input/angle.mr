@@ -1,0 +1,1098 @@
+!  These Phi and Psi constraints are based on the results of TALOS 
+! only for residues with 'Good' status.                            
+!                                                                  
+!  The center value is the avergae of TALOS predictions.           
+!                                                                  
+!  The range of constrains are three times of standard deviation   
+! of TALOS predictions. But if such a value is smaller than 20     
+! degree, the range is set to 20 degree.                           
+!                                                  J.I.            
+!! I reduced to 20 degrees instead of 30 for select residues
+!! I also made it 1x STD ..(I being RTC)
+
+
+!!!Q2 (HNHA J= 4.2 Phi=-60 +/-30 100405)
+!assign (resid  1 and name C)    (resid  2 and name  N)
+!       (resid  2 and name CA)   (resid  2 and name  C) 1.0  -60.0 30.0  2
+!
+!!!A3 (HNHA J= 4.7 Phi=-60 +/-30 100405)
+assign (resid  2 and name C)    (resid  3 and name  N)
+       (resid  3 and name CA)   (resid  3 and name  C) 1.0  -60.0 30.0  2
+
+!!!K4 (HNHA J= 8.5 Phi=-90 +/-90 100405)
+assign (resid  3 and name C)    (resid  4 and name  N)
+       (resid  4 and name CA)   (resid  4 and name  C) 1.0  -90.0 90.0  2
+
+!!!P5 (HNHA J= 8.5 Phi=-90 +/-90 100405)
+assign (resid  4 and name C)    (resid  5 and name  N)
+       (resid  5 and name CA)   (resid  5 and name  C) 1.0  -90.0 90.0  2
+
+!!!Q6 (HNHA J= 7.7 Phi=-90 +/-90 100405)
+assign (resid  5 and name C)    (resid  6 and name  N)
+       (resid  6 and name CA)   (resid  6 and name  C) 1.0  -90.0 90.0  2
+
+!!!I7 (HNHA J= 2.7 Phi=-60 +/-30 100405)
+assign (resid  6 and name C)    (resid  7 and name  N)
+       (resid  7 and name CA)   (resid  7 and name  C) 1.0  -60.0 30.0  2
+assign (resid  7 and name  N)   (resid  7 and name CA)
+       (resid  7 and name  C)   (resid  8 and name  N) 1.0   130.0 30.0  2        
+
+!!!K9 (Restricted based on NNOE pattern 030309)
+assign (resid  8 and name C)    (resid  9 and name  N)
+       (resid  9 and name CA)   (resid  9 and name  C) 1.0  -60.0 30.0  2
+assign (resid  9 and name  N)   (resid  9 and name CA)
+       (resid  9 and name  C)   (resid  10 and name  N) 1.0   -30.0 30.0  2
+
+!!!D10 (HNHA J= 6.3 Phi=-90 +/-90 100405)
+!assign (resid  9 and name C)    (resid  10 and name  N)
+!       (resid  10 and name CA)   (resid  10 and name  C) 1.0  -90.0 90.0  2
+!!!D10 (HNHA J= 6.3 Phi=-80 +/-30 use same as apo-SrtA 030107)
+assign (resid  9 and name C)    (resid  10 and name  N)
+       (resid  10 and name CA)   (resid  10 and name  C) 1.0  -80.0 30.0  2 
+ 
+                                                                  
+!K11 (TALOS: Phi -64.0 +/- 7.0   , TALOS: Psi -23.0 +/- 13.0 )
+assign (resid  10 and name C)    (resid  11 and name  N)
+       (resid  11 and name CA)   (resid  11 and name  C) 1.0  -64.0 31.0  2
+
+!violated on 021607
+!assign (resid  11 and name  N)   (resid  11 and name CA)
+!       (resid  11 and name  C)   (resid  12 and name  N) 1.0  -23.0 39.0  2
+
+
+!S12 (TALOS: Phi -87.0 +/- 9.0   , TALOS: Psi  -4.0 +/- 17.0 )
+assign (resid  11 and name C)    (resid  12 and name  N)
+       (resid  12 and name CA)   (resid  12 and name  C) 1.0  -87.0 37.0  2
+assign (resid  12 and name  N)   (resid  12 and name CA)
+       (resid  12 and name  C)   (resid  13 and name  N) 1.0   -4.0 51.0  2
+
+!!!K13 (HNHA J= 7.5 Phi=-90 +/-90 100405)
+assign (resid  12 and name C)    (resid  13 and name  N)
+       (resid  13 and name CA)   (resid  13 and name  C) 1.0  -90.0 90.0  2
+
+!V14 (TALOS: Phi -76.0 +/- 17.9  , TALOS: Psi 138.0 +/- 10.3 )
+assign (resid  13 and name C)    (resid  14 and name  N)
+       (resid  14 and name CA)   (resid  14 and name  C) 1.0  -76.0 53.8  2
+assign (resid  14 and name  N)   (resid  14 and name CA)
+       (resid  14 and name  C)   (resid  15 and name  N) 1.0  138.0 30.9  2
+
+!!!A15 (HNHA J= 7.7 Phi=-90 +/-90 100405)
+assign (resid  14 and name C)    (resid  15 and name  N)
+       (resid  15 and name CA)   (resid  15 and name  C) 1.0  -90.0 90.0  2
+assign (resid  15 and name  N)   (resid  15 and name CA)
+       (resid  15 and name  C)   (resid  16 and name  N) 1.0  0.0 40.0  2       
+
+!!G16 (Restricted based on NNOE pattern 030309 
+!then widen out after violation report 030409)
+!Let it float after RDCs RTC 
+!assign (resid  15 and name C)    (resid  16 and name  N)
+!       (resid  16 and name CA)   (resid  16 and name  C) 1.0  100.0 60.0  2
+!assign (resid  16 and name  N)   (resid  16 and name CA)
+!       (resid  16 and name  C)   (resid  17 and name  N) 1.0  100.0 60.0  2       
+!TOM restricted phi based on NNOE G16HN<==>V29HN, and xtal structure 042409
+assign (resid  15 and name C)    (resid  16 and name  N)
+       (resid  16 and name CA)   (resid  16 and name  C) 1.0  180.0 30.0  2
+
+!Y17 (TALOS: Phi -113.7 +/- 14.7  , TALOS: Psi 138.9 +/- 12.9 )
+assign (resid  16 and name C)    (resid  17 and name  N)
+       (resid  17 and name CA)   (resid  17 and name  C) 1.0  -113.7 44.0  2
+assign (resid  17 and name  N)   (resid  17 and name CA)
+       (resid  17 and name  C)   (resid  18 and name  N) 1.0  138.9 38.7  2
+
+!I18 (TALOS: Phi -128.2 +/- 10.2  , TALOS: Psi 134.9 +/- 10.1 )
+assign (resid  17 and name C)    (resid  18 and name  N)
+       (resid  18 and name CA)   (resid  18 and name  C) 1.0  -128.2 30.5  2
+assign (resid  18 and name  N)   (resid  18 and name CA)
+       (resid  18 and name  C)   (resid  19 and name  N) 1.0  134.9 30.2  2
+!E19 (TALOS: Phi -122.3 +/- 15.4  , TALOS: Psi 138.3 +/- 18.0 )
+assign (resid  18 and name C)    (resid  19 and name  N)
+       (resid  19 and name CA)   (resid  19 and name  C) 1.0  -122.3 46.3  2
+assign (resid  19 and name  N)   (resid  19 and name CA)
+       (resid  19 and name  C)   (resid  20 and name  N) 1.0  138.3 54.0  2
+!I20 (TALOS: Phi -121.3 +/- 19.5  , TALOS: Psi 131.3 +/- 20.7 )
+assign (resid  19 and name C)    (resid  20 and name  N)
+       (resid  20 and name CA)   (resid  20 and name  C) 1.0  -121.3 58.5  2
+assign (resid  20 and name  N)   (resid  20 and name CA)
+       (resid  20 and name  C)   (resid  21 and name  N) 1.0  131.3 62.0  2
+!P21 (TALOS: Phi -60.0 +/- 9.0   , TALOS: Psi -32.0 +/- 14.0 )
+assign (resid  20 and name C)    (resid  21 and name  N)
+       (resid  21 and name CA)   (resid  21 and name  C) 1.0  -60.0 37.0  2
+assign (resid  21 and name  N)   (resid  21 and name CA)
+       (resid  21 and name  C)   (resid  22 and name  N) 1.0  -32.0 42.0  2
+!D22 (TALOS: Phi -64.0 +/- 13.0  , TALOS: Psi -27.0 +/- 14.0 )
+assign (resid  21 and name C)    (resid  22 and name  N)
+       (resid  22 and name CA)   (resid  22 and name  C) 1.0  -64.0 39.0  2
+assign (resid  22 and name  N)   (resid  22 and name CA)
+       (resid  22 and name  C)   (resid  23 and name  N) 1.0  -27.0 42.0  2
+
+!!!A23 (HNHA J= 9.3 Phi=-120 +/-40 100405)
+assign (resid  22 and name C)    (resid  23 and name  N)
+       (resid  23 and name CA)   (resid  23 and name  C) 1.0  -120.0 40.0  2
+
+!D24 (Restricted based on NNOE pattern 030309)
+assign (resid  23 and name C)    (resid  24 and name  N)
+       (resid  24 and name CA)   (resid  24 and name  C) 1.0  50.0 30.0  2
+assign (resid  24 and name  N)   (resid  24 and name CA)
+       (resid  24 and name  C)   (resid  25 and name  N) 1.0  40.0 30.0  2   
+
+!I25 (TALOS: Phi -101.5 +/- 31.3  , TALOS: Psi 134.9 +/- 12.8 )
+assign (resid  24 and name C)    (resid  25 and name  N)
+       (resid  25 and name CA)   (resid  25 and name  C) 1.0  -101.5 93.8  2
+assign (resid  25 and name  N)   (resid  25 and name CA)
+       (resid  25 and name  C)   (resid  26 and name  N) 1.0  134.9 38.4  2
+!K26 (TALOS: Phi -103.9 +/- 16.1  , TALOS: Psi 124.6 +/- 8.8  )
+assign (resid  25 and name C)    (resid  26 and name  N)
+       (resid  26 and name CA)   (resid  26 and name  C) 1.0  -103.9 60.0  2
+assign (resid  26 and name  N)   (resid  26 and name CA)
+       (resid  26 and name  C)   (resid  27 and name  N) 1.0  124.6 36.5  2
+!E27 (TALOS: Phi -122.4 +/- 12.5  , TALOS: Psi 135.4 +/- 17.6 )
+assign (resid  26 and name C)    (resid  27 and name  N)
+       (resid  27 and name CA)   (resid  27 and name  C) 1.0  -122.4 37.5  2
+assign (resid  27 and name  N)   (resid  27 and name CA)
+       (resid  27 and name  C)   (resid  28 and name  N) 1.0  135.4 52.8  2
+!P28 (TALOS: Phi -73.3 +/- 19.6  , TALOS: Psi 138.9 +/- 9.9  )
+assign (resid  27 and name C)    (resid  28 and name  N)
+       (resid  28 and name CA)   (resid  28 and name  C) 1.0  -73.3 58.9  2
+assign (resid  28 and name  N)   (resid  28 and name CA)
+       (resid  28 and name  C)   (resid  29 and name  N) 1.0  138.9 29.8  2
+!V29 (TALOS: Phi -127.4 +/- 21.8  , TALOS: Psi 133.4 +/- 11.5 )
+assign (resid  28 and name C)    (resid  29 and name  N)
+       (resid  29 and name CA)   (resid  29 and name  C) 1.0  -127.4 65.3  2
+assign (resid  29 and name  N)   (resid  29 and name CA)
+       (resid  29 and name  C)   (resid  30 and name  N) 1.0  133.4 34.5  2
+!Y30 (TALOS: Phi -78.0 +/- 16.0  , TALOS: Psi 125.0 +/- 17.0 )
+assign (resid  29 and name C)    (resid  30 and name  N)
+       (resid  30 and name CA)   (resid  30 and name  C) 1.0  -78.0 48.0  2
+assign (resid  30 and name  N)   (resid  30 and name CA)
+       (resid  30 and name  C)   (resid  31 and name  N) 1.0  125.0 51.0  2
+!P31 (TALOS: Phi -82.5 +/- 38.5  , TALOS: Psi 151.3 +/- 16.1 )
+assign (resid  30 and name C)    (resid  31 and name  N)
+       (resid  31 and name CA)   (resid  31 and name  C) 1.0  -82.5 115.5  2
+assign (resid  31 and name  N)   (resid  31 and name CA)
+       (resid  31 and name  C)   (resid  32 and name  N) 1.0  151.3 48.2  2
+!P33 (TALOS: Phi -97.4 +/- 30.5  , TALOS: Psi 141.5 +/- 18.1 )
+assign (resid  32 and name C)    (resid  33 and name  N)
+       (resid  33 and name CA)   (resid  33 and name  C) 1.0  -97.4 91.5  2
+assign (resid  33 and name  N)   (resid  33 and name CA)
+       (resid  33 and name  C)   (resid  34 and name  N) 1.0  141.5 54.3  2
+
+!!!A34 (HNHA J= 4.8 Phi=-60 +/-30 100405)
+!RTC Removed not from TALOS 032309
+!assign (resid  33 and name C)    (resid  34 and name  N)
+!       (resid  34 and name CA)   (resid  34 and name  C) 1.0  -60.0 30.0  2
+!assign (resid  34 and name  N)   (resid  34 and name CA)
+!       (resid  34 and name  C)   (resid  35 and name  N) 1.0  120.0 50.0  2
+
+!RTC TIGHT PHI PSI START
+!Loosened by Tom 042409
+!T35 (TALOS: Phi -98.8 +/- 32.0  , TALOS: Psi 140.7 +/- 37.1 )
+assign (resid  34 and name C)    (resid  35 and name  N)
+       (resid  35 and name CA)   (resid  35 and name  C) 1.0  -98.8 95.9  2
+assign (resid  35 and name  N)   (resid  35 and name CA)
+       (resid  35 and name  C)   (resid  36 and name  N) 1.0  140.7 111.3  2
+
+!P36 (TALOS: Phi -58.3 +/- 6.5   , TALOS: Psi -34.5 +/- 11.5 )
+assign (resid  35 and name C)    (resid  36 and name  N)
+       (resid  36 and name CA)   (resid  36 and name  C) 1.0  -58.3 30.0  2
+assign (resid  36 and name  N)   (resid  36 and name CA)
+       (resid  36 and name  C)   (resid  37 and name  N) 1.0  -34.5 34.6  2
+!E37 (TALOS: Phi -60.6 +/- 3.9   , TALOS: Psi -43.1 +/- 3.9  )
+assign (resid  36 and name C)    (resid  37 and name  N)
+       (resid  37 and name CA)   (resid  37 and name  C) 1.0  -60.6 30.0  2
+assign (resid  37 and name  N)   (resid  37 and name CA)
+       (resid  37 and name  C)   (resid  38 and name  N) 1.0  -43.1 30.0  2
+!Q38 (TALOS: Phi -64.0 +/- 7.0   , TALOS: Psi -39.6 +/- 4.8  )
+assign (resid  37 and name C)    (resid  38 and name  N)
+       (resid  38 and name CA)   (resid  38 and name  C) 1.0  -64.0 31.0  2
+assign (resid  38 and name  N)   (resid  38 and name CA)
+       (resid  38 and name  C)   (resid  39 and name  N) 1.0  -39.6 30.0  2
+!L39 (TALOS: Phi -64.5 +/- 7.5   , TALOS: Psi -41.5 +/- 8.5  )
+assign (resid  38 and name C)    (resid  39 and name  N)
+       (resid  39 and name CA)   (resid  39 and name  C) 1.0  -64.5 32.5  2
+assign (resid  39 and name  N)   (resid  39 and name CA)
+       (resid  39 and name  C)   (resid  40 and name  N) 1.0  -41.5 35.4  2
+!N40 (TALOS: Phi -67.5 +/- 9.0   , TALOS: Psi -36.4 +/- 13.8 )
+assign (resid  39 and name C)    (resid  40 and name  N)
+       (resid  40 and name CA)   (resid  40 and name  C) 1.0  -67.5 36.9  2
+assign (resid  40 and name  N)   (resid  40 and name CA)
+       (resid  40 and name  C)   (resid  41 and name  N) 1.0  -36.4 41.2  2
+!R41 (TALOS: Phi -71.0 +/- 14.0  , TALOS: Psi -30.0 +/- 6.0  )
+assign (resid  40 and name C)    (resid  41 and name  N)
+       (resid  41 and name CA)   (resid  41 and name  C) 1.0  -71.0 42.0  2
+assign (resid  41 and name  N)   (resid  41 and name CA)
+       (resid  41 and name  C)   (resid  42 and name  N) 1.0  -30.0 30.0  2
+
+!G42 (Restricted based on NNOE pattern 030309)
+assign (resid  41 and name C)    (resid  42 and name  N)
+       (resid  42 and name CA)   (resid  42 and name  C) 1.0  -160.0 30.0  2
+assign (resid  42 and name  N)   (resid  42 and name CA)
+       (resid  42 and name  C)   (resid  43 and name  N) 1.0  180.0 30.0  2
+
+!V43 (Restricted based on NNOE pattern 030309)
+assign (resid  42 and name C)    (resid  43 and name  N)
+       (resid  43 and name CA)   (resid  43 and name  C) 1.0  -80.0 30.0  2
+assign (resid  43 and name  N)   (resid  43 and name CA)
+       (resid  43 and name  C)   (resid  44 and name  N) 1.0  100.0 30.0  2
+
+!!!S44 (HNHA J= 4.8 Phi=-60 +/-30 100405)
+assign (resid  43 and name C)    (resid  44 and name  N)
+       (resid  44 and name CA)   (resid  44 and name  C) 1.0  -60.0 30.0  2
+
+!!!E47 (HNHA J= 9.0 Phi=-120 +/-40 100405)
+assign (resid  46 and name C)    (resid  47 and name  N)
+       (resid  47 and name CA)   (resid  47 and name  C) 1.0  -120.0 40.0  2
+
+!E48 (TALOS: Phi -61.0 +/- 4.0   , TALOS: Psi -24.0 +/- 13.0 )
+assign (resid  47 and name C)    (resid  48 and name  N)
+       (resid  48 and name CA)   (resid  48 and name  C) 1.0  -61.0 30.0  2
+assign (resid  48 and name  N)   (resid  48 and name CA)
+       (resid  48 and name  C)   (resid  49 and name  N) 1.0  -24.0 39.0  2
+
+
+!RTC TIGHT
+!Tom Loosened on 040609 because of violations in every structures (too tight)
+!N49 (TALOS: Phi -95.3 +/- 13.0  , TALOS: Psi   2.0 +/- 10.1 )
+assign (resid  48 and name C)    (resid  49 and name  N)
+       (resid  49 and name CA)   (resid  49 and name  C) 1.0  -95.3 39  2
+assign (resid  49 and name  N)   (resid  49 and name CA)
+       (resid  49 and name  C)   (resid  50 and name  N) 1.0    2.0 30  2
+
+!!!E50 (HNHA J= 4.6 Phi=-60 +/-30 100405)
+assign (resid  49 and name C)    (resid  50 and name  N)
+       (resid  50 and name CA)   (resid  50 and name  C) 1.0  -60.0 30.0  2
+assign (resid  50 and name  N)   (resid  50 and name CA)
+       (resid  50 and name  C)   (resid  51 and name  N) 1.0    120.0 30.0  2
+
+!Tight RTC
+!Loosened by Tom 042409
+!S51 (TALOS: Phi -119.0 +/- 17.0  , TALOS: Psi 143.0 +/- 27.0 )
+assign (resid  50 and name C)    (resid  51 and name  N)
+       (resid  51 and name CA)   (resid  51 and name  C) 1.0  -119.0 51  2
+assign (resid  51 and name  N)   (resid  51 and name CA)
+       (resid  51 and name  C)   (resid  52 and name  N) 1.0  143.0 81  2
+
+!!!L52 (HNHA J= 4.4 Phi=-60 +/-30 100405)
+assign (resid  51 and name C)    (resid  52 and name  N)
+       (resid  52 and name CA)   (resid  52 and name  C) 1.0  -60.0 30.0  2
+
+!!!D53 (HNHA J= 8.9 Phi=-90 +/-90 100405)
+assign (resid  52 and name C)    (resid  53 and name  N)
+       (resid  53 and name CA)   (resid  53 and name  C) 1.0  -90.0 40.0  2
+
+!D54 (TALOS: Phi -85.8 +/- 30.4  , TALOS: Psi 140.2 +/- 21.1 )
+assign (resid  53 and name C)    (resid  54 and name  N)
+       (resid  54 and name CA)   (resid  54 and name  C) 1.0  -85.8 91.3  2
+assign (resid  54 and name  N)   (resid  54 and name CA)
+       (resid  54 and name  C)   (resid  55 and name  N) 1.0  140.2 63.3  2
+ 
+!Q55 (TALOS: Phi -70.1 +/- 25.4  , TALOS: Psi -28.1 +/- 9.7  )
+!Restricted more based on NNOE pattern 030309
+assign (resid  54 and name C)    (resid  55 and name  N)
+       (resid  55 and name CA)   (resid  55 and name  C) 1.0  -70.1 30.0  2
+assign (resid  55 and name  N)   (resid  55 and name CA)
+       (resid  55 and name  C)   (resid  56 and name  N) 1.0  -28.1 30.0  2
+
+!!!N56 (HNHA J= 7.9 Phi=-90 +/-90 100405)
+assign (resid  55 and name C)    (resid  56 and name  N)
+       (resid  56 and name CA)   (resid  56 and name  C) 1.0  -90.0 90.0  2
+
+!!!I57 (HNHA J= 9.5 Phi=-120 +/-40 100405)
+assign (resid  56 and name C)    (resid  57 and name  N)
+       (resid  57 and name CA)   (resid  57 and name  C) 1.0  -120.0 40.0  2
+
+!TIGHT
+!Loosened by Tom 042409
+!S58 (TALOS: Phi -105.2 +/- 21.9  , TALOS: Psi 131.9 +/- 8.0  )
+assign (resid  57 and name C)    (resid  58 and name  N)
+       (resid  58 and name CA)   (resid  58 and name  C) 1.0  -105.2 65.7  2
+assign (resid  58 and name  N)   (resid  58 and name CA)
+       (resid  58 and name  C)   (resid  59 and name  N) 1.0  131.9 33.9  2
+
+!TIGHT
+!Loosened by Tom 042409
+!I59 (TALOS: Phi -124.2 +/- 29.0  , TALOS: Psi 132.3 +/- 17.2 )
+assign (resid  58 and name C)    (resid  59 and name  N)
+       (resid  59 and name CA)   (resid  59 and name  C) 1.0  -124.2 87.0  2
+assign (resid  59 and name  N)   (resid  59 and name CA)
+       (resid  59 and name  C)   (resid  60 and name  N) 1.0  132.3 51.6  2
+
+
+
+!STOP
+!A60 (TALOS: Phi -136.9 +/- 14.3  , TALOS: Psi 150.5 +/- 16.7 )
+assign (resid  59 and name C)    (resid  60 and name  N)
+       (resid  60 and name CA)   (resid  60 and name  C) 1.0  -136.9 42.9  2
+assign (resid  60 and name  N)   (resid  60 and name CA)
+       (resid  60 and name  C)   (resid  61 and name  N) 1.0  150.5 50.0  2
+
+!H62 (TALOS: Phi -97.0 +/- 13.0  , TALOS: Psi 136.0 +/- 7.0  )
+assign (resid  61 and name C)    (resid  62 and name  N)
+       (resid  62 and name CA)   (resid  62 and name  C) 1.0  -97.0 39.0  2
+assign (resid  62 and name  N)   (resid  62 and name CA)
+       (resid  62 and name  C)   (resid  63 and name  N) 1.0  136.0 31.0  2
+!T63 (TALOS: Phi -115.7 +/- 24.4  , TALOS: Psi 138.0 +/- 14.3 )
+assign (resid  62 and name C)    (resid  63 and name  N)
+       (resid  63 and name CA)   (resid  63 and name  C) 1.0  -115.7 24.4  2
+assign (resid  63 and name  N)   (resid  63 and name CA)
+       (resid  63 and name  C)   (resid  64 and name  N) 1.0  138.0 42.8  2
+!F64 (TALOS: Phi -120.0 +/- 20.0  , TALOS: Psi 157.0 +/- 22.0 )
+!Tom tight Psi 042609
+assign (resid  63 and name C)    (resid  64 and name  N)
+       (resid  64 and name CA)   (resid  64 and name  C) 1.0  -120.0 60.0  2
+assign (resid  64 and name  N)   (resid  64 and name CA)
+       (resid  64 and name  C)   (resid  65 and name  N) 1.0  157.0 33.0  2
+!I65 (TALOS: Phi -68.2 +/- 7.0   , TALOS: Psi -19.7 +/- 14.3 )
+assign (resid  64 and name C)    (resid  65 and name  N)
+       (resid  65 and name CA)   (resid  65 and name  C) 1.0  -68.2 21.0  2
+assign (resid  65 and name  N)   (resid  65 and name CA)
+       (resid  65 and name  C)   (resid  66 and name  N) 1.0  -19.7 43.0  2
+
+
+
+!!!!This region below was commented out for unbiased atnos recalculation to find the right conf of b2b3 loop
+!!!!Tom put them back in on 021508,hence the name, to see if F72 will have a neg phi
+
+!D66 (TALOS: Phi -101.0 +/- 14.0  , TALOS: Psi   4.0 +/- 15.0 )
+!!Narrowed on 032007 to -101 +/- 30
+assign (resid  65 and name C)    (resid  66 and name  N)
+       (resid  66 and name CA)   (resid  66 and name  C) 1.0  -101.0 30.0  2
+!Narrowed on 032007 to 4 +/- 30
+assign (resid  66 and name  N)   (resid  66 and name CA)
+       (resid  66 and name  C)   (resid  67 and name  N) 1.0    4.0 30.0  2
+
+!!!R67 (HNHA J= 7.3 Phi=-90 +/-90 100405)
+!!Narrowed range to 140 +/- 30  on 032007
+assign (resid  66 and name C)    (resid  67 and name  N)
+       (resid  67 and name CA)   (resid  67 and name  C) 1.0  -140.0 30.0  2
+assign (resid  67 and name  N)   (resid  67 and name CA)
+       (resid  67 and name  C)   (resid  68 and name  N) 1.0   130.0 30.0  2
+
+
+!!Resulted Psi on 032607 was different from Xray and apoSrtA 
+!!However, i couldn't restrict Psi because the NOE pattern of N-HA68 = N-HA69
+!!!N69 (HNHA J= 8.2 Phi=-90 +/-90 100405)
+!assign (resid  68 and name C)    (resid  69 and name  N)
+!       (resid  69 and name CA)   (resid  69 and name  C) 1.0  -120.0 40.0  2
+!!!N69 (HNHA J= 8.2 Phi=-90 +/-90 100405)
+assign (resid  68 and name C)    (resid  69 and name  N)
+       (resid  69 and name CA)   (resid  69 and name  C) 1.0  -90.0 40.0  2
+!Restricted psi to 0+/-30 tom 052708
+assign (resid 69 and name  N)   (resid 69 and name CA)
+       (resid 69 and name  C)   (resid 70 and name  N) 1.0  0.0 30.0  2
+       
+!Y70 (TALOS: Phi -102.4 +/- 25.2  , TALOS: Psi 128.6 +/- 19.2 )
+!Restricted more based on NNOE pattern 030309
+assign (resid  69 and name C)    (resid  70 and name  N)
+       (resid  70 and name CA)   (resid  70 and name  C) 1.0  -80.0 30.0  2
+assign (resid  70 and name  N)   (resid  70 and name CA)
+       (resid  70 and name  C)   (resid  71 and name  N) 1.0  -180.0 30.0  2
+
+
+!Violated on 021607
+!!!Q71 (HNHA J= 5.3 Phi=-90 +/-90 100405)
+!assign (resid  70 and name C)    (resid  71 and name  N)
+!       (resid  71 and name CA)   (resid  71 and name  C) 1.0  -90.0 90.0  2
+!!!Q71 (HNHA J= 5.3 Phi=-55 +/-35 030107)
+assign (resid  70 and name C)    (resid  71 and name  N)
+       (resid  71 and name CA)   (resid  71 and name  C) 1.0  -55.0 35.0  2
+!ADDED on 032007 to neg Psi
+!Based on the NOE pattern showing overlaped peaks, I couldn't restrict to neg
+assign (resid  71 and name  N)   (resid  71 and name CA)
+       (resid  71 and name  C)   (resid  72 and name  N) 1.0  -60 30  2
+
+
+!!Resulted Psi on 032607 was different from Xray and apoSrtA
+!!However, i couldn't restrict Psi because the NOE pattern of N-HA71 = N-HA72
+!!!F72
+!ADDED on 032007 to neg Phi
+assign (resid  71 and name C)    (resid  72 and name  N)
+       (resid  72 and name CA)   (resid  72 and name  C) 1.0  -90.0 45.0  2
+
+
+!T73 (TALOS: Phi -66.1 +/- 13.6  , TALOS: Psi -30.4 +/- 12.2 )
+assign (resid  72 and name C)    (resid  73 and name  N)
+       (resid  73 and name CA)   (resid  73 and name  C) 1.0  -66.1 40.7  2
+assign (resid  73 and name  N)   (resid  73 and name CA)
+       (resid  73 and name  C)   (resid  74 and name  N) 1.0  -30.4 36.5  2
+
+!!!N74 (HNHA J= 6.8 Phi=-90 +/-90 100405)
+!Tight Phi TOM (xtal and NOE 73HG<=>68HA<=>67) 042509
+assign (resid  73 and name C)    (resid  74 and name  N)
+       (resid  74 and name CA)   (resid  74 and name  C) 1.0  -90.0 30.0  2
+
+
+!!!The region ends here 041707 Tom
+
+
+
+
+!L75 (TALOS: Phi -61.0 +/- 4.0   , TALOS: Psi -33.0 +/- 7.0  )
+assign (resid  74 and name C)    (resid  75 and name  N)
+       (resid  75 and name CA)   (resid  75 and name  C) 1.0  -61.0 30.0  2
+assign (resid  75 and name  N)   (resid  75 and name CA)
+       (resid  75 and name  C)   (resid  76 and name  N) 1.0  -33.0 31.0  2
+!K76 (TALOS: Phi -86.0 +/- 17.0  , TALOS: Psi  -5.0 +/- 20.0 )
+assign (resid  75 and name C)    (resid  76 and name  N)
+       (resid  76 and name CA)   (resid  76 and name  C) 1.0  -86.0 51.0  2
+assign (resid  76 and name  N)   (resid  76 and name CA)
+       (resid  76 and name  C)   (resid  77 and name  N) 1.0   -5.0 60.0  2
+!A77 (TALOS: Phi -91.0 +/- 16.0  , TALOS: Psi -20.0 +/- 17.0 )
+!Tight Psi TOM (xtal and NOE 73HG<=>68HA<=>67) 042509
+assign (resid  76 and name C)    (resid  77 and name  N)
+       (resid  77 and name CA)   (resid  77 and name  C) 1.0  -91.0 48.0  2
+assign (resid  77 and name  N)   (resid  77 and name CA)
+       (resid  77 and name  C)   (resid  78 and name  N) 1.0  -20.0 20.0  2
+
+!!!A78 (HNHA J= 6.6 Phi=-90 +/-90 100405)
+!Tight Psi TOM (xtal and NOE 73HG<=>68HA<=>67) 042509
+assign (resid  77 and name C)    (resid  78 and name  N)
+       (resid  78 and name CA)   (resid  78 and name  C) 1.0  -90.0 30.0  2
+
+!K79 (TALOS: Phi -107.9 +/- 19.1  , TALOS: Psi 160.4 +/- 11.9 )
+assign (resid  78 and name C)    (resid  79 and name  N)
+       (resid  79 and name CA)   (resid  79 and name  C) 1.0  -107.9 57.4  2
+assign (resid  79 and name  N)   (resid  79 and name CA)
+       (resid  79 and name  C)   (resid  80 and name  N) 1.0  160.4 35.7  2
+
+!!!K80 (HNHA J= 2.5 Phi=-60 +/-30 100405)
+assign (resid  79 and name C)    (resid  80 and name  N)
+       (resid  80 and name CA)   (resid  80 and name  C) 1.0  -60.0 30.0  2
+
+!G81 (TALOS: Phi  95.1 +/- 5.3   , TALOS: Psi -13.9 +/- 7.5  )
+!Restricted more based on NNOE pattern 030309
+assign (resid  80 and name C)    (resid  81 and name  N)
+       (resid  81 and name CA)   (resid  81 and name  C) 1.0   40.0 30.0  2
+assign (resid  81 and name  N)   (resid  81 and name CA)
+       (resid  81 and name  C)   (resid  82 and name  N) 1.0  40.0 30.0  2
+!S82 (TALOS: Phi -71.0 +/- 11.0  , TALOS: Psi 138.0 +/- 9.0  )
+assign (resid  81 and name C)    (resid  82 and name  N)
+       (resid  82 and name CA)   (resid  82 and name  C) 1.0  -71.0 33.0  2
+assign (resid  82 and name  N)   (resid  82 and name CA)
+       (resid  82 and name  C)   (resid  83 and name  N) 1.0  138.0 37.0  2
+!V84 (TALOS: Phi -127.0 +/- 28.0  , TALOS: Psi 143.0 +/- 13.0 )
+assign (resid  83 and name C)    (resid  84 and name  N)
+       (resid  84 and name CA)   (resid  84 and name  C) 1.0  -127.0 84.0  2
+assign (resid  84 and name  N)   (resid  84 and name CA)
+       (resid  84 and name  C)   (resid  85 and name  N) 1.0  143.0 39.0  2
+!Y85 (TALOS: Phi -110.8 +/- 13.8  , TALOS: Psi 130.4 +/- 10.5 )
+assign (resid  84 and name C)    (resid  85 and name  N)
+       (resid  85 and name CA)   (resid  85 and name  C) 1.0  -110.8 41.5  2
+assign (resid  85 and name  N)   (resid  85 and name CA)
+       (resid  85 and name  C)   (resid  86 and name  N) 1.0  130.4 31.4  2
+!F86 (TALOS: Phi -122.9 +/- 6.9   , TALOS: Psi 131.5 +/- 7.6  )
+assign (resid  85 and name C)    (resid  86 and name  N)
+       (resid  86 and name CA)   (resid  86 and name  C) 1.0  -122.9 30.6  2
+assign (resid  86 and name  N)   (resid  86 and name CA)
+       (resid  86 and name  C)   (resid  87 and name  N) 1.0  131.5 32.8  2
+!K87 (TALOS: Phi -111.1 +/- 14.1  , TALOS: Psi 131.7 +/- 8.6  )
+assign (resid  86 and name C)    (resid  87 and name  N)
+       (resid  87 and name CA)   (resid  87 and name  C) 1.0  -111.1 42.4  2
+assign (resid  87 and name  N)   (resid  87 and name CA)
+       (resid  87 and name  C)   (resid  88 and name  N) 1.0  131.7 35.7  2
+!V88 (TALOS: Phi -123.1 +/- 11.5  , TALOS: Psi 117.8 +/- 12.2 )
+assign (resid  87 and name C)    (resid  88 and name  N)
+       (resid  88 and name CA)   (resid  88 and name  C) 1.0  -123.1 34.5  2
+assign (resid  88 and name  N)   (resid  88 and name CA)
+       (resid  88 and name  C)   (resid  89 and name  N) 1.0  117.8 46.6  2
+
+!REMOVED RTC
+!G89 (Restricted based on NNOE pattern 030309)
+!assign (resid  88 and name C)    (resid  89 and name  N)
+!       (resid  89 and name CA)   (resid  89 and name  C) 1.0  60.0 30.0  2
+!assign (resid  89 and name  N)   (resid  89 and name CA)
+!       (resid  89 and name  C)   (resid  90 and name  N) 1.0  40.0 30.0  2
+
+!N90 (TALOS: Phi -102.0 +/- 9.0   , TALOS: Psi  -6.0 +/- 17.0 )
+assign (resid  89 and name C)    (resid  90 and name  N)
+       (resid  90 and name CA)   (resid  90 and name  C) 1.0  -102.0 37.0  2
+assign (resid  90 and name  N)   (resid  90 and name CA)
+       (resid  90 and name  C)   (resid  91 and name  N) 1.0   -6.0 51.0  2
+!E91 (TALOS: Phi -104.8 +/- 24.7  , TALOS: Psi 136.3 +/- 14.3 )
+assign (resid  90 and name C)    (resid  91 and name  N)
+       (resid  91 and name CA)   (resid  91 and name  C) 1.0  -104.8 74.0  2
+assign (resid  91 and name  N)   (resid  91 and name CA)
+       (resid  91 and name  C)   (resid  92 and name  N) 1.0  136.3 43.0  2
+!T92 (TALOS: Phi -95.4 +/- 18.7  , TALOS: Psi 128.6 +/- 6.1  )
+assign (resid  91 and name C)    (resid  92 and name  N)
+       (resid  92 and name CA)   (resid  92 and name  C) 1.0  -95.4 56.2  2
+assign (resid  92 and name  N)   (resid  92 and name CA)
+       (resid  92 and name  C)   (resid  93 and name  N) 1.0  128.6 30.0  2
+
+!!!R93 (HNHA J= 8.2 Phi=-90 +/-90 100405)
+assign (resid  92 and name C)    (resid  93 and name  N)
+       (resid  93 and name CA)   (resid  93 and name  C) 1.0  -90.0 90.0  2
+
+!K94 (TALOS: Phi -103.8 +/- 19.3  , TALOS: Psi 138.8 +/- 17.6 )
+assign (resid  93 and name C)    (resid  94 and name  N)
+       (resid  94 and name CA)   (resid  94 and name  C) 1.0  -103.8 57.9  2
+assign (resid  94 and name  N)   (resid  94 and name CA)
+       (resid  94 and name  C)   (resid  95 and name  N) 1.0  138.8 52.8  2
+!Y95 (TALOS: Phi -132.3 +/- 8.9   , TALOS: Psi 153.9 +/- 11.8 )
+assign (resid  94 and name C)    (resid  95 and name  N)
+       (resid  95 and name CA)   (resid  95 and name  C) 1.0  -132.3 26.7  2
+assign (resid  95 and name  N)   (resid  95 and name CA)
+       (resid  95 and name  C)   (resid  96 and name  N) 1.0  153.9 35.5  2
+!K96 (TALOS: Phi -119.3 +/- 16.2  , TALOS: Psi 144.1 +/- 12.2 )
+assign (resid  95 and name C)    (resid  96 and name  N)
+       (resid  96 and name CA)   (resid  96 and name  C) 1.0  -119.3 48.7  2
+assign (resid  96 and name  N)   (resid  96 and name CA)
+       (resid  96 and name  C)   (resid  97 and name  N) 1.0  144.1 36.5  2
+
+!M97 (TALOS: Phi -68.8 +/- 10.9  , TALOS: Psi 130.3 +/- 11.0 )
+assign (resid  96 and name C)    (resid  97 and name  N)
+       (resid  97 and name CA)   (resid  97 and name  C) 1.0  -68.8 32.8  2
+assign (resid  97 and name  N)   (resid  97 and name CA)
+       (resid  97 and name  C)   (resid  98 and name  N) 1.0  130.3 33.0  2
+
+!@!!!!T98 (HNHA J= 10.4 Phi=-120 +/-40 100405)
+assign (resid  97 and name C)    (resid  98 and name  N)
+       (resid  98 and name CA)   (resid  98 and name  C) 1.0  -110.0 30.0  2
+assign (resid  98 and name  N)   (resid  98 and name CA)
+       (resid  98 and name  C)   (resid  99 and name  N) 1.0  -30.0 30.0  2
+
+!START CHECK ROB
+!S99 (TALOS: Phi -118.0 +/- 34.0  , TALOS: Psi 132.0 +/- 11.0 )
+assign (resid  98 and name C)    (resid  99 and name  N)
+       (resid  99 and name CA)   (resid  99 and name  C) 1.0  -118.0 102.0  2
+assign (resid  99 and name  N)   (resid  99 and name CA)
+       (resid  99 and name  C)   (resid 100 and name  N) 1.0  132.0 33.0  2
+
+!I100 (TALOS: Phi -119.0 +/- 16.0  , TALOS: Psi 133.0 +/- 8.0  )
+assign (resid  99 and name C)    (resid 100 and name  N)
+       (resid 100 and name CA)   (resid 100 and name  C) 1.0  -119.0 48.0  2
+assign (resid 100 and name  N)   (resid 100 and name CA)
+       (resid 100 and name  C)   (resid 101 and name  N) 1.0  133.0 44.0  2
+
+!R101 (TALOS: Phi -126.0 +/- 16.0  , TALOS: Psi 144.0 +/- 20.0 )
+assign (resid 100 and name C)    (resid 101 and name  N)
+       (resid 101 and name CA)   (resid 101 and name  C) 1.0  -126.0 48.0  2
+assign (resid 101 and name  N)   (resid 101 and name CA)
+       (resid 101 and name  C)   (resid 102 and name  N) 1.0  144.0 60.0  2
+
+!D102 (TALOS: Phi -111.0 +/- 15.0  , TALOS: Psi 136.0 +/- 14.0 )
+assign (resid 101 and name C)    (resid 102 and name  N)
+       (resid 102 and name CA)   (resid 102 and name  C) 1.0  -150.0 30.0  2
+assign (resid 102 and name  N)   (resid 102 and name CA)
+       (resid 102 and name  C)   (resid 103 and name  N) 1.0  136.0 42.0  2
+
+!V103 (TALOS: Phi -138.0 +/- 13.0  , TALOS: Psi 160.0 +/- 12.0 )
+assign (resid 102 and name C)    (resid 103 and name  N)
+       (resid 103 and name CA)   (resid 103 and name  C) 1.0  -138.0 39.0  2
+assign (resid 103 and name  N)   (resid 103 and name CA)
+       (resid 103 and name  C)   (resid 104 and name  N) 1.0  160.0 36.0  2
+
+!K104 (TALOS: Phi -106.0 +/- 31.0  , TALOS: Psi 157.0 +/- 10.0 )
+assign (resid 103 and name C)    (resid 104 and name  N)
+       (resid 104 and name CA)   (resid 104 and name  C) 1.0  -106.0 93.0  2
+assign (resid 104 and name  N)   (resid 104 and name CA)
+       (resid 104 and name  C)   (resid 105 and name  N) 1.0  157.0 30.0  2
+
+!T106 (TALOS: Phi -95.0 +/- 29.0  , TALOS: Psi 131.0 +/- 12.0 )
+!Expanding psi due to violation on 031208
+assign (resid 105 and name C)    (resid 106 and name  N)
+       (resid 106 and name CA)   (resid 106 and name  C) 1.0  -95.0 87.0  2
+!assign (resid 106 and name  N)   (resid 106 and name CA)
+!       (resid 106 and name  C)   (resid 107 and name  N) 1.0  131.0 56.0  2
+
+!@!!!!D107 (HNHA J= 5.8 Phi=-90 +/-90 100405)
+!narrowed down from -90 90 on031208 to tighten the bundle
+assign (resid  106 and name C)    (resid  107 and name  N)
+       (resid  107 and name CA)   (resid  107 and name  C) 1.0  -90.0 30.0  2
+
+!Used on 2/14 (below)
+!@!!V108 (TALOS: Phi -78.0 +/- 18.0  , TALOS: Psi -13.0 +/- 28.0 )
+assign (resid 107 and name C)    (resid 108 and name  N)
+       (resid 108 and name CA)   (resid 108 and name  C) 1.0  -78.0 54.0  2
+assign (resid 108 and name  N)   (resid 108 and name CA)
+       (resid 108 and name  C)   (resid 109 and name  N) 1.0  -13.0 84.0  2
+!Used on 2/14 (below)
+!@!!V110 (TALOS: Phi -75.0 +/- 18.0  , TALOS: Psi -31.0 +/- 10.0 )
+assign (resid 109 and name C)    (resid 110 and name  N)
+       (resid 110 and name CA)   (resid 110 and name  C) 1.0  -75.0 54.0  2
+assign (resid 110 and name  N)   (resid 110 and name CA)
+       (resid 110 and name  C)   (resid 111 and name  N) 1.0  -31.0 30.0  2
+
+!Used on 2/14 (below)
+!@!!L111 (TALOS: Phi -82.0 +/- 14.0  , TALOS: Psi -12.0 +/- 24.0 )
+!Restricted Psi on 031507 based on the NNOE pattern (from +/- 72 to +/- 30)
+assign (resid 110 and name C)    (resid 111 and name  N)
+       (resid 111 and name CA)   (resid 111 and name  C) 1.0  -82.0 42.0  2
+assign (resid 111 and name  N)   (resid 111 and name CA)
+       (resid 111 and name  C)   (resid 112 AND NAME  n) 1.0  -12.0 30.0  2
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!! Look at this
+!!!!!!!!!!!!!!!
+!!!@
+!@!!D112 
+!Restricted to POSTIVE phi Artificial
+!Restricted narrower on 031507 (from +/- 80 to +/- 30)
+assign (resid 111 and name C)    (resid 112 and name  N)
+       (resid 112 and name CA)   (resid 112 and name  C) 1.0  90.0 70.0  2
+
+!Restricted to POSITIVE psi Artificial TOM 050508 based on the zero-violation structures
+!So far TOM added only D112,E113 and K115 artificial angles
+assign (resid 112 and name  N)   (resid 112 and name CA)
+       (resid 112 and name  C)   (resid 113 and name  N) 1.0  60 30.0  2
+
+
+!E113  Noes to positive psi 
+!assign (resid 113 and name  N)   (resid 113 and name CA)
+!       (resid 113 and name  C)   (resid 114 and name  N) 1.0  120 70.0  2 
+!TOM restricted from 120+-70 to 60+/-30 based on the zero-violation structures 050508
+assign (resid 113 and name  N)   (resid 113 and name CA)
+       (resid 113 and name  C)   (resid 114 and name  N) 1.0  60 30.0  2
+!E113 (restricted to negative phi) Artificial
+assign (resid 112 and name C)    (resid 113 and name  N)
+       (resid 113 and name CA)   (resid 113 and name  C) 1.0  -90.0 70.0  2
+
+!Q114 Noes to postive psi 
+!assign (resid 114 and name  N)   (resid 114 and name CA)
+!       (resid 114 and name  C)   (resid 115 and name  N) 1.0  120 70.0  2 
+!TOM THEN NARROWED FURTHER 050808
+!RTassign (resid 114 and name  N)   (resid 114 and name CA)
+!RT       (resid 114 and name  C)   (resid 115 and name  N) 1.0  60 40.0  2 
+!RT!Q114 (restricted to negative phi) Artificial
+!RTassign (resid 113 and name C)    (resid 114 and name  N)
+!RT       (resid 114 and name CA)   (resid 114 and name  C) 1.0  -90.0 70.0  2
+       
+!K115 restricted phi to negative
+!assign (resid 114 and name C)    (resid 115 and name  N)
+!       (resid 115 and name CA)   (resid 115 and name  C) 1.0  -90.0 70.0  2
+
+!Tom commented out above restraint and created below 050508
+!psi is artificial and selected based on the 0 violation structures
+!phi was obtained from TALOS_050308 data
+!RTassign (resid 115 and name  N)   (resid 115 and name CA)
+!RT       (resid 115 and name  C)   (resid 116 and name  N) 1.0  -60 30.0  2 
+!RTassign (resid 114 and name C)    (resid 115 and name  N)
+!RT       (resid 115 and name CA)   (resid 115 and name  C) 1.0  -73.0 30.0  2
+!Tom put this back in 042609 because phi was obtained from TALOS_050308 data
+assign (resid 114 and name C)    (resid 115 and name  N)
+       (resid 115 and name CA)   (resid 115 and name  C) 1.0  -73.0 30.0  2
+
+!REMOVED RTC
+!G116 (Restricted based on NNOE pattern 030309)
+!assign (resid 115 and name C)    (resid 116 and name  N)
+!       (resid 116 and name CA)   (resid 116 and name  C) 1.0  40.0 30.0  2
+!assign (resid 116 and name  N)   (resid 116 and name CA)
+!       (resid 116 and name  C)   (resid 117 and name  N) 1.0  40 30.0  2 
+
+!@!!K117  Artificial
+!Restricted to negative phi
+assign (resid 116 and name C)    (resid 117 and name  N)
+       (resid 117 and name CA)   (resid 117 and name  C) 1.0  -40.0 40.0  2
+!Restricted Psi to -60 +/- 30 according to the NNOE pattern
+assign (resid 117 and name  N)   (resid 117 and name CA)
+       (resid 117 and name  C)   (resid 118 and name  N) 1.0  -60 30.0  2
+
+!@!!D118 
+!Restricted to negative phi
+!assign (resid 117 and name C)    (resid 118 and name  N)
+!       (resid 118 and name CA)   (resid 118 and name  C) 1.0  -90.0 80.0  2
+!!USE APO-SRTA data to restrict more after the confirmed population majority
+!assign (resid 117 and name C)    (resid 118 and name  N)
+!       (resid 118 and name CA)   (resid 118 and name  C) 1.0  -73.7 43.3  2
+!assign (resid 118 and name  N)   (resid 118 and name CA)
+!       (resid 118 and name  C)   (resid 119 and name  N) 1.0  137.9 30.0  2
+!PHI from TALOS_050308 TOM 050508
+assign (resid 117 and name C)    (resid 118 and name  N)
+       (resid 118 and name CA)   (resid 118 and name  C) 1.0  -72.3 30.0  2
+
+!@!!K119  Artificial
+assign (resid 118 and name C)    (resid 119 and name  N)
+       (resid 119 and name CA)   (resid 119 and name  C) 1.0  -60.0 40.0  2
+assign (resid 119 and name  N)   (resid 119 and name CA)
+       (resid 119 and name  C)   (resid 120 and name  N) 1.0  170 40.0  2
+
+!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!
+
+
+!Q120 (TALOS: Phi -129.4 +/- 16.0  , TALOS: Psi 153.2 +/- 12.3 )
+assign (resid 119 and name C)    (resid 120 and name  N)
+       (resid 120 and name CA)   (resid 120 and name  C) 1.0  -129.4 47.9  2
+assign (resid 120 and name  N)   (resid 120 and name CA)
+       (resid 120 and name  C)   (resid 121 and name  N) 1.0  153.2 37.0  2
+!L121 (TALOS: Phi -131.7 +/- 19.9  , TALOS: Psi 131.9 +/- 17.6 )
+assign (resid 120 and name C)    (resid 121 and name  N)
+       (resid 121 and name CA)   (resid 121 and name  C) 1.0  -131.7 59.7  2
+assign (resid 121 and name  N)   (resid 121 and name CA)
+       (resid 121 and name  C)   (resid 122 and name  N) 1.0  131.9 52.8  2
+!T122 (TALOS: Phi -108.9 +/- 12.4  , TALOS: Psi 122.6 +/- 8.6  )
+assign (resid 121 and name C)    (resid 122 and name  N)
+       (resid 122 and name CA)   (resid 122 and name  C) 1.0  -108.9 37.2  2
+assign (resid 122 and name  N)   (resid 122 and name CA)
+       (resid 122 and name  C)   (resid 123 and name  N) 1.0  122.6 35.7  2
+!L123 (TALOS: Phi -105.8 +/- 11.1  , TALOS: Psi 135.1 +/- 10.4 )
+assign (resid 122 and name C)    (resid 123 and name  N)
+       (resid 123 and name CA)   (resid 123 and name  C) 1.0  -105.8 33.4  2
+assign (resid 123 and name  N)   (resid 123 and name CA)
+       (resid 123 and name  C)   (resid 124 and name  N) 1.0  135.1 31.2  2
+!I124 (TALOS: Phi -115.7 +/- 22.4  , TALOS: Psi 139.1 +/- 16.8 )
+assign (resid 123 and name C)    (resid 124 and name  N)
+       (resid 124 and name CA)   (resid 124 and name  C) 1.0  -115.7 67.3  2
+assign (resid 124 and name  N)   (resid 124 and name CA)
+       (resid 124 and name  C)   (resid 125 and name  N) 1.0  139.1 50.5  2
+!T125 (TALOS: Phi -119.1 +/- 12.8  , TALOS: Psi 144.4 +/- 18.4 )
+assign (resid 124 and name C)    (resid 125 and name  N)
+       (resid 125 and name CA)   (resid 125 and name  C) 1.0  -119.1 38.3  2
+assign (resid 125 and name  N)   (resid 125 and name CA)
+       (resid 125 and name  C)   (resid 126 and name  N) 1.0  144.4 55.1  2
+!C126 (TALOS: Phi -133.0 +/- 12.0  , TALOS: Psi 149.0 +/- 13.0 )
+!Restricted Phi -120 +/- 40 as same as apoSrtA 030107
+!assign (resid 125 and name C)    (resid 126 and name  N)
+!       (resid 126 and name CA)   (resid 126 and name  C) 1.0  -133.0 36.0  2
+assign (resid 125 and name C)    (resid 126 and name  N)
+       (resid 126 and name CA)   (resid 126 and name  C) 1.0  -120.0 40.0  2
+assign (resid 126 and name  N)   (resid 126 and name CA)
+       (resid 126 and name  C)   (resid 127 and name  N) 1.0  149.0 30.0  2
+
+!No data for 127 and 128 
+!D127 (Restricted based on NNOE pattern 030309)
+assign (resid 126 and name C)    (resid 127 and name  N)
+       (resid 127 and name CA)   (resid 127 and name  C) 1.0  -170.0 30.0  2
+assign (resid 127 and name  N)   (resid 127 and name CA)
+       (resid 127 and name  C)   (resid 128 and name  N) 1.0  -180.0 30.0  2
+
+!D128  (HNHA 6) Added by RTC Postive Phi
+assign (resid 127 and name C)    (resid 128 and name  N)
+       (resid 128 and name CA)   (resid 128 and name  C) 1.0  60.0 30.0  2
+
+!Y129 (TALOS: Phi -84.2 +/- 11.9  , TALOS: Psi 126.5 +/- 12.1 ) (HNHA 4.5)
+assign (resid 128 and name C)    (resid 129 and name  N)
+       (resid 129 and name CA)   (resid 129 and name  C) 1.0  -60.0 30.0  2
+assign (resid 129 and name  N)   (resid 129 and name CA)
+       (resid 129 and name  C)   (resid 130 and name  N) 1.0  126.5 36.4  2
+
+
+!N130 (TALOS: Phi -100.5 +/- 21.3  , TALOS: Psi 122.0 +/- 17.9 ) HNHA 8.6
+assign (resid 129 and name C)    (resid 130 and name  N)
+       (resid 130 and name CA)   (resid 130 and name  C) 1.0  -100.5 63.9  2
+assign (resid 130 and name  N)   (resid 130 and name CA)
+       (resid 130 and name  C)   (resid 131 and name  N) 1.0  122.0 53.8  2
+
+!K132 (TALOS: Phi -64.2 +/- 7.6   , TALOS: Psi -35.6 +/- 13.5 )
+assign (resid 131 and name C)    (resid 132 and name  N)
+       (resid 132 and name CA)   (resid 132 and name  C) 1.0  -64.2 30.0  2
+assign (resid 132 and name  N)   (resid 132 and name CA)
+       (resid 132 and name  C)   (resid 133 and name  N) 1.0  -35.6 50.5  2
+
+!T133 (TALOS: Phi -93.9 +/- 16.9  , TALOS: Psi  -4.0 +/- 15.9 ) HNHA 8.8
+!Tighten Phi from +/- 50.6 to +/- 30
+assign (resid 132 and name C)    (resid 133 and name  N)
+       (resid 133 and name CA)   (resid 133 and name  C) 1.0  -93.9 30  2
+assign (resid 133 and name  N)   (resid 133 and name CA)
+       (resid 133 and name  C)   (resid 134 and name  N) 1.0   -4.0 47.8  2
+
+!G134 (TALOS: Phi  82.2 +/- 12.3  , TALOS: Psi   9.8 +/- 18.4 )
+assign (resid 133 and name C)    (resid 134 and name  N)
+       (resid 134 and name CA)   (resid 134 and name  C) 1.0   82.2 36.8  2
+assign (resid 134 and name  N)   (resid 134 and name CA)
+       (resid 134 and name  C)   (resid 135 and name  N) 1.0    9.8 55.0  2
+
+!V135 (TALOS: Phi -113.1 +/- 31.8  , TALOS: Psi 144.8 +/- 19.3 ) HNHA 8.6
+assign (resid 134 and name C)    (resid 135 and name  N)
+       (resid 135 and name CA)   (resid 135 and name  C) 1.0  -120.0 50.0  2
+assign (resid 135 and name  N)   (resid 135 and name CA)
+       (resid 135 and name  C)   (resid 136 and name  N) 1.0  144.8 57.8  2
+
+
+
+
+!!!W136 (HNHA J= 7.6 Phi=-90 +/-90 100405)
+assign (resid 135 and name C)    (resid 136 and name  N)
+       (resid 136 and name CA)   (resid 136 and name  C) 1.0  -90.0 30.0  2
+assign (resid 136 and name  N)   (resid 136 and name CA)
+       (resid 136 and name  C)   (resid 137 and name  N) 1.0  70 50  2
+
+!!E137 HNHA 6.0 added according to apoSrtA (HNHA 5.4)
+assign (resid 136 and name C)    (resid 137 and name  N)
+       (resid 137 and name CA)   (resid 137 and name  C) 1.0  -60.0 30.0  2
+!!Added on 030507 according to the NNOE pattern 90 +/- 60
+!!Restricted more on 031507 to 90 +/- 40 
+assign (resid 137 and name  N)   (resid 137 and name CA)
+       (resid 137 and name  C)   (resid 138 and name  N) 1.0  -30 30  2       
+
+!R138 (TALOS: Phi -111.8 +/- 22.7  , TALOS: Psi 144.9 +/- 13.2 )
+!Restricted to narrower range  from +/- 68.1 to +/- 30.0
+!restricted Phi to -60 +/- 30
+assign (resid 137 and name C)    (resid 138 and name  N)
+       (resid 138 and name CA)   (resid 138 and name  C) 1.0  -90 40.0  2
+assign (resid 138 and name  N)   (resid 138 and name CA)
+       (resid 138 and name  C)   (resid 139 and name  N) 1.0  120 40  2
+!K139 (TALOS: Phi -108.5 +/- 13.6  , TALOS: Psi 118.5 +/- 10.7 )
+!restricted on 031907 to 160 +/- 30
+assign (resid 138 and name C)    (resid 139 and name  N)
+       (resid 139 and name CA)   (resid 139 and name  C) 1.0  -160 40  2
+assign (resid 139 and name  N)   (resid 139 and name CA)
+       (resid 139 and name  C)   (resid 140 and name  N) 1.0  170 40  2
+
+!K140 (TALOS: Phi -128.3 +/- 17.6  , TALOS: Psi 138.9 +/- 15.6 ) NO HNHA
+assign (resid 139 and name C)    (resid 140 and name  N)
+       (resid 140 and name CA)   (resid 140 and name  C) 1.0  -110 30  2
+assign (resid 140 and name  N)   (resid 140 and name CA)
+       (resid 140 and name  C)   (resid 141 and name  N) 1.0  90 30  2
+
+!I141 (TALOS: Phi -129.7 +/- 18.1  , TALOS: Psi 136.4 +/- 13.1 ) NO HNHA
+assign (resid 140 and name C)    (resid 141 and name  N)
+       (resid 141 and name CA)   (resid 141 and name  C) 1.0  -150 30  2
+assign (resid 141 and name  N)   (resid 141 and name CA)
+       (resid 141 and name  C)   (resid 142 and name  N) 1.0  150 30  2
+
+!V142 (TALOS: Phi -123.7 +/- 11.3  , TALOS: Psi 148.8 +/- 17.3 )
+assign (resid 141 and name C)    (resid 142 and name  N)
+       (resid 142 and name CA)   (resid 142 and name  C) 1.0  -123.7 33.8  2
+assign (resid 142 and name  N)   (resid 142 and name CA)
+       (resid 142 and name  C)   (resid 143 and name  N) 1.0  148.8 52.0  2
+!A143 (TALOS: Phi -148.0 +/- 13.0  , TALOS: Psi 144.0 +/- 13.0 )
+assign (resid 142 and name C)    (resid 143 and name  N)
+       (resid 143 and name CA)   (resid 143 and name  C) 1.0  -148.0 49.0  2
+assign (resid 143 and name  N)   (resid 143 and name CA)
+       (resid 143 and name  C)   (resid 144 and name  N) 1.0  144.0 39.0  2
+
+!!!A144 (HNHA J= 8.8 Phi=-90 +/-90 100405)
+assign (resid 143 and name C)    (resid 144 and name  N)
+       (resid 144 and name CA)   (resid 144 and name  C) 1.0  -90.0 90.0  2
+
+!E145 (TALOS: Phi -127.0 +/- 19.0  , TALOS: Psi 147.0 +/- 16.0 )
+assign (resid 144 and name C)    (resid 145 and name  N)
+       (resid 145 and name CA)   (resid 145 and name  C) 1.0  -127.0 57.0  2
+assign (resid 145 and name  N)   (resid 145 and name CA)
+       (resid 145 and name  C)   (resid 146 and name  N) 1.0  147.0 48.0  2
+!V146 (TALOS: Phi -87.4 +/- 12.6  , TALOS: Psi 119.6 +/- 25.3 )
+assign (resid 145 and name C)    (resid 146 and name  N)
+       (resid 146 and name CA)   (resid 146 and name  C) 1.0  -87.4 37.8  2
+assign (resid 146 and name  N)   (resid 146 and name CA)
+       (resid 146 and name  C)   (resid 147 and name  N) 1.0  119.6 75.9  2
+
+!!!V147 (HNHA J= 9.0 Phi=-120 +/-40 100405)
+assign (resid 146 and name C)    (resid 147 and name  N)
+       (resid 147 and name CA)   (resid 147 and name  C) 1.0  -120.0 40.0  2
+
+!!!K148 (HNHA J= 7.6 Phi=-90 +/-90 100405)
+assign (resid 147 and name C)    (resid 148 and name  N)
+       (resid 148 and name CA)   (resid 148 and name  C) 1.0  -90.0 90.0  2
+       
+       
+!!!CHI ROTAMER 031207
+
+!T35
+assign (resid  35 and name N)    (resid  35 and name CA)
+       (resid  35 and name CB)   (resid  35 and name og1) 1.0 60.0  30.0 2
+
+!E37
+!assign (resid  37 and name N)    (resid  37 and name CA)
+!       (resid  37 and name CB)   (resid  37 and name CG) 1.0 60.0  30.0 2
+
+
+!!STARTED with Ala46
+!E47 !RTC
+assign (resid  47 and name N)    (resid  47 and name CA)
+       (resid  47 and name CB)   (resid  47 and name CG) 1.0 0.0  90.0 2
+
+!E48 OL
+
+!N49 OL
+
+!E50 RTC CORRECT Check again
+assign (resid  50 and name N)    (resid  50 and name CA)
+       (resid  50 and name CB)   (resid  50 and name CG) 1.0 120.0  90.0 2
+
+!D53
+assign (resid  53 and name N)    (resid  53 and name CA)
+       (resid  53 and name CB)   (resid  53 and name CG) 1.0 -60.0  30.0 2
+
+!D54 Can't tell OL
+!assign (resid  54 and name N)    (resid  54 and name CA)
+!       (resid  54 and name CB)   (resid  54 and name CG) 1.0 60.0  30.0 2
+
+!N56 OL
+
+
+!I57
+assign (resid  57 and name  N)   (resid   57 and name CA)
+       (resid  57 and name  CB)  (resid   57 and name CG1) 1.0 -60.0 30.0  2
+
+!S58
+assign (resid  58 and name N)    (resid  58 and name CA)
+       (resid  58 and name CB)   (resid  58 and name og) 1.0 0.0  90.0 2
+
+!I59
+assign (resid  59 and name  N)   (resid   59 and name CA)
+       (resid  59 and name  CB)  (resid   59 and name CG1) 1.0 -60.0 30.0  2
+!!!END RTC
+
+!H62 (TODO: current -60 or +6i0)  OK RTC
+assign (resid  62 and name N)    (resid  62 and name CA)
+       (resid  62 and name CB)   (resid  62 and name CG) 1.0 0.0  90.0 2
+
+!T63
+assign (resid  63 and name N)    (resid  63 and name CA)
+       (resid  63 and name CB)   (resid  63 and name og1) 1.0 180.0  30.0 2
+
+
+!F72 (Added on Feb 21, 2008 because it originally had two populations: up and down. The NOE data confirmed that it's up)
+!assign (resid  72 and name  N)   (resid   72 and name CA)
+!       (resid  72 and name  CB)  (resid   72 and name CG) 1.0  60.0 30.0  2
+
+
+!R101
+!assign (resid  101 and name N)    (resid  101 and name CA)
+!       (resid  101 and name CB)   (resid  101 and name CG) 1.0 60.0  30.0 2
+
+
+!D102       
+assign (resid  102 and name  N)   (resid   102 and name CA)
+       (resid  102 and name  CB)  (resid   102 and name CG) 1.0 -60.0 30.0  2
+
+!V103
+!assign (resid 103 and name n)  (resid 103 and name ca)
+!       (resid 103 and name cb) (resid 103 and name cg1) 1.0  -60.0 30.0 2
+
+!K104
+assign (resid  104 and name N)    (resid  104 and name CA)
+       (resid  104 and name CB)   (resid  104 and name CG) 1.0 60.0  60.0 2
+
+!B6B7 loop is not perfectly compatible with intermol data, so tom took these out temporarily 050708
+!T106
+!assign (resid  106 and name N)    (resid  106 and name CA)
+!       (resid  106 and name CB)   (resid  106 and name og1) 1.0 180.0  30.0 2
+
+!B6B7 loop is not perfectly compatible with intermol data, so tom took these out temporarily 050708
+!D107
+!assign (resid  107 and name N)    (resid  107 and name CA)
+!       (resid  107 and name CB)   (resid  107 and name CG) 1.0 60.0  30.0 2
+
+!V108 (expanded from +/- 30 to 40 because of violation on 031207)
+!Then I decided to take it out because it violated again on 042307 with a consistent amount of angle
+!so I guess it's fine without this 
+!assign (resid 108 and name n)  (resid 108 and name ca)
+!       (resid 108 and name cb) (resid 108 and name cg1) 1.0  -60.0 50.0 2
+
+!B6B7 loop is not perfectly compatible with intermol data, so tom took these out temporarily 050708
+!V110
+!assign (resid 110 and name n)  (resid 110 and name ca)
+!       (resid 110 and name cb) (resid 110 and name cg1) 1.0  180.0 30.0 2
+
+!B6B7 loop is not perfectly compatible with intermol data, so tom took these out temporarily 050708
+!L111 RTC 4/30  +/-60
+!assign (resid  111 and name  n)   (resid   111 and name ca)
+!       (resid  111 and name  cb)  (resid   111 and name cg) 1.0 0.0 90.0  2
+
+!D112
+!assign (resid  112 and name N)    (resid  112 and name CA)
+!       (resid  112 and name CB)   (resid  112 and name CG) 1.0 60.0  30.0 2
+
+!E113
+assign (resid  113 and name N)    (resid  113 and name CA)
+       (resid  113 and name CB)   (resid  113 and name CG) 1.0 60.0  30.0 2
+
+!Q114
+!assign (resid  114 and name  N)   (resid   114 and name CA)
+!       (resid  114 and name  CB)  (resid   114 and name CG) 1.0 -60.0 30.0  2
+
+       
+
+!T122
+assign (resid  122 and name N)    (resid  122 and name CA)
+       (resid  122 and name CB)   (resid  122 and name og1) 1.0 -60.0  30.0 2
+
+!L123 (expanded from +/- 30 to 40 because of violation on 031207)
+!Then I decided to take it out because it violated again on 042307 with a consistent amount of angle
+!so I guess it's fine without this 
+!assign (resid  123 and name  n)   (resid   123 and name ca)
+!       (resid  123 and name  cb)  (resid   123 and name cg) 1.0 60.0 40.0  2
+
+!I124 (expanded from +/- 30 to 45 because of violation on 031207)
+!assign (resid 124 and name n)  (resid 124 and name ca)
+!       (resid 124 and name cb) (resid 124 and name cg1) 1.0  180.0 45.0 2
+
+!T125
+assign (resid  125 and name N)    (resid  125 and name CA)
+       (resid  125 and name CB)   (resid  125 and name og1) 1.0 180.0  30.0 2
+
+!C126 RTC
+assign (resid  126 and name  N)   (resid   126 and name CA)
+       (resid  126 and name  CB)  (resid   126 and name SG) 1.0 60.0 30.0  2
+
+!D127 RTC
+!assign (resid  127 and name N)    (resid  127 and name CA)
+ !      (resid  127 and name CB)   (resid  127 and name CG) 1.0 60.0  30.0 2
+
+!D128 RTC
+!assign (resid  128 and name N)    (resid  128 and name CA)
+ !      (resid  128 and name CB)   (resid  128 and name CG) 1.0 60.0  30.0 2
+
+!Y129
+!assign (resid  129 and name N)    (resid  129 and name CA)
+ !      (resid  129 and name CB)   (resid  129 and name CG) 1.0 60.0  60.0 2
+
+!N130 RTC
+!assign (resid  130 and name  N)   (resid   130 and name CA)
+!       (resid  130 and name  CB)  (resid   130 and name CG) 1.0 120.0 90.0  
+
+!E131   HB OL RTC
+!assign (resid  131 and name  N)   (resid   131 and name CA)
+ !      (resid  131 and name  CB)  (resid   131 and name CG) 1.0  60.0 30.0  2
+
+!K132  HB OL  RTC
+!assign (resid  132 and name N)    (resid  132 and name CA)
+ !      (resid  132 and name CB)   (resid  132 and name CG) 1.0 -60.0  30.0 2
+
+!T133
+assign (resid  133 and name N)    (resid  133 and name CA)
+       (resid  133 and name CB)   (resid  133 and name og1) 1.0 60.0  30.0 2
+
+!V135
+assign (resid 135 and name n)  (resid 135 and name ca)
+       (resid 135 and name cb) (resid 135 and name cg1) 1.0  180.0 100.0 2
+
+!W136  (restrained to +/-60 RTC)
+!assign (resid  136 and name  N)   (resid   136 and name CA)
+!       (resid  136 and name  CB)  (resid   136 and name CG) 1.0  0.0 90.0  2
+!MAN BY RTC
+assign (resid  136 and name  N)   (resid   136 and name CA)
+       (resid  136 and name  CB)  (resid   136 and name CG) 1.0  -60.0 30.0  2
+
+!E137
+!assign (resid  137 and name  N)   (resid   137 and name CA)
+!       (resid  137 and name  CB)  (resid   137 and name CG) 1.0  60.0 30.0  2
+
+!K138
+!assign (resid  138 and name  N)   (resid   138 and name CA)
+!       (resid  138 and name  CB)  (resid   138 and name CG) 1.0  60.0 30.0  2
+
+!R139
+!assign (resid  139 and name  N)   (resid   139 and name CA)
+!       (resid  139 and name  CB)  (resid   139 and name CG) 1.0  -60.0 45.0  2
+
+!I141
+assign (resid 141 and name n)  (resid 141 and name ca)
+       (resid 141 and name cb) (resid 141 and name cg1) 1.0  60.0 30.0 2
+
+!F142 (expanded from +/- 30 to 40 because of violation on 031207)
+!assign (resid  142 and name  N)   (resid   142 and name CA)
+!       (resid  142 and name  CB)  (resid   142 and name CG) 1.0  60.0 40.0  2
+
+!V143
+assign (resid 143 and name n)  (resid 143 and name ca)
+       (resid 143 and name cb) (resid 143 and name cg1) 1.0  180.0 30.0 2       
+
+!!!I7 (HNHA J= 2.7 Phi=-60 +/-30 100405)
+assign (resid  6 and name C)    (resid  7 and name  N)
+       (resid  7 and name CA)   (resid  7 and name  C) 1.0  -60.0 30.0  2
+
+
+!peptide restraint
+!L702 based on NOE pattern (no NOEs from 108 HA,HG1 to 702 HN,HB1, but to HD#)
+!assign (resid  702 and name  n)   (resid   702 and name ca)
+!       (resid  702 and name  cb)  (resid   702 and name cg) 1.0 0.0 30.0  2
+
+!!!A704 Altered the phi so the methyl would face Leu39
+!assign (resid  703 and name C)    (resid  704 and name  N)
+!       (resid  704 and name CA)   (resid  704 and name  C) 1.0  -90.0 70.0 2
+!!!A704 Altered the phi so the methyl would face Leu39 TOM 052708
+!assign (resid  703 and name C)    (resid  704 and name  N)
+!       (resid  704 and name CA)   (resid  704 and name  C) 1.0  60.0 30.0 2
+

@@ -31,7 +31,7 @@ class TestCalcEnergy(unittest.TestCase):
         """Integrated test evaluating energy of an RNA structure (2KOC) using cyana constraints"""
 	strc = '2koc'
 	strc_dir = '/'.join([self.dump_dir, strc])
-        os.chdir("./rnastrucs/"+strc+"/cy_tests")
+        os.chdir("./rnastrucs/"+strc+"/cy-tests")
         cwd = os.getcwd()
         lst_cwd = os.listdir(cwd)
         assert ("project.yaml" in lst_cwd), "No 'project.yaml' found in directory."
@@ -56,7 +56,7 @@ class TestCalcEnergy(unittest.TestCase):
 
 	strc = '2l1v'
 	strc_dir = '/'.join([self.dump_dir, strc])
-        os.chdir("./rnastrucs/"+strc+"/xp_tests")
+        os.chdir("./rnastrucs/"+strc+"/xp-tests")
         cwd = os.getcwd()
         lst_cwd = os.listdir(cwd)
         assert ("project.yaml" in lst_cwd), "No 'project.yaml' found in directory."
@@ -80,7 +80,7 @@ class TestCalcEnergy(unittest.TestCase):
 
 	strc = '3gb1'
 	strc_dir = '/'.join([self.dump_dir, strc])
-        os.chdir("./proteinstrucs/"+strc+"/cy_tests")
+        os.chdir("./proteinstrucs/"+strc+"/cy-tests")
         cwd = os.getcwd()
         lst_cwd = os.listdir(cwd)
         assert ("project.yaml" in lst_cwd), "No 'project.yaml' found in directory."
