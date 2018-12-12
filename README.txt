@@ -8,52 +8,52 @@ Directory Structure:
 	+ --- other-tests/ -> (contains nmrfxstructure testing information about scoring, shifts prediction, etc.)
 	|	    |
 	|	    + --- [rnapredpdb/, rnapredvie/, ...]
-  |             |            |
+        |             |            |
 	|             |            |	
 	|             |            + --- [demo.sh, example.txt, project.yaml, shifts.txt]
 	|             |
 	|             |
 	|             +--- [demo.sh, pbs.pdb, shifts.txt]
-  |
-  |
+        |
+        |
 	+ --- stucture-tests/ -> (quick batch of structures any user should be able to run)
-  |     |
-	|		  + --- [proteinstrucs/, rnastrucs/]
-	|			        |
-	|		 	        |
+        |     |
+	|     + --- [proteinstrucs/, rnastrucs/]
+	|             |
+	|             |
 	|             + --- [1D3Z/, 2KID/, … other structures labeled by PDB ID]
-	|				              |
-  |                   	|
-  |                     + --- [xp-tests/, cy-tests/, bmrb-files/] -> (tests performed using xplor and cyana constraints)
-	|					                    |
-  |                             |
-  |                           	+ --- [project.yaml, input/]
+	|                    |
+	|                    |
+        |                    + --- [xp-tests/, cy-tests/, bmrb-files/] -> (tests performed using xplor and cyana constraints)
+	|                            |
+        |                            |
+        |                            + --- [project.yaml, input/]
 	|
 	|
 	+ --- test-suite/ -> (Unit tests to evaluate integrity of nmrfxstructure's codebase)
 	|	     |
 	|	     + --- [scripts/, pythonScripts/, data/, README.txt]
-	|		          |	         |
-	|		          |	         |	
-	|		          |	         + --- [PreCommitEnergy_test.py, auxillary_funcs.py, mv_testing.py, NMRFxMolProbTools.py, main.py, ...]
-	|		          |
-	|		          |
-	|		          + --- [batch_cleanup, checkpath, nmrfxtester]
+	|		     |	         |
+	|		     |	         |	
+	|		     |	         + --- [PreCommitEnergy_test.py, auxillary_funcs.py, mv_testing.py, NMRFxMolProbTools.py, main.py, ...]
+	|		     |
+	|		     |
+	|		     + --- [batch_cleanup, checkpath, nmrfxtester]
 	|
 	|
-	+ --- developer-doc/ -> (project created using mkdocs to generate and view markdown nmrfxstructure documents) ---> used to generate documentation from code
+	+ --- developer-doc/ -> (Developer and user markdown documentation about nmrfxstructure)
 	|      |
-	|	     |
-	|	     + --- [docs/, markdown.txt, mkdocs.yml, site/] -> ()
-	|		          |
-  |             |
-	|	            + --- [about.md, nmrfxstructure.md, refine.md] -> (markdown files containing nmrfxstructure documentation)
+	|      |
+	|      + --- [docs/, markdown.txt, mkdocs.yml, site/] -> (mkdocs generated project directory and files)
+	|              |
+        |              |
+	|	       + --- [about.md, nmrfxstructure.md, refine.md] -> (markdown files)
 	|
 	|
 	+ --- tools/ -> (arbitrary helper scripts)
 	|
 	|
-	+ --- dependencies.txt -> (File explaining the dependencies of external programs used during alpha testing phase) -- > put dependencies along with this file into a directory??? 
+	+ --- dependencies.txt -> (File explaining the dependencies of external programs used during alpha testing phase) 
 	|
 	|
 	+ --- README.txt -> (This file)
