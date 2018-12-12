@@ -1,0 +1,20 @@
+molecule :
+    file : input/2lu0.seq
+    ptype : rna
+    type : nv
+
+rna : 
+    ribose : Constrain
+
+distances :
+    - file : input/distances
+      type : cyana
+
+angles :
+    - file : input/dihedrals.aco
+      type : cyana
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    swap : 20

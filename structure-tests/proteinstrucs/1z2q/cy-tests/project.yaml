@@ -1,0 +1,16 @@
+molecule :
+    file : input/1z2q.seq
+    type : nv
+
+distances :
+    - file : input/distances
+      type : cyana
+
+angles :
+    - file : input/dihedrals.aco
+      type : cyana
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    swap : 20

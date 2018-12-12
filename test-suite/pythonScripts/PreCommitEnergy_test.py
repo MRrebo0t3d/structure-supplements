@@ -26,6 +26,7 @@ class TestCalcEnergy(unittest.TestCase):
         from auxillary_funcs import find_compiled_struct
         self.nmrfxs_cmd = find_compiled_struct()
 
+
     def test_cy_RNA_energy(self):
         """Integrated test evaluating energy of an RNA structure (2KOC) using cyana constraints"""
 	strc = '2koc'
@@ -74,8 +75,6 @@ class TestCalcEnergy(unittest.TestCase):
         else:
             print "Please evaluate generated output. Energy could not be obtained."
 
-
-
     def test_cy_protein_energy(self):
         """Integrated test evaluating energy of a protein structure (3GB1) using cyana constraints"""
 
@@ -99,8 +98,6 @@ class TestCalcEnergy(unittest.TestCase):
             self.assertLessEqual(value, 5.0)
         else:
             print "Please evaluate generated output. Energy could not be obtained."
-
-
 
 print __name__
 

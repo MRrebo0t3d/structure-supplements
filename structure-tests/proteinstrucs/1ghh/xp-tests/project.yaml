@@ -1,0 +1,21 @@
+molecule :
+    file : input/1ghh.seq
+    type : nv
+
+angles : 
+    - file : input/dih.tbl
+      type : xplor
+
+distances :
+    - 
+      file : input/dis.tbl
+      type : xplor
+    -
+      file : input/hydcon.tbl
+      type : xplor
+
+anneal:
+    steps : 15000
+    highTemp : 5000.0
+    irpWeight : 0.0
+    swap : 20
