@@ -27,7 +27,7 @@ Directory Structure:
         |                    + --- [xp-tests/, cy-tests/, bmrb-files/] -> (tests performed using xplor and cyana constraints)
 	|                            |
         |                            |
-        |                            + --- [project.yaml, input/] -> (input directory contains all the files necessary to run the calculations)
+        |                            + --- [project.yaml, input/] -> (input/ contains files to run the calculations)
 	|
 	|
 	+ --- test-suite/ -> (Unit tests to evaluate integrity of nmrfxstructure's codebase)
@@ -35,7 +35,7 @@ Directory Structure:
 	|	     + --- [scripts/, pythonScripts/, data/, README.txt]
 	|		     |	         |
 	|		     |	         |	
-	|		     |	         + --- [PreCommitEnergy_test.py, auxillary_funcs.py, mv_testing.py, NMRFxMolProbTools.py, main.py, ...]
+	|		     |	         + --- [PreCommitEnergy_test.py, auxillary_funcs.py, mv_testing.py, main.py, ...]
 	|		     |
 	|		     |
 	|		     + --- [batch_cleanup, checkpath, nmrfxtester]
