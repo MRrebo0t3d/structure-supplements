@@ -1,0 +1,81 @@
+!H-bond
+assi (resid   24 and name   H3) (resid  3 and name   N1)  2.00 0.20 0.50 
+assi (resid   24 and name   N3) (resid  3 and name   N1)  2.90 0.30 0.30
+assi (resid   24 and name   O4) (resid  3 and name  H61)  2.00 0.20 0.20
+assi (resid   24 and name   O4) (resid  3 and name   N6)  2.90 0.30 0.30
+
+assi (resid   4 and name   H1) (resid  23 and name   N3)  2.00 0.20 0.20 
+assi (resid   4 and name   N1) (resid  23 and name   N3)  2.90 0.30 0.30
+assi (resid   4 and name   O6) (resid  23 and name  H41)  2.00 0.20 0.20
+assi (resid   4 and name   O6) (resid  23 and name   N4)  2.90 0.30 0.30
+assi (resid   4 and name  H21) (resid  23 and name   O2)  2.00 0.20 0.20
+assi (resid   4 and name   N2) (resid  23 and name   O2)  2.90 0.30 0.30
+
+assi (resid   22 and name   H3) (resid  5 and name   N1)  2.00 0.20 0.50 
+assi (resid   22 and name   N3) (resid  5 and name   N1)  2.90 0.30 0.30
+assi (resid   22 and name   O4) (resid  5 and name  H61)  2.00 0.20 0.20 
+assi (resid   22 and name   O4) (resid  5 and name   N6)  2.90 0.30 0.30
+
+assi (resid   6 and name   H1) (resid  21 and name   N3)  2.00 0.20 0.20 
+assi (resid   6 and name   N1) (resid  21 and name   N3)  2.90 0.30 0.30
+assi (resid   6 and name   O6) (resid  21 and name  H41)  2.00 0.20 0.20
+assi (resid   6 and name   O6) (resid  21 and name   N4)  2.90 0.30 0.30
+assi (resid   6 and name  H21) (resid  21 and name   O2)  2.00 0.20 0.20
+assi (resid   6 and name   N2) (resid  21 and name   O2)  2.90 0.30 0.30
+
+assi (resid   7 and name   H1) (resid  20 and name   N3)  2.00 0.20 0.20 
+assi (resid   7 and name   N1) (resid  20 and name   N3)  2.90 0.30 0.30
+assi (resid   7 and name   O6) (resid  20 and name  H41)  2.00 0.20 0.20
+assi (resid   7 and name   O6) (resid  20 and name   N4)  2.90 0.30 0.30
+assi (resid   7 and name  H21) (resid  20 and name   O2)  2.00 0.20 0.20
+assi (resid   7 and name   N2) (resid  20 and name   O2)  2.90 0.30 0.30
+
+assi (resid  13 and name   H1) (resid  33 and name   N3)  2.00 0.20 0.20 
+assi (resid  13 and name   N1) (resid  33 and name   N3)  2.90 0.30 0.30
+assi (resid  13 and name   O6) (resid  33 and name  H41)  2.00 0.20 0.20
+assi (resid  13 and name   O6) (resid  33 and name   N4)  2.90 0.30 0.30
+assi (resid  13 and name  H21) (resid  33 and name   O2)  2.00 0.20 0.20
+assi (resid  13 and name   N2) (resid  33 and name   O2)  2.90 0.30 0.30
+assi (resid  13 and name  H2*) (resid  18 and name   N1)  2.00 0.20 0.20
+
+assi (resid  37 and name   H91) (resid  19 and name   N3)  2.00 0.20 0.20 
+assi (resid  37 and name   N1) (resid  19 and name   N3)  2.90 0.30 0.30
+assi (resid  37 and name   O6) (resid  19 and name  H41)  2.00 0.20 0.20
+assi (resid  37 and name   O6) (resid  19 and name   N4)  2.90 0.30 0.30
+assi (resid  37 and name  H91) (resid  19 and name   O2)  2.00 0.20 0.20
+assi (resid  37 and name   N2) (resid  19 and name   O2)  2.90 0.30 0.30
+
+assi (resid   8 and name   O4) (resid  37 and name HN91)  2.00 0.20 0.50
+assi (resid   8 and name   O4) (resid  37 and name   N9)  2.90 0.30 0.50
+
+assi (resid   37 and name   N3) (resid  32 and name   H61)  2.00 0.20 0.50
+assi (resid   37 and name   N3) (resid  32 and name   N6)  2.90 0.30 0.30
+
+assi (resid   37 and name   N2) (resid  32 and name   N1)  2.90 0.30 0.50
+assi (resid   37 and name   HN22) (resid  32 and name   N1)  2.00 0.20 0.50
+
+assi (resid   5 and name   N3) (resid  27 and name   H6*)  2.00 0.20 0.50
+assi (resid   5 and name   N3) (resid  27 and name   N6)  2.90 0.30 0.30
+
+assi (resid   34 and name   H3) (resid  12 and name   N1)  2.00 0.20 0.50 
+assi (resid   34 and name   N3) (resid  12 and name   N1)  2.90 0.30 0.30
+assi (resid   34 and name   O4) (resid  12 and name  H61)  2.00 0.20 0.20 
+assi (resid   34 and name   O4) (resid  12 and name   N6)  2.90 0.30 0.30
+
+assi (resid   4 and name   N3) (resid  25 and name   H6*)  2.00 0.20 0.50
+assi (resid   4 and name   N3) (resid  25 and name   N6)  2.90 0.30 0.30
+
+assi (resid   7 and name   N3) (resid  30 and name   H61)  2.00 0.20 0.50
+assi (resid   7 and name   N3) (resid  30 and name   N6)  2.90 0.30 0.30
+
+assi (resid   30 and name   N1) (resid  7 and name   H22)  2.00 0.20 0.50
+assi (resid   30 and name   N1) (resid  7 and name   N2)  2.90 0.30 0.30
+
+assi (resid   20 and name   HO2') (resid  31 and name   N1)  2.00 0.20 0.50
+assi (resid   20 and name   O2') (resid  31 and name   N1)  2.90 0.30 0.30
+
+assi (resid   34 and name   O2) (resid  16 and name  H61)  2.00 0.20 0.20 
+assi (resid   34 and name   O2) (resid  16 and name   N6)  2.90 0.30 0.30
+
+assi (resid   21 and name   HO2') (resid  29 and name   N1)  2.00 0.20 0.50
+assi (resid   21 and name   O2') (resid  29 and name   N1)  2.90 0.30 0.30

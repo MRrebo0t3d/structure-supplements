@@ -1,0 +1,148 @@
+!!hbonds
+
+ASSIGN (RESID  7 AND NAME O  and segid A)  (RESID 11 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  7 AND NAME O  and segid A)  (RESID 11 AND NAME HN  and segid A) 2.3 1.0 0.2          
+ 
+
+
+ASSIGN (RESID  28 AND NAME O  and segid A)  (RESID 32 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  28 AND NAME O  and segid A)  (RESID 32 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  29 AND NAME O  and segid A)  (RESID 33 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  29 AND NAME O  and segid A)  (RESID 33 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  30 AND NAME O  and segid A)  (RESID 34 AND NAME N  and segid A) 3.3 1.0 0.2
+ASSIGN (RESID  30 AND NAME O  and segid A)  (RESID 34 AND NAME HN  and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  31 AND NAME O  and segid A)  (RESID 35 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  31 AND NAME O  and segid A)  (RESID 35 AND NAME HN  and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  32 AND NAME O  and segid A)  (RESID 36 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  32 AND NAME O  and segid A)  (RESID 36 AND NAME HN  and segid A) 2.3 1.0 0.2
+
+
+ASSIGN (RESID  42 AND NAME O  and segid A)  (RESID 46 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  42 AND NAME O  and segid A)  (RESID 46 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  43 AND NAME O  and segid A)  (RESID 47 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  43 AND NAME O  and segid A)  (RESID 47 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  44 AND NAME O  and segid A)  (RESID 48 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  44 AND NAME O  and segid A)  (RESID 48 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  45 AND NAME O  and segid A)  (RESID 49 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  45 AND NAME O  and segid A)  (RESID 49 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  46 AND NAME O  and segid A)  (RESID 50 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  46 AND NAME O  and segid A)  (RESID 50 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  47 AND NAME O  and segid A)  (RESID 51 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  47 AND NAME O  and segid A)  (RESID 51 AND NAME HN and segid A) 2.3 1.0 0.2
+
+ASSIGN (RESID  56 AND NAME O  and segid A)  (RESID 60 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  56 AND NAME O  and segid A)  (RESID 60 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  57 AND NAME O  and segid A)  (RESID 61 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  57 AND NAME O  and segid A)  (RESID 61 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  58 AND NAME O  and segid A)  (RESID 62 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  58 AND NAME O  and segid A)  (RESID 62 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  59 AND NAME O  and segid A)  (RESID 63 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  59 AND NAME O  and segid A)  (RESID 63 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  60 AND NAME O  and segid A)  (RESID 64 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  60 AND NAME O  and segid A)  (RESID 64 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  61 AND NAME O  and segid A)  (RESID 65 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  61 AND NAME O  and segid A)  (RESID 65 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  62 AND NAME O  and segid A)  (RESID 66 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  62 AND NAME O  and segid A)  (RESID 66 AND NAME HN and segid A) 2.3 1.0 0.2
+
+ASSIGN (RESID  72 AND NAME O  and segid A)  (RESID 76 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  72 AND NAME O  and segid A)  (RESID 76 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  73 AND NAME O  and segid A)  (RESID 77 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  73 AND NAME O  and segid A)  (RESID 77 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  74 AND NAME O  and segid A)  (RESID 78 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  74 AND NAME O  and segid A)  (RESID 78 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  75 AND NAME O  and segid A)  (RESID 79 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  75 AND NAME O  and segid A)  (RESID 79 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  76 AND NAME O  and segid A)  (RESID 80 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  76 AND NAME O  and segid A)  (RESID 80 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  77 AND NAME O  and segid A)  (RESID 81 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  77 AND NAME O  and segid A)  (RESID 81 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  78 AND NAME O  and segid A)  (RESID 82 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  78 AND NAME O  and segid A)  (RESID 82 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  79 AND NAME O  and segid A)  (RESID 83 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  79 AND NAME O  and segid A)  (RESID 83 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  80 AND NAME O  and segid A)  (RESID 84 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  80 AND NAME O  and segid A)  (RESID 84 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  81 AND NAME O  and segid A)  (RESID 85 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  81 AND NAME O  and segid A)  (RESID 85 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  82 AND NAME O  and segid A)  (RESID 86 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  82 AND NAME O  and segid A)  (RESID 86 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  83 AND NAME O  and segid A)  (RESID 87 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  83 AND NAME O  and segid A)  (RESID 87 AND NAME HN and segid A) 2.3 1.0 0.2
+ASSIGN (RESID  84 AND NAME O  and segid A)  (RESID 88 AND NAME N  and segid A) 3.3 1.0 0.2          
+ASSIGN (RESID  84 AND NAME O  and segid A)  (RESID 88 AND NAME HN and segid A) 2.3 1.0 0.2
+
+
+
+ASSIGN (RESID  7 AND NAME O  and segid B)  (RESID 11 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  7 AND NAME O  and segid B)  (RESID 11 AND NAME HN  and segid B) 2.3 1.0 0.2          
+ 
+
+
+ASSIGN (RESID  28 AND NAME O  and segid B)  (RESID 32 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  28 AND NAME O  and segid B)  (RESID 32 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  29 AND NAME O  and segid B)  (RESID 33 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  29 AND NAME O  and segid B)  (RESID 33 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  30 AND NAME O  and segid B)  (RESID 34 AND NAME N  and segid B) 3.3 1.0 0.2
+ASSIGN (RESID  30 AND NAME O  and segid B)  (RESID 34 AND NAME HN  and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  31 AND NAME O  and segid B)  (RESID 35 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  31 AND NAME O  and segid B)  (RESID 35 AND NAME HN  and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  32 AND NAME O  and segid B)  (RESID 36 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  32 AND NAME O  and segid B)  (RESID 36 AND NAME HN  and segid B) 2.3 1.0 0.2
+
+
+ASSIGN (RESID  42 AND NAME O  and segid B)  (RESID 46 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  42 AND NAME O  and segid B)  (RESID 46 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  43 AND NAME O  and segid B)  (RESID 47 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  43 AND NAME O  and segid B)  (RESID 47 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  44 AND NAME O  and segid B)  (RESID 48 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  44 AND NAME O  and segid B)  (RESID 48 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  45 AND NAME O  and segid B)  (RESID 49 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  45 AND NAME O  and segid B)  (RESID 49 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  46 AND NAME O  and segid B)  (RESID 50 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  46 AND NAME O  and segid B)  (RESID 50 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  47 AND NAME O  and segid B)  (RESID 51 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  47 AND NAME O  and segid B)  (RESID 51 AND NAME HN and segid B) 2.3 1.0 0.2
+
+ASSIGN (RESID  56 AND NAME O  and segid B)  (RESID 60 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  56 AND NAME O  and segid B)  (RESID 60 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  57 AND NAME O  and segid B)  (RESID 61 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  57 AND NAME O  and segid B)  (RESID 61 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  58 AND NAME O  and segid B)  (RESID 62 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  58 AND NAME O  and segid B)  (RESID 62 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  59 AND NAME O  and segid B)  (RESID 63 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  59 AND NAME O  and segid B)  (RESID 63 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  60 AND NAME O  and segid B)  (RESID 64 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  60 AND NAME O  and segid B)  (RESID 64 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  61 AND NAME O  and segid B)  (RESID 65 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  61 AND NAME O  and segid B)  (RESID 65 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  62 AND NAME O  and segid B)  (RESID 66 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  62 AND NAME O  and segid B)  (RESID 66 AND NAME HN and segid B) 2.3 1.0 0.2
+
+ASSIGN (RESID  72 AND NAME O  and segid B)  (RESID 76 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  72 AND NAME O  and segid B)  (RESID 76 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  73 AND NAME O  and segid B)  (RESID 77 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  73 AND NAME O  and segid B)  (RESID 77 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  74 AND NAME O  and segid B)  (RESID 78 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  74 AND NAME O  and segid B)  (RESID 78 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  75 AND NAME O  and segid B)  (RESID 79 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  75 AND NAME O  and segid B)  (RESID 79 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  76 AND NAME O  and segid B)  (RESID 80 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  76 AND NAME O  and segid B)  (RESID 80 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  77 AND NAME O  and segid B)  (RESID 81 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  77 AND NAME O  and segid B)  (RESID 81 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  78 AND NAME O  and segid B)  (RESID 82 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  78 AND NAME O  and segid B)  (RESID 82 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  79 AND NAME O  and segid B)  (RESID 83 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  79 AND NAME O  and segid B)  (RESID 83 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  80 AND NAME O  and segid B)  (RESID 84 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  80 AND NAME O  and segid B)  (RESID 84 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  81 AND NAME O  and segid B)  (RESID 85 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  81 AND NAME O  and segid B)  (RESID 85 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  82 AND NAME O  and segid B)  (RESID 86 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  82 AND NAME O  and segid B)  (RESID 86 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  83 AND NAME O  and segid B)  (RESID 87 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  83 AND NAME O  and segid B)  (RESID 87 AND NAME HN and segid B) 2.3 1.0 0.2
+ASSIGN (RESID  84 AND NAME O  and segid B)  (RESID 88 AND NAME N  and segid B) 3.3 1.0 0.2          
+ASSIGN (RESID  84 AND NAME O  and segid B)  (RESID 88 AND NAME HN and segid B) 2.3 1.0 0.2
+

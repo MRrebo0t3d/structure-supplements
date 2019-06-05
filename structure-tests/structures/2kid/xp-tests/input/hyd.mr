@@ -1,0 +1,408 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!  !B1:G16-P21 || B5:S82-V88     !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!  B1/B5
+! OK
+assign (resid  17 and name HN )
+       (resid  87 and name O  ) 2.3  0.8  0.2
+assign (resid  17 and name N  )
+       (resid  87 and name O  ) 3.3  0.8  0.2
+
+! OK
+assign (resid  87 and name HN )
+       (resid  17 and name O  ) 2.3  0.8  0.2
+assign (resid  87 and name N  )
+       (resid  17 and name O  ) 3.3  0.8  0.2
+
+!  B1/B5
+! OK
+assign (resid  19 and name HN )
+       (resid  85 and name O  ) 2.3  0.8  0.2
+assign (resid  19 and name N  )
+       (resid  85 and name O  ) 3.3  0.8  0.2
+
+!  B1/B5
+! OK
+assign (resid  85 and name HN )
+       (resid  19 and name O  ) 2.3  0.8  0.2
+assign (resid  85 and name N  )
+       (resid  19 and name O  ) 3.3  0.8  0.2
+!PRO21 Terminates B1
+
+!################################################
+!################################################
+!################################################
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!  !B1:G16-P21 || B2:D24-V29     !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! OK
+assign (resid  18 and name HN )
+       (resid  27 and name O  ) 2.3  0.8  0.2
+assign (resid  18 and name N  )
+       (resid  27 and name O  ) 3.3  0.8  0.2
+
+! OK
+assign (resid  27 and name HN )
+       (resid  18 and name O  ) 2.3  0.8  0.2
+assign (resid  27 and name N  )
+       (resid  18 and name O  ) 3.3  0.8  0.2
+
+
+!B1/B2
+! OK
+assign (resid  20 and name HN )
+       (resid  25 and name O  ) 2.3  0.8  0.2
+assign (resid  20 and name N  )
+       (resid  25 and name O  ) 3.3  0.8  0.2
+! OK
+assign (resid  25 and name HN )
+       (resid  20 and name O  ) 2.3  0.8  0.2
+assign (resid  25 and name N  )
+       (resid  20 and name O  ) 3.3  0.8  0.2
+ 
+
+!B1/B2 OK
+assign (resid  29 and name HN )
+       (resid  16 and name O  ) 2.3  0.8  0.2
+assign (resid  29 and name N  )
+       (resid  16 and name O  ) 3.3  0.8  0.2
+!OK? (NOT SUPPORTED BY STRUCTURES?) 
+!SEEMS TO BE VIOLATED CHECK THIS AGAIN
+!assign (resid  16 and name HN )
+!       (resid  29 and name O  ) 2.3  0.8  0.2
+!assign (resid  16 and name N  )
+!       (resid  29 and name O  ) 3.3  0.8  0.2
+!GLY SEEMS TO END B1
+
+
+
+!B1/B2 OK WRONG!!!! 
+!assign (resid  23 and name HN )
+!       (resid  20 and name O  ) 2.3  0.8  0.2
+!assign (resid  23 and name N  )
+!       (resid  20 and name O  ) 3.3  0.8  0.2
+assign (resid  24 and name HN )
+       (resid  21 and name O  ) 2.3  0.8  0.2
+assign (resid  24 and name N  )
+       (resid  21 and name O  ) 3.3  0.8  0.2
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! HELIX 1 (alpha 36-40)          !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!Compatible with exchange data/CSI
+assign (resid  39 and name HN )
+       (resid  35 and name O  ) 2.3  0.8  0.2
+assign (resid  39 and name N  )
+       (resid  35 and name O  ) 3.3  0.8  0.2
+
+assign (resid  40 and name HN )
+       (resid  36 and name O  ) 2.3  0.8  0.2
+assign (resid  40 and name N  )
+       (resid  36 and name O  ) 3.3  0.8  0.2
+!NEED TO FIGURE OUT 39-42, 38-41?
+
+
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!  B5:S82-V88  || B6:E91-K97?    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!B5/B6 
+!!(NOT SUPPORTED BY STRUCTURES)
+!!assign (resid  82 and name HN )
+!!       (resid  97 and name O  ) 2.3  0.8  0.2
+!!assign (resid  82 and name N  )
+!!       (resid  97 and name O  ) 3.3  0.8  0.2
+
+!(supported by 50 % of the structures )
+assign (resid  97 and name HN )
+       (resid  82 and name O  ) 2.3  0.8  0.2
+assign (resid  97 and name N  )
+       (resid  82 and name O  ) 3.3  0.8  0.2
+!
+!B5/B6 OK
+assign (resid  84 and name HN )
+       (resid  95 and name O  ) 2.3  0.8  0.2
+assign (resid  84 and name N  )
+       (resid  95 and name O  ) 3.3  0.8  0.2
+
+assign (resid  95 and name HN )
+       (resid  84 and name O  ) 2.3  0.8  0.2
+assign (resid  95 and name N  )
+       (resid  84 and name O  ) 3.3  0.8  0.2
+
+!B5/B6 (OK? NOT SUPPORTED BY STRUCTURES?)
+assign (resid  86 and name HN )
+       (resid  93 and name O  ) 2.3  0.8  0.2
+assign (resid  86 and name N  )
+       (resid  93 and name O  ) 3.3  0.8  0.2
+ 
+!B5/B6 OK
+assign (resid  93 and name HN )
+       (resid  86 and name O  ) 2.3  0.8  0.2
+assign (resid  93 and name N  )
+       (resid  86 and name O  ) 3.3  0.8  0.2
+
+!EXTRA HBONDS ADDED TO TIP
+assign (resid  88 and name HN )
+       (resid  91 and name O  ) 2.3  0.8  0.2
+assign (resid  88 and name N  )
+       (resid  91 and name O  ) 3.3  0.8  0.2
+
+assign (resid  91 and name HN )
+       (resid  88 and name O  ) 2.3  0.8  0.2
+assign (resid  91 and name N  )
+       (resid  88 and name O  ) 3.3  0.8  0.2
+
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   B6:E91-K97^98^S99-R101 || B8:I141-V145    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+assign (resid  96 and name HN )
+       (resid  145 and name O  ) 2.3  0.8  0.2
+assign (resid  96 and name N  )
+       (resid  145 and name O  ) 3.3  0.8  0.2
+
+assign (resid  145 and name HN )
+       (resid  96 and name O  ) 2.3  0.8  0.2
+assign (resid  145 and name N  )
+       (resid  96 and name O  ) 3.3  0.8  0.2
+
+assign (resid  99 and name HN )
+       (resid  143 and name O  ) 2.3  0.8  0.2
+assign (resid  99 and name N  )
+       (resid  143 and name O  ) 3.3  0.8  0.2
+
+assign (resid  143 and name HN )
+       (resid  99 and name O  ) 2.3  0.8  0.2
+assign (resid  143 and name N  )
+       (resid  99 and name O  ) 3.3  0.8  0.2
+
+!put back in from NOE data on 040908
+assign (resid  101 and name HN )
+       (resid  141 and name O  ) 2.3  0.8  0.2
+assign (resid  101 and name N  )
+       (resid  141 and name O  ) 3.3  0.8  0.2
+
+!Added on 041108 based on NOEs
+assign (resid  141 and name HN )
+       (resid  101 and name O  ) 2.3  0.8  0.2
+assign (resid  141 and name N  )
+       (resid  101 and name O  ) 3.3  0.8  0.2
+
+!Added on 041108 based on NOEs
+assign (resid  103 and name HN )
+       (resid  139 and name O  ) 2.3  0.8  0.2
+assign (resid  103 and name N  )
+       (resid  139 and name O  ) 3.3  0.8  0.2
+
+
+!Not sure about I141HN or D102HN
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   B7:K119-T125 || B8:I141-V145    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!B7/B8 OK
+assign (resid  146 and name HN )
+       (resid  119 and name O  ) 2.3  0.8  0.2
+assign (resid  146 and name N  )
+       (resid  119 and name O  ) 3.3  0.8  0.2
+!
+!B7/B8 OK
+assign (resid  121 and name HN )
+       (resid  144 and name O  ) 2.3  0.8  0.2
+assign (resid  121 and name N  )
+       (resid  144 and name O  ) 3.3  0.8  0.2
+!
+!B7/B8
+assign (resid  144 and name HN )
+       (resid  121 and name O  ) 2.3  0.8  0.2
+assign (resid  144 and name N  )
+       (resid  121 and name O  ) 3.3  0.8  0.2
+
+!
+!B7/B8  (Supported by ~28 % Structures only)
+assign (resid  123 and name HN )
+       (resid  142 and name O  ) 2.3  0.8  0.2
+assign (resid  123 and name N  )
+       (resid  142 and name O  ) 3.3  0.8  0.2
+!
+! B7/B8 (NOT Supported by Structures)
+assign (resid  142 and name HN )
+       (resid  123 and name O  ) 2.3  0.8  0.2
+assign (resid  142 and name N  )
+       (resid  123 and name O  ) 3.3  0.8  0.2
+
+!B7/B8 (Supported by ~28 % Structures only)
+!assign (resid  125 and name HN )
+!       (resid  140 and name O  ) 3.3  0.8  0.2
+!assign (resid  125 and name N  )
+!       (resid  140 and name O  ) 3.3  0.8  0.2
+!
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   B7:K119-T125 || B4:Q55-G61    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!Complete Identical to apo except. the 126-61 is a test
+
+
+!B4/B7 OK
+assign (resid  120 and name HN )
+       (resid  55 and name O  ) 2.3  0.8  0.2
+assign (resid  120 and name N  )
+       (resid  55 and name O  ) 3.3  0.8  0.2
+!
+!B4/B7 OK
+assign (resid  57 and name HN )
+       (resid  120 and name O  ) 2.3  0.8  0.2
+assign (resid  57 and name N  )
+       (resid  120 and name O  ) 3.3  0.8  0.2
+!
+!B4/B7 OK (Supported by 50 % of Strucutures)
+assign (resid  122 and name HN )
+       (resid  57 and name O  ) 2.3  0.8  0.2
+assign (resid  122 and name N  )
+       (resid  57 and name O  ) 3.3  0.8  0.2
+!
+!B4/B7 OK
+assign (resid  59 and name HN )
+       (resid  122 and name O  ) 2.3  0.8  0.2
+assign (resid  59 and name N  )
+       (resid  122 and name O  ) 3.3  0.8  0.2
+!
+!B4/B7 OK
+assign (resid  124 and name HN )
+       (resid  59 and name O  ) 2.3  0.8  0.2
+assign (resid  124 and name N  )
+       (resid  59 and name O  ) 3.3  0.8  0.2
+!
+!B4/B7 OK (Supported by 50 % of Strucutures)
+assign (resid  61 and name HN )
+       (resid  124 and name O  ) 2.3  0.8  0.2
+assign (resid  61 and name N  )
+       (resid  124 and name O  ) 3.3  0.8  0.2
+!
+!B4/B7 OK (Based on apo structure data for this exchange?) RTC
+assign (resid  126 and name HN )
+       (resid  61 and name O  ) 2.3  0.8  0.2
+assign (resid  126 and name N  )
+       (resid  61 and name O  ) 3.3  0.8  0.2
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   B3:V43-A46 || B4:Q55-G61    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!B3/B4 OK
+assign (resid  46 and name HN )
+       (resid  58 and name O  ) 2.3  0.8  0.2
+assign (resid  46 and name N  )
+       (resid  58 and name O  ) 3.3  0.8  0.2
+
+!B3/B4 OK
+assign (resid  44 and name HN )
+       (resid  60 and name O  ) 2.3  0.8  0.2
+assign (resid  44 and name N  )
+       (resid  60 and name O  ) 3.3  0.8  0.2
+
+assign (resid  60 and name HN )
+       (resid  44 and name O  ) 2.3  0.8  0.2
+assign (resid  60 and name N  )
+       (resid  44 and name O  ) 3.3  0.8  0.2
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   B3:V43-A46 || B4:Q55-G61    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!B2/B3 OK
+
+assign (resid  30 and name HN )
+       (resid  43 and name O  ) 2.3  0.8  0.2
+assign (resid  30 and name N  )
+       (resid  43 and name O  ) 3.3  0.8  0.2
+
+!B2/B3 OK
+assign (resid  45 and name HN )
+       (resid  30 and name O  ) 2.3  0.8  0.2
+assign (resid  45 and name N  )
+       (resid  30 and name O  ) 3.3  0.8  0.2
+
+!################################################
+!################################################
+!################################################
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   Within B7/B8 loop RTC
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!Loop
+
+assign (resid  137 and name HN )
+       (resid  128 and name O  ) 2.3  0.8  0.2
+assign (resid  137 and name N  )
+       (resid  128 and name O  ) 3.3  0.8  0.2
+
+!B2/B3 OK
+assign (resid  130 and name HN )
+       (resid  135 and name O  ) 2.3  0.8  0.2
+assign (resid  130 and name N  )
+       (resid  135 and name O  ) 3.3  0.8  0.2
+
+!################################################
+!################################################
+!################################################
+
+!################################################
+!################################################
+!################################################
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   Within B6/B7 loop 310 HELIX 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+assign (resid  112 and name HN )
+       (resid  109 and name O  ) 2.3  0.8  0.2
+assign (resid  112 and name N  )
+       (resid  109 and name O  ) 3.3  0.8  0.2
+
+assign (resid  111 and name HN )
+       (resid  108 and name O  ) 2.3  0.8  0.2
+assign (resid  111 and name N  )
+       (resid  108 and name O  ) 3.3  0.8  0.2
+
+assign (resid  110 and name HN )
+       (resid  107 and name O  ) 2.3  0.8  0.2
+assign (resid  110 and name N  )
+       (resid  107 and name O  ) 3.3  0.8  0.2
+

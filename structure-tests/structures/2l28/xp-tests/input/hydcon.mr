@@ -1,0 +1,3 @@
+! His153 - Asp25 interaction
+assign (resid 153 and (name he2 or name hd1 )) (resid  25 and name od* )  2.50  1.00  0.50
+assign (resid 153 and (name ne2 or name nd1 )) (resid  25 and name od* )  3.50  1.00  0.50

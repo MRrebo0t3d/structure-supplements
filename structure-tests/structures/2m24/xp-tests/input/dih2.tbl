@@ -1,0 +1,144 @@
+ ASSIGN  (segid "   A" and resid 2    and name C5' ) (segid "   A" and resid 2    and name C4' )
+         (segid "   A" and resid 2    and name C3' ) (segid "   A" and resid 2    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 2    and name O4' ) (segid "   A" and resid 2    and name C1' )
+         (segid "   A" and resid 2    and name C2' ) (segid "   A" and resid 2    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 2    and name C1' ) (segid "   A" and resid 2    and name C2' )
+         (segid "   A" and resid 2    and name C3' ) (segid "   A" and resid 2    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 3    and name C5' ) (segid "   A" and resid 3    and name C4' )
+         (segid "   A" and resid 3    and name C3' ) (segid "   A" and resid 3    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 3    and name O4' ) (segid "   A" and resid 3    and name C1' )
+         (segid "   A" and resid 3    and name C2' ) (segid "   A" and resid 3    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 3    and name C1' ) (segid "   A" and resid 3    and name C2' )
+         (segid "   A" and resid 3    and name C3' ) (segid "   A" and resid 3    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 4    and name C5' ) (segid "   A" and resid 4    and name C4' )
+         (segid "   A" and resid 4    and name C3' ) (segid "   A" and resid 4    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 4    and name O4' ) (segid "   A" and resid 4    and name C1' )
+         (segid "   A" and resid 4    and name C2' ) (segid "   A" and resid 4    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 4    and name C1' ) (segid "   A" and resid 4    and name C2' )
+         (segid "   A" and resid 4    and name C3' ) (segid "   A" and resid 4    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 5    and name C5' ) (segid "   A" and resid 5    and name C4' )
+         (segid "   A" and resid 5    and name C3' ) (segid "   A" and resid 5    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 5    and name O4' ) (segid "   A" and resid 5    and name C1' )
+         (segid "   A" and resid 5    and name C2' ) (segid "   A" and resid 5    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 5    and name C1' ) (segid "   A" and resid 5    and name C2' )
+         (segid "   A" and resid 5    and name C3' ) (segid "   A" and resid 5    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 6    and name C5' ) (segid "   A" and resid 6    and name C4' )
+         (segid "   A" and resid 6    and name C3' ) (segid "   A" and resid 6    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 6    and name O4' ) (segid "   A" and resid 6    and name C1' )
+         (segid "   A" and resid 6    and name C2' ) (segid "   A" and resid 6    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 6    and name C1' ) (segid "   A" and resid 6    and name C2' )
+         (segid "   A" and resid 6    and name C3' ) (segid "   A" and resid 6    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 7    and name C5' ) (segid "   A" and resid 7    and name C4' )
+         (segid "   A" and resid 7    and name C3' ) (segid "   A" and resid 7    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 7    and name O4' ) (segid "   A" and resid 7    and name C1' )
+         (segid "   A" and resid 7    and name C2' ) (segid "   A" and resid 7    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 7    and name C1' ) (segid "   A" and resid 7    and name C2' )
+         (segid "   A" and resid 7    and name C3' ) (segid "   A" and resid 7    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 8    and name C5' ) (segid "   A" and resid 8    and name C4' )
+         (segid "   A" and resid 8    and name C3' ) (segid "   A" and resid 8    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 8    and name O4' ) (segid "   A" and resid 8    and name C1' )
+         (segid "   A" and resid 8    and name C2' ) (segid "   A" and resid 8    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 8    and name C1' ) (segid "   A" and resid 8    and name C2' )
+         (segid "   A" and resid 8    and name C3' ) (segid "   A" and resid 8    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 9    and name C5' ) (segid "   A" and resid 9    and name C4' )
+         (segid "   A" and resid 9    and name C3' ) (segid "   A" and resid 9    and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 9    and name O4' ) (segid "   A" and resid 9    and name C1' )
+         (segid "   A" and resid 9    and name C2' ) (segid "   A" and resid 9    and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 9    and name C1' ) (segid "   A" and resid 9    and name C2' )
+         (segid "   A" and resid 9    and name C3' ) (segid "   A" and resid 9    and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 21   and name C5' ) (segid "   A" and resid 21   and name C4' )
+         (segid "   A" and resid 21   and name C3' ) (segid "   A" and resid 21   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 21   and name O4' ) (segid "   A" and resid 21   and name C1' )
+         (segid "   A" and resid 21   and name C2' ) (segid "   A" and resid 21   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 21   and name C1' ) (segid "   A" and resid 21   and name C2' )
+         (segid "   A" and resid 21   and name C3' ) (segid "   A" and resid 21   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 22   and name C5' ) (segid "   A" and resid 22   and name C4' )
+         (segid "   A" and resid 22   and name C3' ) (segid "   A" and resid 22   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 22   and name O4' ) (segid "   A" and resid 22   and name C1' )
+         (segid "   A" and resid 22   and name C2' ) (segid "   A" and resid 22   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 22   and name C1' ) (segid "   A" and resid 22   and name C2' )
+         (segid "   A" and resid 22   and name C3' ) (segid "   A" and resid 22   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 23   and name C5' ) (segid "   A" and resid 23   and name C4' )
+         (segid "   A" and resid 23   and name C3' ) (segid "   A" and resid 23   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 23   and name O4' ) (segid "   A" and resid 23   and name C1' )
+         (segid "   A" and resid 23   and name C2' ) (segid "   A" and resid 23   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 23   and name C1' ) (segid "   A" and resid 23   and name C2' )
+         (segid "   A" and resid 23   and name C3' ) (segid "   A" and resid 23   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 24   and name C5' ) (segid "   A" and resid 24   and name C4' )
+         (segid "   A" and resid 24   and name C3' ) (segid "   A" and resid 24   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 24   and name O4' ) (segid "   A" and resid 24   and name C1' )
+         (segid "   A" and resid 24   and name C2' ) (segid "   A" and resid 24   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 24   and name C1' ) (segid "   A" and resid 24   and name C2' )
+         (segid "   A" and resid 24   and name C3' ) (segid "   A" and resid 24   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 25   and name C5' ) (segid "   A" and resid 25   and name C4' )
+         (segid "   A" and resid 25   and name C3' ) (segid "   A" and resid 25   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 25   and name O4' ) (segid "   A" and resid 25   and name C1' )
+         (segid "   A" and resid 25   and name C2' ) (segid "   A" and resid 25   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 25   and name C1' ) (segid "   A" and resid 25   and name C2' )
+         (segid "   A" and resid 25   and name C3' ) (segid "   A" and resid 25   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 26   and name C5' ) (segid "   A" and resid 26   and name C4' )
+         (segid "   A" and resid 26   and name C3' ) (segid "   A" and resid 26   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 26   and name O4' ) (segid "   A" and resid 26   and name C1' )
+         (segid "   A" and resid 26   and name C2' ) (segid "   A" and resid 26   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 26   and name C1' ) (segid "   A" and resid 26   and name C2' )
+         (segid "   A" and resid 26   and name C3' ) (segid "   A" and resid 26   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 27   and name C5' ) (segid "   A" and resid 27   and name C4' )
+         (segid "   A" and resid 27   and name C3' ) (segid "   A" and resid 27   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 27   and name O4' ) (segid "   A" and resid 27   and name C1' )
+         (segid "   A" and resid 27   and name C2' ) (segid "   A" and resid 27   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 27   and name C1' ) (segid "   A" and resid 27   and name C2' )
+         (segid "   A" and resid 27   and name C3' ) (segid "   A" and resid 27   and name C4' )  1.00  37.30 30.00 2
+
+ ASSIGN  (segid "   A" and resid 28   and name C5' ) (segid "   A" and resid 28   and name C4' )
+         (segid "   A" and resid 28   and name C3' ) (segid "   A" and resid 28   and name O3' )  1.00  85.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 28   and name O4' ) (segid "   A" and resid 28   and name C1' )
+         (segid "   A" and resid 28   and name C2' ) (segid "   A" and resid 28   and name C3' )  1.00 -25.00 30.00 2
+
+ ASSIGN  (segid "   A" and resid 28   and name C1' ) (segid "   A" and resid 28   and name C2' )
+         (segid "   A" and resid 28   and name C3' ) (segid "   A" and resid 28   and name C4' )  1.00  37.30 30.00 2
+
