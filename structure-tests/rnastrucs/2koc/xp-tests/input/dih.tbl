@@ -1,3 +1,7 @@
+! action: commented out dihedral constraints with point atoms configuration [C3', C4', O4', C1']
+! reason: nmrfxstructure puts distance constraints to close up the pentose ring at O4'. Thus, NU4 
+! dihedral constraints for these point atoms are invalid in nmrfxstructure.
+
  ASSIGN  (segid "   A" and resid 1    and name C4' ) (segid "   A" and resid 1    and name O4' )
          (segid "   A" and resid 1    and name C1' ) (segid "   A" and resid 1    and name C2' )  1.00   3.00 22.00 2
 
@@ -166,47 +170,47 @@
  ASSIGN  (segid "   A" and resid 14   and name C2' ) (segid "   A" and resid 14   and name C3' )
          (segid "   A" and resid 14   and name C4' ) (segid "   A" and resid 14   and name O4' )  1.00 -35.00 15.00 2
 
- ASSIGN  (segid "   A" and resid 1    and name C3' ) (segid "   A" and resid 1    and name C4' )
-         (segid "   A" and resid 1    and name O4' ) (segid "   A" and resid 1    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 1    and name C3' ) (segid "   A" and resid 1    and name C4' )
+!         (segid "   A" and resid 1    and name O4' ) (segid "   A" and resid 1    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 2    and name C3' ) (segid "   A" and resid 2    and name C4' )
-         (segid "   A" and resid 2    and name O4' ) (segid "   A" and resid 2    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 2    and name C3' ) (segid "   A" and resid 2    and name C4' )
+!         (segid "   A" and resid 2    and name O4' ) (segid "   A" and resid 2    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 3    and name C3' ) (segid "   A" and resid 3    and name C4' )
-         (segid "   A" and resid 3    and name O4' ) (segid "   A" and resid 3    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 3    and name C3' ) (segid "   A" and resid 3    and name C4' )
+!         (segid "   A" and resid 3    and name O4' ) (segid "   A" and resid 3    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 4    and name C3' ) (segid "   A" and resid 4    and name C4' )
-         (segid "   A" and resid 4    and name O4' ) (segid "   A" and resid 4    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 4    and name C3' ) (segid "   A" and resid 4    and name C4' )
+!         (segid "   A" and resid 4    and name O4' ) (segid "   A" and resid 4    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 5    and name C3' ) (segid "   A" and resid 5    and name C4' )
-         (segid "   A" and resid 5    and name O4' ) (segid "   A" and resid 5    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 5    and name C3' ) (segid "   A" and resid 5    and name C4' )
+!         (segid "   A" and resid 5    and name O4' ) (segid "   A" and resid 5    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 6    and name C3' ) (segid "   A" and resid 6    and name C4' )
-         (segid "   A" and resid 6    and name O4' ) (segid "   A" and resid 6    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 6    and name C3' ) (segid "   A" and resid 6    and name C4' )
+!         (segid "   A" and resid 6    and name O4' ) (segid "   A" and resid 6    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 7    and name C3' ) (segid "   A" and resid 7    and name C4' )
-         (segid "   A" and resid 7    and name O4' ) (segid "   A" and resid 7    and name C1' )  1.00  -2.00 25.00 2
+! ASSIGN  (segid "   A" and resid 7    and name C3' ) (segid "   A" and resid 7    and name C4' )
+!         (segid "   A" and resid 7    and name O4' ) (segid "   A" and resid 7    and name C1' )  1.00  -2.00 25.00 2
 
- ASSIGN  (segid "   A" and resid 8    and name C3' ) (segid "   A" and resid 8    and name C4' )
-         (segid "   A" and resid 8    and name O4' ) (segid "   A" and resid 8    and name C1' )  1.00  -2.00 25.00 2
+! ASSIGN  (segid "   A" and resid 8    and name C3' ) (segid "   A" and resid 8    and name C4' )
+!         (segid "   A" and resid 8    and name O4' ) (segid "   A" and resid 8    and name C1' )  1.00  -2.00 25.00 2
 
- ASSIGN  (segid "   A" and resid 9    and name C3' ) (segid "   A" and resid 9    and name C4' )
-         (segid "   A" and resid 9    and name O4' ) (segid "   A" and resid 9    and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 9    and name C3' ) (segid "   A" and resid 9    and name C4' )
+!         (segid "   A" and resid 9    and name O4' ) (segid "   A" and resid 9    and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 10   and name C3' ) (segid "   A" and resid 10   and name C4' )
-         (segid "   A" and resid 10   and name O4' ) (segid "   A" and resid 10   and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 10   and name C3' ) (segid "   A" and resid 10   and name C4' )
+!         (segid "   A" and resid 10   and name O4' ) (segid "   A" and resid 10   and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 11   and name C3' ) (segid "   A" and resid 11   and name C4' )
-         (segid "   A" and resid 11   and name O4' ) (segid "   A" and resid 11   and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 11   and name C3' ) (segid "   A" and resid 11   and name C4' )
+!         (segid "   A" and resid 11   and name O4' ) (segid "   A" and resid 11   and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 12   and name C3' ) (segid "   A" and resid 12   and name C4' )
-         (segid "   A" and resid 12   and name O4' ) (segid "   A" and resid 12   and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 12   and name C3' ) (segid "   A" and resid 12   and name C4' )
+!         (segid "   A" and resid 12   and name O4' ) (segid "   A" and resid 12   and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 13   and name C3' ) (segid "   A" and resid 13   and name C4' )
-         (segid "   A" and resid 13   and name O4' ) (segid "   A" and resid 13   and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 13   and name C3' ) (segid "   A" and resid 13   and name C4' )
+!         (segid "   A" and resid 13   and name O4' ) (segid "   A" and resid 13   and name C1' )  1.00  20.00 23.00 2
 
- ASSIGN  (segid "   A" and resid 14   and name C3' ) (segid "   A" and resid 14   and name C4' )
-         (segid "   A" and resid 14   and name O4' ) (segid "   A" and resid 14   and name C1' )  1.00  20.00 23.00 2
+! ASSIGN  (segid "   A" and resid 14   and name C3' ) (segid "   A" and resid 14   and name C4' )
+!         (segid "   A" and resid 14   and name O4' ) (segid "   A" and resid 14   and name C1' )  1.00  20.00 23.00 2
 
  ASSIGN  (segid "   A" and resid 2    and name H1' ) (segid "   A" and resid 2    and name C1' )
          (segid "   A" and resid 2    and name C2' ) (segid "   A" and resid 2    and name H2' )  1.00  80.40 25.00 2

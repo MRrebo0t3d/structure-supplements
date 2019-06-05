@@ -5,5 +5,4 @@ nav:
     - Commands: nmrfxstructure.md
     - Utilities: utilities.md
     - Refine : refine.md
-    - Testing: docs.md
 theme: readthedocs

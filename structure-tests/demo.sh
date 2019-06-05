@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Run this program from the following directory: ${HOME}/structure-supplements/structure-tests
-
 # This script serves as a demo script for new users with
 # machines that run BASH. The purpose of this script is to 
 # run all tests we've been using to replenish nmrfxstructure.

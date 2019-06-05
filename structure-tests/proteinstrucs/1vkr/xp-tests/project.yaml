@@ -8,7 +8,10 @@ angles :
 
 distances :
     - 
-      file : input/dis.tbl
+      file : input/dis1.tbl
+      type : xplor
+    - 
+      file : input/dis2.tbl
       type : xplor
     -  
       file : input/hydcon.tbl

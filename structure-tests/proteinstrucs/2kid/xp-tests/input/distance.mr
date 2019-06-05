@@ -1,0 +1,26 @@
+!assign (resid 47  and (name (OE1 or OE2)))                (resid 700 and name CA)       2.00 0.20 0.80 !    
+!assign (resid 50  and (name (OE1 or OE2)))                (resid 700 and name CA)       2.00 0.20 0.80 !    
+!assign (resid 113 and (name (OE1 or OE2)))                (resid 700 and name CA)       2.00 0.20 0.80 !
+
+
+!D54A mutant has Cal-dose dependent activity (same as wt) 
+!assign (resid 54  and (name OD1))                (resid 700 and name CA)        2.00 0.20 0.80 !    
+
+
+assign ((residue 47 and name OE1) or 
+ (residue 47 and name OE2))
+ ((residue 700 and name CA)) 2.00 0.20 0.80 !
+
+
+assign ((residue 50 and name OE1) or 
+ (residue 50 and name OE2))
+ ((residue 700 and name CA)) 2.00 0.20 0.80 !
+ 
+assign ((residue 113 and name OE1) or 
+ (residue 113 and name OE2))
+ ((residue 700 and name CA)) 2.00 0.20 0.80 ! 
+!HBONDS THAT WERE FOUND IN Structures 70% or  more
+!3.3 / 90 degrees
+!
+!
+

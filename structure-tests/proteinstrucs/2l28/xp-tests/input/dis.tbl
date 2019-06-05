@@ -1588,10 +1588,10 @@
    (  segid "   A" and resid 83   and name  HE# )
       3.500     3.500     0.000
 
- assi 
-   (( segid "   A" and resid 110  and name  HA  ))
-   (  segid "   A" and resid 1    and name  HT# )
-      4.500     4.500     0.000
+! assi 
+!   (( segid "   A" and resid 110  and name  HA  ))
+!   (  segid "   A" and resid 1    and name  HT# )
+!      4.500     4.500     0.000
 
  assi 
    (  segid "   A" and resid 110  and name  HG1#)
@@ -1618,20 +1618,20 @@
    (  segid "   A" and resid 3    and name  HB# )
       4.500     4.500     0.000
 
- assi 
-   (  segid "   A" and resid 111  and name  HB# )
-   (  segid "   A" and resid 1    and name  HT# )
-      4.500     4.500     0.000
+! assi 
+!   (  segid "   A" and resid 111  and name  HB# )
+!   (  segid "   A" and resid 1    and name  HT# )
+!      4.500     4.500     0.000
 
- assi 
-   (( segid "   A" and resid 111  and name  HA  ))
-   (  segid "   A" and resid 1    and name  HT# )
-      3.700     3.700     0.000
+! assi 
+!   (( segid "   A" and resid 111  and name  HA  ))
+!   (  segid "   A" and resid 1    and name  HT# )
+!      3.700     3.700     0.000
 
- assi 
-   (  segid "   A" and resid 112  and name  HG2#)
-   (  segid "   A" and resid 1    and name  HT# )
-      4.700     4.700     0.000
+! assi 
+!   (  segid "   A" and resid 112  and name  HG2#)
+!   (  segid "   A" and resid 1    and name  HT# )
+!      4.700     4.700     0.000
 
  assi 
    (( segid "   A" and resid 112  and name  HB  ))
@@ -5574,10 +5574,10 @@
    (( segid "   A" and resid 162  and name  HN  ))
       2.500     2.500     0.000
 
- assi 
-   (( segid "   A" and resid 2    and name  HN  ))
-   (  segid "   A" and resid 1    and name  HT# )
-      3.500     3.500     0.000
+! assi 
+!   (( segid "   A" and resid 2    and name  HN  ))
+!   (  segid "   A" and resid 1    and name  HT# )
+!      3.500     3.500     0.000
 
  assi 
    (( segid "   A" and resid 4    and name  HN  ))
@@ -8443,25 +8443,25 @@
    (  segid "   A" and resid 161  and name  HB# )
       3.500     3.500     0.000
 
- assi 
-   (( segid "   A" and resid 1    and name  HA  ))
-   (  segid "   A" and resid 1    and name  HT# )
-      3.500     3.500     0.000
+! assi 
+!   (( segid "   A" and resid 1    and name  HA  ))
+!   (  segid "   A" and resid 1    and name  HT# )
+!      3.500     3.500     0.000
 
- assi 
-   (( segid "   A" and resid 1    and name  HB  ))
-   (  segid "   A" and resid 1    and name  HT# )
-      3.500     3.500     0.000
-
- assi 
-   (  segid "   A" and resid 1    and name  HG2#)
-   (( segid "   A" and resid 1    and name  HB  ))
-      3.500     3.500     0.000
+! assi 
+!   (( segid "   A" and resid 1    and name  HB  ))
+!   (  segid "   A" and resid 1    and name  HT# )
+!      3.500     3.500     0.000
 
  assi 
    (  segid "   A" and resid 1    and name  HG2#)
-   (  segid "   A" and resid 1    and name  HT# )
-      4.500     4.500     0.000
+   (( segid "   A" and resid 1    and name  HB  ))
+      3.500     3.500     0.000
+
+! assi 
+!   (  segid "   A" and resid 1    and name  HG2#)
+!   (  segid "   A" and resid 1    and name  HT# )
+!      4.500     4.500     0.000
 
  assi 
    (( segid "   A" and resid 3    and name  HA  ))

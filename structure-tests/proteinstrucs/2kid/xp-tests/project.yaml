@@ -3,19 +3,27 @@ molecule :
     type : nv
 
 angles : 
-    - file : input/dih.tbl
+    - file : input/angle.mr
       type : xplor
 
 distances :
+#    - 
+#      file : input/distance.mr
+#      type : xplor
+#    - 
+#      file : input/dis1.tbl
+#      type : xplor
     - 
-      file : input/dis.tbl
+      file : input/noeambi_distance.mr
       type : xplor
     -  
-      file : restaints/hydcon.tbl
+      file : input/hyd.mr
       type : xplor
 
 anneal:
-    steps : 15000
-    highTemp : 5000.0
-    irpWeight : 0.0
-    swap : 20
+    dynOptions :
+        steps : 15000
+        highTemp : 5000.0
+    param :
+        swap : 20
+

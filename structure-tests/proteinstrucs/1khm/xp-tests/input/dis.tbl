@@ -5115,7 +5115,7 @@
    (  segid "   A" and resid 42   and name  HG# )
    (( segid "   A" and resid 42   and name  HN  ))
 
-      3.300     3.400     0.800
+      3.400     3.400     0.800
  assi 
    (  segid "   A" and resid 43   and name  HB# )
    (( segid "   A" and resid 43   and name  HN  ))
