@@ -1,0 +1,23 @@
+molecule :
+    file : input/2koc.seq
+    ptype : rna
+    type : nv
+
+rna : 
+    ribose : Constrain
+
+distances :
+    - file : input/distances
+      type : cyana
+
+angles :
+    - file : input/dihedrals.aco
+      type : cyana
+
+anneal:
+    dynOptions :
+        steps : 15000
+        highTemp : 5000.0
+    param :
+        swap : 20
+

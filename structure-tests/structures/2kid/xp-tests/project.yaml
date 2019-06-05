@@ -1,0 +1,47 @@
+molecule :
+  entities : 
+      - file : input/protein.seq
+        type : nv
+        ptype : 'protein'
+
+      - file : input/small.seq
+        type : nv
+        ptype : 'protein'
+
+  link :
+       atoms : 
+             - protein:126.SG
+             - small:705.SG
+       bond  :
+             length : 2.022
+
+  reslib : input/res
+
+tree:
+
+distances :
+# Constraints with calcium ion
+#    - 
+#      file : input/distance.mr
+#      type : xplor
+
+    - file : input/noe.mr
+      type : xplor 
+
+    - file : input/noeambi_distance.mr
+      type : xplor
+
+    - file : input/hyd.mr
+      type : xplor
+
+angles : 
+    - file : input/angle.mr
+      type : xplor
+
+anneal:
+    dynOptions :
+        steps : 15000
+        highTemp : 5000.0
+    param :
+        swap : 20
+

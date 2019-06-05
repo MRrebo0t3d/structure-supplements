@@ -1,0 +1,39 @@
+molecule :
+  entities:
+    - file : input/A.seq
+      type : nv
+      ptype : 'protein'
+      chain : 'A'
+
+    - file : input/B.seq
+      type : nv
+      ptype : 'protein'
+
+  link:    
+    atoms :
+      - A:89.HD23
+      - B:1.N
+
+tree :
+
+angles : 
+    - file : input/dih.tbl
+      type : xplor
+
+distances :
+    - 
+      #file : input/noe_dis.mr
+      file : input/dis.tbl
+      type : xplor
+    -  
+      #file : input/hyd.mr
+      file : input/hydcon.tbl
+      type : xplor
+
+anneal:
+    dynOptions :
+        steps : 15000
+        highTemp : 5000.0
+    param :
+        swap : 20
+

@@ -1,0 +1,3 @@
+Note, some constraints between the RNA molecule and the ligand have been
+removed as they could not be properly resolved. To use the original file
+and more constraints they must be redownloaded from the original data.

@@ -1,0 +1,10 @@
+  7 LEU  QD2    34 ALA  H       1.80
+  7 LEU  QD1    15 GLU  QG      1.80
+ 21 VAL  H      21 VAL  QG2     1.80
+ 21 VAL  HA     21 VAL  QG1     1.80
+  7 LEU  QD2     8 ASN  HA      1.80
+  7 LEU  QD2     5 LEU  QB      1.80
+ 22 ASP  OD1    25 THR  N       2.50
+ 22 ASP  OD1    25 THR  H       1.50
+ 46 ASP  OD1    48 ALA  H       1.50
+ 46 ASP  OD1    48 ALA  N       2.50

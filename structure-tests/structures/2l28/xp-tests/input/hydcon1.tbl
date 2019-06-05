@@ -1,0 +1,28 @@
+ assi 
+   (( segid "   A" and resid 153  and name  HD1 ))
+   (( segid "   A" and resid 25   and name  OD2 ))
+      2.500     1.000     0.500
+ or   
+   (( segid "   A" and resid 153  and name  HE2 ))
+   (( segid "   A" and resid 25   and name  OD2 ))
+ or   
+   (( segid "   A" and resid 153  and name  HE2 ))
+   (( segid "   A" and resid 25   and name  OD1 ))
+ or   
+   (( segid "   A" and resid 153  and name  HD1 ))
+   (( segid "   A" and resid 25   and name  OD1 ))
+
+ assi 
+   (( segid "   A" and resid 153  and name  NE2 ))
+   (( segid "   A" and resid 25   and name  OD2 ))
+      3.500     1.000     0.500
+ or   
+   (( segid "   A" and resid 153  and name  NE2 ))
+   (( segid "   A" and resid 25   and name  OD1 ))
+ or   
+   (( segid "   A" and resid 153  and name  ND1 ))
+   (( segid "   A" and resid 25   and name  OD1 ))
+ or   
+   (( segid "   A" and resid 153  and name  ND1 ))
+   (( segid "   A" and resid 25   and name  OD2 ))
+

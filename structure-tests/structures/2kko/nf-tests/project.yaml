@@ -1,0 +1,17 @@
+nef : input/2kko.nef
+
+
+link :
+  atoms :
+    - A:108.HE2
+    - B:1.N
+  n : 10
+
+tree :
+
+anneal :
+    dynOptions :
+        steps : 15000
+        highTemp : 5000.0
+    param :
+        swap : 20

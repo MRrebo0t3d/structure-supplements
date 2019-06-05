@@ -1,0 +1,24 @@
+ assi 
+   (( segid "   A" and resid 105  and name  OE2 ))
+   (  segid "   C" and resid 700  )
+      2.000     0.200     0.800
+ or   
+   (( segid "   A" and resid 105  and name  OE1 ))
+   (  segid "   C" and resid 700  )
+
+ assi 
+   (( segid "   A" and resid 108  and name  OE2 ))
+   (  segid "   C" and resid 700  )
+      2.000     0.200     0.800
+ or   
+   (( segid "   A" and resid 108  and name  OE1 ))
+   (  segid "   C" and resid 700  )
+
+ assi 
+   (( segid "   A" and resid 171  and name  OE2 ))
+   (  segid "   C" and resid 700  )
+      2.000     0.200     0.800
+ or   
+   (( segid "   A" and resid 171  and name  OE1 ))
+   (  segid "   C" and resid 700  )
+

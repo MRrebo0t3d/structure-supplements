@@ -1,0 +1,70 @@
+ assi 
+   (( segid "   A" and resid 1    and name  H8  ))
+   (( segid "   A" and resid 1    and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 2    and name  H8  ))
+   (( segid "   A" and resid 2    and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 3    and name  H8  ))
+   (( segid "   A" and resid 3    and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 4    and name  H6  ))
+   (( segid "   A" and resid 4    and name  H3' ))
+      3.000     0.600     0.600
+
+ assi 
+   (( segid "   A" and resid 10   and name  H6  ))
+   (( segid "   A" and resid 10   and name  H3' ))
+      3.000     0.600     0.600
+
+ assi 
+   (( segid "   A" and resid 14   and name  H8  ))
+   (( segid "   A" and resid 14   and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 15   and name  H8  ))
+   (( segid "   A" and resid 15   and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 16   and name  H8  ))
+   (( segid "   A" and resid 16   and name  H3' ))
+      2.400     0.600     0.600
+
+ assi 
+   (( segid "   A" and resid 20   and name  H8  ))
+   (( segid "   A" and resid 20   and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 22   and name  H8  ))
+   (( segid "   A" and resid 22   and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 23   and name  H8  ))
+   (( segid "   A" and resid 23   and name  H3' ))
+      2.800     1.000     1.000
+
+ assi 
+   (( segid "   A" and resid 24   and name  H6  ))
+   (( segid "   A" and resid 24   and name  H3' ))
+      3.000     0.600     0.600
+
+ assi 
+   (( segid "   A" and resid 25   and name  H6  ))
+   (( segid "   A" and resid 25   and name  H3' ))
+      3.000     0.600     0.600
+
+ assi 
+   (( segid "   A" and resid 26   and name  H6  ))
+   (( segid "   A" and resid 26   and name  H3' ))
+      3.000     0.600     0.600
+

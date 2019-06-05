@@ -1,0 +1,235 @@
+ assi 
+   (  segid "   A" and resid 92   and name  HB# )
+   (  segid "   B" and resid 703  and name  HB# )
+      2.000     0.200     1.200
+
+ assi 
+   (  segid "   A" and resid 92   and name  HB# )
+   (( segid "   B" and resid 703  and name  HA  ))
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 92   and name  HB# )
+   (  segid "   B" and resid 704  and name  HB# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 97   and name  HD2#)
+   (  segid "   B" and resid 704  and name  HB# )
+      2.000     0.200     1.200
+ or   
+   (  segid "   A" and resid 97   and name  HD1#)
+   (  segid "   B" and resid 704  and name  HB# )
+
+ assi 
+   (  segid "   A" and resid 97   and name  HD2#)
+   (( segid "   B" and resid 704  and name  HA  ))
+      2.000     0.200     1.800
+ or   
+   (  segid "   A" and resid 97   and name  HD1#)
+   (( segid "   B" and resid 704  and name  HA  ))
+
+ assi 
+   (  segid "   A" and resid 97   and name  HD2#)
+   (( segid "   B" and resid 704  and name  HN  ))
+      2.000     0.200     2.000
+ or   
+   (  segid "   A" and resid 97   and name  HD1#)
+   (( segid "   B" and resid 704  and name  HN  ))
+
+ assi 
+   (( segid "   A" and resid 104  and name  HA  ))
+   (  segid "   B" and resid 703  and name  HB# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 104  and name  HB# )
+   (  segid "   B" and resid 703  and name  HB# )
+      2.000     0.200     3.500
+
+ assi 
+   (  segid "   A" and resid 104  and name  HB# )
+   (  segid "   B" and resid 703  and name  HD# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 118  and name  HB# )
+   (  segid "   B" and resid 703  and name  HG# )
+      2.000     0.200     1.200
+
+ assi 
+   (  segid "   A" and resid 118  and name  HB# )
+   (  segid "   B" and resid 703  and name  HB# )
+      2.000     0.200     3.500
+
+ assi 
+   (( segid "   A" and resid 163  and name  HA  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     1.200
+
+ assi 
+   (( segid "   A" and resid 163  and name  HA  ))
+   (  segid "   B" and resid 702  and name  HB# )
+      2.000     0.200     3.000
+
+ assi 
+   (( segid "   A" and resid 163  and name  HA  ))
+   (( segid "   B" and resid 702  and name  HG  ))
+      2.000     0.200     3.000
+
+ assi 
+   (  segid "   A" and resid 163  and name  HB# )
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     3.500
+
+ assi 
+   (( segid "   A" and resid 165  and name  HN  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     1.400
+
+ assi 
+   (( segid "   A" and resid 165  and name  HN  ))
+   (( segid "   B" and resid 702  and name  HG  ))
+      2.000     0.200     1.300
+
+ assi 
+   (( segid "   A" and resid 166  and name  HA  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     1.200
+
+ assi 
+   (( segid "   A" and resid 166  and name  HA  ))
+   (  segid "   B" and resid 702  and name  HB# )
+      2.000     0.200     1.300
+
+ assi 
+   (( segid "   A" and resid 166  and name  HA  ))
+   (( segid "   B" and resid 702  and name  HG  ))
+      2.000     0.200     0.700
+
+ assi 
+   (( segid "   A" and resid 166  and name  HN  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     3.000
+
+ assi 
+   (( segid "   A" and resid 166  and name  HN  ))
+   (( segid "   B" and resid 702  and name  HG  ))
+      2.000     0.200     1.500
+
+ assi 
+   (( segid "   A" and resid 167  and name  HN  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     3.000
+
+ assi 
+   (( segid "   A" and resid 168  and name  HB  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 168  and name  HG1#)
+   (( segid "   B" and resid 702  and name  HG  ))
+      2.000     0.200     1.200
+ or   
+   (  segid "   A" and resid 168  and name  HG2#)
+   (( segid "   B" and resid 702  and name  HG  ))
+
+ assi 
+   (  segid "   A" and resid 168  and name  HG1#)
+   (  segid "   B" and resid 702  and name  HB# )
+      2.000     0.200     3.500
+ or   
+   (  segid "   A" and resid 168  and name  HG2#)
+   (  segid "   B" and resid 702  and name  HB# )
+
+ assi 
+   (  segid "   A" and resid 168  and name  HG2#)
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     1.300
+ or   
+   (  segid "   A" and resid 168  and name  HG1#)
+   (  segid "   B" and resid 702  and name  HD# )
+
+ assi 
+   (  segid "   A" and resid 168  and name  HG2#)
+   (  segid "   B" and resid 703  and name  HD# )
+      2.000     0.200     3.500
+ or   
+   (  segid "   A" and resid 168  and name  HG1#)
+   (  segid "   B" and resid 703  and name  HD# )
+
+ assi 
+   (  segid "   A" and resid 169  and name  HD2#)
+   (  segid "   B" and resid 703  and name  HD# )
+      2.000     0.200     1.300
+ or   
+   (  segid "   A" and resid 169  and name  HD1#)
+   (  segid "   B" and resid 703  and name  HD# )
+
+ assi 
+   (  segid "   A" and resid 169  and name  HD2#)
+   (( segid "   B" and resid 702  and name  HA  ))
+      2.000     0.200     1.300
+ or   
+   (  segid "   A" and resid 169  and name  HD1#)
+   (( segid "   B" and resid 702  and name  HA  ))
+
+ assi 
+   (  segid "   A" and resid 169  and name  HD2#)
+   (  segid "   B" and resid 703  and name  HG# )
+      2.000     0.200     1.200
+ or   
+   (  segid "   A" and resid 169  and name  HD1#)
+   (  segid "   B" and resid 703  and name  HG# )
+
+ assi 
+   (  segid "   A" and resid 182  and name  HD1#)
+   (( segid "   B" and resid 702  and name  HA  ))
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 182  and name  HD1#)
+   (  segid "   B" and resid 703  and name  HD# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 182  and name  HD1#)
+   (  segid "   B" and resid 703  and name  HG# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 182  and name  HG2#)
+   (  segid "   B" and resid 703  and name  HD# )
+      2.000     0.200     1.800
+
+ assi 
+   (  segid "   A" and resid 182  and name  HG2#)
+   (  segid "   B" and resid 703  and name  HG# )
+      2.000     0.200     1.200
+
+ assi 
+   (( segid "   A" and resid 194  and name  HE1 ))
+   (( segid "   B" and resid 705  and name  HA  ))
+      3.000     0.200     2.500
+
+ assi 
+   (( segid "   A" and resid 194  and name  HE1 ))
+   (( segid "   B" and resid 705  and name  HB  ))
+      3.000     0.200     1.500
+
+ assi 
+   (( segid "   A" and resid 197  and name  HE  ))
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     1.500
+
+ assi 
+   (( segid "   A" and resid 197  and name  HE  ))
+   (( segid "   B" and resid 702  and name  HG  ))
+      2.000     0.200     3.500
+
+ assi 
+   (  segid "   A" and resid 197  and name  HD# )
+   (  segid "   B" and resid 702  and name  HD# )
+      2.000     0.200     3.000
+

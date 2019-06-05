@@ -1,0 +1,32 @@
+molecule :
+    file : input/2koc.seq
+    ptype : rna
+    type : nv
+    chain : 'A'
+
+rna : 
+    ribose : Constrain
+
+angles : 
+    - file : input/dih.tbl
+      type : xplor
+
+distances :
+    - file : input/dis1.tbl
+      type : xplor
+# removed because H2'' in dis2.tbl is not a valid
+# atom distance constraint. 
+# H2'' can be a valid entry in DNA where deoxyribose
+# contains 2 hydrogens on the C2' in the pentose sugar ring
+    - file : input/dis2.tbl
+      type : xplor
+    - file : input/hydcon.tbl
+      type : xplor
+
+anneal:
+    dynOptions :
+        steps : 15000
+        highTemp : 5000.0
+    param :
+        swap : 20
+
